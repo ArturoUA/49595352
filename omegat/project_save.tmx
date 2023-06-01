@@ -14,10 +14,34 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Heute ist der beste Tag der Welt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T181132Z" creationid="alumno" creationdate="20230601T181132Z">
+        <seg>Hoy es el mejor dia del mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Hier kommt der erste Teil der Geschichte.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T180623Z" creationid="alumno" creationdate="20230601T180623Z">
         <seg>Aquí viene la primera parte de la historia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Noch besser als Weihnachten und Geburtstag oder eigentlich sogar beides zusammen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T181244Z" creationid="alumno" creationdate="20230601T181244Z">
+        <seg>Aun mejor que las Navidades, tu cumpleaños o incluso los dos juntos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Weil ratet mal, was passiert ist?</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T181340Z" creationid="alumno" creationdate="20230601T181340Z">
+        <seg>Porque ¿adivinad que pasó?</seg>
       </tuv>
     </tu>
     <tu>
