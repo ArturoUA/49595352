@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="de">
+        <seg>Als wir in die Küche gekommen sind, haben Mama und Papa am Tisch gesessen und haben so komisch gelächelt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T183747Z" creationid="alumno" creationdate="20230601T183747Z">
+        <seg>Pero cuando llegamos a la cocina, estaban sentados mamá y papá en la mesa y se reian un poco raro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Also Flo glaubt, dass das der Engel macht, weil sie Engel so gern mag.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T182230Z" creationid="alumno" creationdate="20230601T182230Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183537Z" creationid="alumno" creationdate="20230601T183537Z">
         <seg>Y Flo y yo no gritamos nada mas que ¡ahora mamá! y no terminamos primero de construir, sino que salimos pitando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Und dann hat Papa zu Mama gesagt: „Ich oder du?“ Und Mama hat noch mehr gelächelt und geantwortet: „Du, Liebster.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T183932Z" creationid="alumno" creationdate="20230601T183932Z">
+        <seg>Y entonces le dicho papá a mamá: ¿tu o yo? y mamá dejó de reirse y contestó: tú, cariño.</seg>
       </tuv>
     </tu>
     <tu>
