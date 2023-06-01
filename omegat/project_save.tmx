@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Also einen kleinen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T204246Z" creationid="Ramon" creationdate="20230601T204246Z">
+        <seg>Uno pequeño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Also nicht gruselig geheimnisvoll, sondern schön geheimnisvoll, so wie Bescherung an Weihnachten, wo man ja auch nicht gucken und erst aus dem Zimmer kommen darf, wenn der Engel mit der Glocke läutet.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T182137Z" creationid="alumno" creationdate="20230601T182137Z">
@@ -64,8 +72,8 @@
       <tuv lang="de">
         <seg>Der hat sich ganz umständlich geräuspert und dann hat er Mamas Hand genommen und auf einmal hatte er irgendwie feuchte Augen.</seg>
       </tuv>
-      <tuv lang="es" changeid="alumno" changedate="20230601T184738Z" creationid="alumno" creationdate="20230601T184654Z">
-        <seg>.</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T203040Z" creationid="alumno" creationdate="20230601T184654Z">
+        <seg>Él se aclaró la garganta y entonces cogió la mano de mamá y de repente tenia húmedos los ojos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Und da habe ich gesehen, dass Mama die Augen aufgerissen und Papa einen Vogel gezeigt hat.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T204217Z" creationid="Ramon" creationdate="20230601T204217Z">
+        <seg>Y entonces vi como mamá abrió mucho los ojos y papá enseñó un pájaro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Und da war ich mir ganz sicher, dass irgendwas nicht stimmt.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T184118Z" creationid="alumno" creationdate="20230601T184118Z">
@@ -186,6 +202,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183932Z" creationid="alumno" creationdate="20230601T183932Z">
         <seg>Y entonces le dicho papá a mamá: ¿tu o yo? y mamá dejó de reirse y contestó: tú, cariño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Und dann ist sie mir um den Hals gefallen und hat so wild mit den Beinen gestrampelt, dass ich fast umgeplumpst wäre.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T203652Z" creationid="Ramon" creationdate="20230601T203652Z">
+        <seg>Y entonces me agarró del cuello y pateó tan fuerte con las piernas, que casi me hubiese caído.</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,10 +278,42 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Ein Husky?</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T204511Z" creationid="Ramon" creationdate="20230601T204511Z">
+        <seg>¿Un husky?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Ein Pony!!“, hat Flo geschrien.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T203249Z" creationid="Ramon" creationdate="20230601T203249Z">
+        <seg>-¡¡Un poni!! gritó Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Flo, Mimi, kommt ihr mal bitte?</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183142Z" creationid="alumno" creationdate="20230601T183142Z">
         <seg>-Flo, Mimi ¿Podéis venir un momento?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Mama und ich haben eine Überraschung für euch“, hat er schließlich gesagt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T203123Z" creationid="Ramon" creationdate="20230601T203123Z">
+        <seg>-Mamá y yo tenemos una sorpesa para vosotros, dijo al final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Mimi, wir kriegen ein lebendes Pony!!!“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T203351Z" creationid="Ramon" creationdate="20230601T203351Z">
+        <seg>-¡¡¡Mimi, vamos a conseguir un poni de verdad!!!</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,10 +326,34 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Unsere Überraschung ist kein lebendes Pony!“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T204442Z" creationid="Ramon" creationdate="20230601T204442Z">
+        <seg>¡Nuestra sorpresa no es un poni de verdad!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Wir wissen ja, was ihr euch am allermeisten auf der ganzen Welt wünscht.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T203209Z" creationid="Ramon" creationdate="20230601T203209Z">
+        <seg>Ya sabemos lo que más deseais en todo el mundo.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Wollen wir heute selber Shampoo machen?“</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T183739Z" creationid="Arturo" creationdate="20230601T183739Z">
         <seg>"¿Quieres que hoy hagamos champú nosotras mismas?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Äääähhh, nein“, hat Papa schnell gerufen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T204329Z" creationid="Ramon" creationdate="20230601T204329Z">
+        <seg>Eeeehh no, gritó rápidamente papá.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
