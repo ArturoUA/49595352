@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Doch Flo und ich sind uns ganz sicher.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T211340Z" creationid="Ramon" creationdate="20230601T211340Z">
+        <seg>Pero Flo y yo lo tenemos muy claro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Doch in Wahrheit macht der Weihnachtsmann das natürlich selber, weil das ja eine richtig wichtige Aufgabe ist.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T182426Z" creationid="alumno" creationdate="20230601T182426Z">
@@ -310,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Weil wir sind ja schon zwei Mädchen, und nach zwei Mädchen kommt ein Junge, sonst wäre es ja gar nicht gerecht.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T211433Z" creationid="Ramon" creationdate="20230601T211357Z">
+        <seg>Porque ya somos dos niñas, despues de dos niñas viene un niño, sino no seria justo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Weil zum Glück macht sie das nur ganz selten, ich finde das nämlich peinlich.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T184200Z" creationid="alumno" creationdate="20230601T184200Z">
@@ -438,10 +454,26 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Wir wissen aber nicht, ob das ein Junge wird“, hat Papa gesagt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T211405Z" creationid="Ramon" creationdate="20230601T211252Z">
+        <seg>Aun no sabemos si es un niño, dijo papá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Wir wissen ja, was ihr euch am allermeisten auf der ganzen Welt wünscht.“</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T203209Z" creationid="Ramon" creationdate="20230601T203209Z">
         <seg>Ya sabemos lo que más deseais en todo el mundo.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Wir wollen uns überraschen lassen.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T211322Z" creationid="Ramon" creationdate="20230601T211322Z">
+        <seg>Nos queremos dejar sorprender.</seg>
       </tuv>
     </tu>
     <tu>
