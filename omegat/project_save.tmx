@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="de">
+        <seg>Aber dann nehmen wir einen ganz kleinen ohne Zähne, weil sonst beißt der vielleicht Kalle!“, hat Flo gesagt und die Stirn gerunzelt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T204838Z" creationid="Ramon" creationdate="20230601T204838Z">
+        <seg>Pero entonces cojemos uno pequeñito sin dientes ¡porque sino quizá muerda a Kalle! dijo Flo con el ceño fruncido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Aber sie machen das trotzdem, obwohl Flo und ich ihnen extra gesagt haben, dass wir das blöd finden und dass andere Eltern das NIE machen.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T184348Z" creationid="alumno" creationdate="20230601T184348Z">
@@ -102,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Einmal haben Flo und ich dafür ein Kalb aus dem Stall von Onkel Jussi genommen, aber das habe ich ja schon erzählt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T205156Z" creationid="Ramon" creationdate="20230601T205156Z">
+        <seg>Una vez Flo y yo cogimos un ternero de la granja del tío Jussi, pero eso ya os lo conté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Flo ist meine kleine Schwester, sie geht noch in den Kindergarten.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T182309Z" creationid="alumno" creationdate="20230601T182309Z">
@@ -122,6 +138,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T180623Z" creationid="alumno" creationdate="20230601T180623Z">
         <seg>Aquí viene la primera parte de la historia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Huskys sind Hunde, die richtig gut Schlitten ziehen können.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T204915Z" creationid="Ramon" creationdate="20230601T204915Z">
+        <seg>Huskys son perros que pueden tirar muy bien de trineos.</seg>
       </tuv>
     </tu>
     <tu>
