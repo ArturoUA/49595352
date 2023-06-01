@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Da hat Mama sich nach vorne gelehnt und mit der einen Hand hat sie meine genommen und mit der anderen Flos.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T210727Z" creationid="Ramon" creationdate="20230601T210727Z">
+        <seg>Entonces mamá se inclinó hacia delante y con su mano cogió la mia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Darauf kommt ihr nie im Leben!</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T181519Z" creationid="alumno" creationdate="20230601T181519Z">
@@ -306,6 +314,14 @@
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T175546Z" creationid="Arturo" creationdate="20230601T175546Z">
         <seg>Imprimir ahora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Auch kein Husky!“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T210437Z" creationid="Ramon" creationdate="20230601T210437Z">
+        <seg>¡Tampoco un husky!“</seg>
       </tuv>
     </tu>
     <tu>
