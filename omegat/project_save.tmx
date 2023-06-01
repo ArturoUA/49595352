@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Man braucht nur zwei Sachen, nämlich Mehl und Wasser.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T233723Z" creationid="Arturo" creationdate="20230601T233723Z">
+        <seg>Sólo se necesitan dos cosas: harina y agua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Mimi, das bin natürlich ich.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183330Z" creationid="alumno" creationdate="20230601T183330Z">
@@ -626,6 +634,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214338Z" creationid="Ramon" creationdate="20230601T214338Z">
         <seg>Algo realmente malo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Weil in der Schule haben wir dafür ein Rezept gekriegt und das ist überhaupt nicht schwierig.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T233651Z" creationid="Arturo" creationdate="20230601T233651Z">
+        <seg>Porque en el colegio nos enseñaron una receta y no es nada difícil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -802,6 +818,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T220159Z" creationid="Ramon" creationdate="20230601T220159Z">
         <seg>Tampoco sé lo que me está pasando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Ihr müsst aber auf jeden Fall Roggenmehl nehmen“, hat der Umweltbeschützer gesagt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T233949Z" creationid="Arturo" creationdate="20230601T233949Z">
+        <seg>"En cualquier caso, deberías usar harina de centeno", nos dijo el ecologista.</seg>
       </tuv>
     </tu>
     <tu>
