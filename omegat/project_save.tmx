@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Danach reden wir ganz lange über Naturschutz, und dann sagt der Mann, wer will, kann bei ihm jetzt für einen Euro eine Müllkralle kaufen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T212505Z" creationid="Ramon" creationdate="20230601T212505Z">
+        <seg>Despues habló todo el tiempo de la protección de la naturaleza y entonces dijo el hombre que, quien quiera, puede comprar por un euro un basurero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Darauf kommt ihr nie im Leben!</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T181519Z" creationid="alumno" creationdate="20230601T181519Z">
@@ -184,8 +192,8 @@
       <tuv lang="de">
         <seg>Er sieht ein bisschen so aus wie Jesus vorne auf meiner Religionsmappe.</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230601T211956Z" creationid="Ramon" creationdate="20230601T211956Z">
-        <seg>Se parece un poco a Jesús en mi m,apa de religión.</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T212141Z" creationid="Ramon" creationdate="20230601T211956Z">
+        <seg>Se parece un poco a Jesús en mi mapa de religión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Und das stimmt natürlich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T212330Z" creationid="Ramon" creationdate="20230601T212330Z">
+        <seg>Y eso es verdad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Und jetzt sitze ich in der Schule und kann an überhaupt nichts anderes mehr denken als an unser Baby.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T211539Z" creationid="Ramon" creationdate="20230601T211539Z">
@@ -414,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Aber je mehr Kinder sich um die Umwelt kümmern, desto besser.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T212319Z" creationid="Ramon" creationdate="20230601T212319Z">
+        <seg>Pero cuantos mas niños se preocupen por el medioambiente, mejor.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Auch kein Husky!“</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T210437Z" creationid="Ramon" creationdate="20230601T210437Z">
@@ -432,8 +456,8 @@
       <tuv lang="de">
         <seg>„Die Erwachsenen verbrauchen viel zu viel Plastik und verschmutzen die Luft“, ruft er gerade.</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230601T212129Z" creationid="Ramon" creationdate="20230601T212129Z">
-        <seg>Los adultos utilizan demasiado plástico y contaminan el aire.</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T212151Z" creationid="Ramon" creationdate="20230601T212129Z">
+        <seg>Los adultos utilizan demasiado plástico y contaminan el aire, esta gritando ahora.</seg>
       </tuv>
     </tu>
     <tu>
