@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Das Shampoo schützt nicht nur die Umwelt, sondern es kostet auch viel weniger als das aus der Drogerie!“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T234128Z" creationid="Arturo" creationdate="20230601T234128Z">
+        <seg>"Este champú no sólo protege el medio ambiente, ¡si no que también cuesta mucho menos que el de la farmacia!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Das heißt, dass wir die ganze Zeit darüber reden, wie man die Umwelt beschützen kann, weil nämlich richtig viele Leute alles verschmutzen, und das ist schlimm, weil dann Tiere sterben, wenn sie zum Beispiel Plastik fressen oder so.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T211739Z" creationid="Ramon" creationdate="20230601T211739Z">
@@ -606,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Und das ist natürlich super.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T234227Z" creationid="Arturo" creationdate="20230601T234227Z">
+        <seg>Y eso obviamente es genial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Und das stimmt natürlich.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T212330Z" creationid="Ramon" creationdate="20230601T212330Z">
@@ -938,6 +954,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T230756Z" creationid="Ramon" creationdate="20230601T230756Z">
         <seg>¡Sino con nuestro hermano!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Sonst funktioniert es nicht.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T234019Z" creationid="Arturo" creationdate="20230601T234019Z">
+        <seg>"De lo contrario, no funcionará".</seg>
       </tuv>
     </tu>
     <tu>
