@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="de">
+        <seg>Eine Geschichte von Sarah Welk mit Illustrationen von Sharon Harmer, erschienen im arsEdition Verlag.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T180531Z" creationid="alumno" creationdate="20230601T180531Z">
+        <seg>Una historia de Sarah Welk mcon ilustraciones de Sharon Harmer,publicado enarsEdition Verlag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Hier kommt der erste Teil der Geschichte.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T180623Z" creationid="alumno" creationdate="20230601T180623Z">
+        <seg>Aquí viene la primera parte de la historia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Wie einmal das Beste der Welt passiert ist</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T180730Z" creationid="alumno" creationdate="20230601T180730Z">
+        <seg>Cómo una vez pasó lo mejor del mundo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>jetzt drucken</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T175546Z" creationid="Arturo" creationdate="20230601T175546Z">
