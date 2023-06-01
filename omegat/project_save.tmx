@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Ein Barbiehaus oder so.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T234601Z" creationid="Arturo" creationdate="20230601T234601Z">
+        <seg>Una casa de Barbies o algo así..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Eine Geschichte von Sarah Welk mit Illustrationen von Sharon Harmer, erschienen im arsEdition Verlag.</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T183543Z" creationid="alumno" creationdate="20230601T180531Z">
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T220428Z" creationid="Ramon" creationdate="20230601T220428Z">
         <seg>Flo corre justo detrás de mi, pero yo llego primera y abraza la barriga de mamá y Flo abraza la espalda de mamá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Flo spart nie, sie gibt lieber alles für Gummischnuller und Schokolade aus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T234645Z" creationid="Arturo" creationdate="20230601T234645Z">
+        <seg>Flo nunca ahorra, se lo gasta todo en ositos de chuche y chocolatinas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -982,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Und außerdem kann ich das Geld gar nicht in meine Spardose tun“, sagt sie immer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T234734Z" creationid="Arturo" creationdate="20230601T234734Z">
+        <seg>"Además, ni siquiera puedo meter el dinero en mi hucha" dice siempre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Und außerdem sah der aus wie Jesus.“</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T213614Z" creationid="Ramon" creationdate="20230601T213614Z">
@@ -1018,6 +1042,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214433Z" creationid="Ramon" creationdate="20230601T214433Z">
         <seg>¿A todo esto que animal era este? pregunto señalando la salchicha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Weil da ist ja schon die Marienkäfersammlung drin.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T234812Z" creationid="Arturo" creationdate="20230601T234812Z">
+        <seg>"Porque ya tengo ahí mi colección de mariquitas".</seg>
       </tuv>
     </tu>
     <tu>
