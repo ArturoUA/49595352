@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Aber da fällt mir plötzlich noch etwas anderes ein.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T214318Z" creationid="Ramon" creationdate="20230601T214318Z">
+        <seg>Pero entoces se me vino otra cosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Aber dann nehmen wir einen ganz kleinen ohne Zähne, weil sonst beißt der vielleicht Kalle!“, hat Flo gesagt und die Stirn gerunzelt.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T204838Z" creationid="Ramon" creationdate="20230601T204838Z">
@@ -294,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Ich weiß echt nicht, warum sie das bei JEDEM Essen sagt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T214256Z" creationid="Ramon" creationdate="20230601T214256Z">
+        <seg>No se porque lo dice en CADA comida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Ist das nicht die wirklich allerallerbeste Überraschung in der ganzen Welt?</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T210925Z" creationid="Ramon" creationdate="20230601T210925Z">
@@ -446,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Was richtig Schlimmes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T214338Z" creationid="Ramon" creationdate="20230601T214338Z">
+        <seg>Algo realmente malo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Weil ratet mal, was passiert ist?</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T181340Z" creationid="alumno" creationdate="20230601T181340Z">
@@ -538,6 +562,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T165042Z" creationid="alumno" creationdate="20230601T165042Z">
         <seg>„Eso lo haremos Mimi y yo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Das schlucken sonst Fische runter und sterben.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T214143Z" creationid="Ramon" creationdate="20230601T214143Z">
+        <seg>Sino se lo trafarám peces y morirán.</seg>
       </tuv>
     </tu>
     <tu>
@@ -642,6 +674,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T213752Z" creationid="Ramon" creationdate="20230601T213752Z">
         <seg>Y entonces va a venir el señor Jesús siempre a nuestra casa a limpiar los pañales, ¿o qué? preguntó mamá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Und du schluckst bitte erst mal dein Essen runter und redest dann“, antwortet Mama und guckt streng.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T214231Z" creationid="Ramon" creationdate="20230601T214231Z">
+        <seg>Y tu tragarás primero la comida antes de hablar, contestó mamá mirando mal.</seg>
       </tuv>
     </tu>
     <tu>
