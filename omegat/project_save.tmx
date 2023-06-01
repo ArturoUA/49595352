@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Aber da schluchzt Mama plötzlich auf und dreht sich um und rennt einfach ins Schlafzimmer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T215442Z" creationid="Ramon" creationdate="20230601T215442Z">
+        <seg>Pero entonces mamá pega un sollozo, se gira y se va a la habitación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Aber dann nehmen wir einen ganz kleinen ohne Zähne, weil sonst beißt der vielleicht Kalle!“, hat Flo gesagt und die Stirn gerunzelt.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T204838Z" creationid="Ramon" creationdate="20230601T204838Z">
@@ -334,6 +342,22 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Ich kann es nicht aushalten, wenn Erwachsene weinen und am allerwenigsten, wenn es Mama ist oder Papa.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T215532Z" creationid="Ramon" creationdate="20230601T215532Z">
+        <seg>No puedo aguantar cuando adultos lloram y menos si es mamá o papá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich kriege einen Riesenschreck.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T215500Z" creationid="Ramon" creationdate="20230601T215500Z">
+        <seg>A mi me da un susto muy grande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Ich weiß echt nicht, warum sie das bei JEDEM Essen sagt.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214256Z" creationid="Ramon" creationdate="20230601T214256Z">
@@ -378,6 +402,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T184053Z" creationid="alumno" creationdate="20230601T184053Z">
         <seg>¡Mamá le llamó "cariño" a papá!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Mama tut mir so leid, dass mir auf einmal der ganze Bauch wehtut, und deshalb springe ich schnell auf, weil ich jetzt sofort zu ihr will.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T215637Z" creationid="Ramon" creationdate="20230601T215637Z">
+        <seg>Mamá me da tanta pena, que de repente me duele el estómago entero y por eso me levanto rápidamente porque quiero ir con ella ahora.</seg>
       </tuv>
     </tu>
     <tu>
