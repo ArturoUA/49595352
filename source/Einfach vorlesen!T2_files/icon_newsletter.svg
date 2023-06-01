@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="14px" viewBox="0 0 24 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="phone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-8-navigation" transform="translate(-29.000000, -503.000000)">
+            <g id="Group" transform="translate(29.000000, 236.000000)">
+                <g id="Group-5" transform="translate(0.000000, 267.000000)">
+                    <path d="M24,14 L0,14 L0,0 L20,0 C22.209,0 24,1.791 24,4 L24,14 Z" id="Fill-1" fill="#4B4F53"></path>
+                    <path d="M12.7715,9.7188 C12.3185,10.0938 11.6715,10.0938 11.2185,9.7188 L2.0005,1.9998 L19.2465,1.9998 C20.1795,1.9998 20.6045,3.1678 19.8875,3.7668 L12.7715,9.7188 Z" id="Fill-3" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 21</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 24 24 24 24 0 0 0"></polygon>
+    </defs>
+    <g id="phone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-8-navigation" transform="translate(-29.000000, -396.000000)">
+            <g id="Group" transform="translate(29.000000, 236.000000)">
+                <g id="Group-21" transform="translate(0.000000, 160.000000)">
+                    <path d="M24,12 C24,18.63 18.63,24 12,24 C5.37,24 0,18.63 0,12 L0,0 L12,0 C18.63,0 24,5.37 24,12" id="Fill-1" fill="#89C5E5"></path>
+                    <path d="M13,17 C13,17.553 12.553,18 12,18 C11.447,18 11,17.553 11,17 C11,16.447 11.447,16 12,16 C12.553,16 13,16.447 13,17" id="Fill-3" fill="#FFFFFF"></path>
+                    <path d="M12,15 C11.447,15 11,14.553 11,14 L11,12 L13,10 L13,14 C13,14.553 12.553,15 12,15" id="Fill-5" fill="#FFFFFF"></path>
+                    <polygon id="Fill-7" fill="#FFFFFF" points="11 12 13 10 13 11.333 13 12"></polygon>
+                    <path d="M16,9 L14,9 C14,8.448 13.552,8 13,8 L13,6 C14.654,6 16,7.346 16,9" id="Fill-9" fill="#FFFFFF"></path>
+                    <path d="M13,12 L13,10 C13.552,10 14,9.552 14,9 L16,9 C16,10.654 14.654,12 13,12" id="Fill-11" fill="#FFFFFF"></path>
+                    <path d="M12,6 L12,8 C11.448,8 11,8.448 11,9 L9,9 C9,7.346 10.346,6 12,6" id="Fill-13" fill="#FFFFFF"></path>
+                    <path d="M12,13 C12,11.896 12.896,11 14,11 C14.293,11 14.569,11.066 14.82,11.18 C14.449,10.359 13.546,9.831 12.548,10.05 C11.814,10.211 11.21,10.815 11.05,11.549 C10.831,12.547 11.359,13.45 12.18,13.82 C12.066,13.569 12,13.293 12,13" id="Fill-15" fill="#FFFFFF"></path>
+                    <path d="M11,9 C11,9.553 10.553,10 10,10 C9.447,10 9,9.553 9,9 C9,8.447 9.447,8 10,8 C10.553,8 11,8.447 11,9" id="Fill-17" fill="#FFFFFF"></path>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-20"></g>
+                    <polygon id="Fill-19" fill="#FFFFFF" mask="url(#mask-2)" points="12 8 13 8 13 6 12 6"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
