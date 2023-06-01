@@ -96,8 +96,8 @@
       <tuv lang="de">
         <seg>Danach reden wir ganz lange über Naturschutz, und dann sagt der Mann, wer will, kann bei ihm jetzt für einen Euro eine Müllkralle kaufen.</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230601T212505Z" creationid="Ramon" creationdate="20230601T212505Z">
-        <seg>Despues habló todo el tiempo de la protección de la naturaleza y entonces dijo el hombre que, quien quiera, puede comprar por un euro un basurero.</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T212535Z" creationid="Ramon" creationdate="20230601T212505Z">
+        <seg>Despues habló todo el tiempo de la protección de la naturaleza y entonces dijo el hombre que, quien quiera, puede comprar por un euro una garra de basura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +114,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T211739Z" creationid="Ramon" creationdate="20230601T211739Z">
         <seg>Eso quiere decir que hablamos todo el tiempo sobre como podemos cuidar el medioambiente, porque mmuchas personas lo ensucian, y esto es malo, porque mueren los animales cuando comen plástico o algo así.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Das ist so ein Stab, an dem ist hinten ein Knopf dran, und wenn man den drückt, dann geht vorne ein Haken zu und schnappt Abfall, und das ist natürlich praktisch, weil man sich nicht zu bücken braucht.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T212726Z" creationid="Ramon" creationdate="20230601T212726Z">
+        <seg>Es como un palo, que tiene detras un botón que cuando lo presionas se cierra la garra y coge basura, eso es práctico claro, porque no te tienes que agachar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +418,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T181051Z" creationid="alumno" creationdate="20230601T180730Z">
         <seg>Cómo una vez pasó lo mejor del mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Wisst ihr, was eine Müllkralle ist?</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T212551Z" creationid="Ramon" creationdate="20230601T212551Z">
+        <seg>Sabéis lo que es una farra de basura?</seg>
       </tuv>
     </tu>
     <tu>
