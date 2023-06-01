@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Aber ohne Waschmittel.“ Also manchmal versteht Flo solche Sachen richtig gut.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T213928Z" creationid="Ramon" creationdate="20230601T213928Z">
+        <seg>Pero sin productos de limpieza, a veces Flo entiende estas cosas bastante bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Aber sie machen das trotzdem, obwohl Flo und ich ihnen extra gesagt haben, dass wir das blöd finden und dass andere Eltern das NIE machen.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T184348Z" creationid="alumno" creationdate="20230601T184348Z">
@@ -614,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Nein, Mama!“, ruft Flo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T213839Z" creationid="Ramon" creationdate="20230601T213839Z">
+        <seg>¡No mamá!, gritó Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Und außerdem sah der aus wie Jesus.“</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T213614Z" creationid="Ramon" creationdate="20230601T213614Z">
@@ -634,6 +650,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T204442Z" creationid="Ramon" creationdate="20230601T204442Z">
         <seg>¡Nuestra sorpresa no es un poni de verdad!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Weil in Waschmittel ist nämlich Mikroplastik“, sage ich, und weil Mikroplastik ein ganz schön schweres Wort ist, fällt mir dabei ein bisschen Schnitzel aus dem Mund.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T214106Z" creationid="Ramon" creationdate="20230601T214106Z">
+        <seg>Porque en los productos de limpieza hay microplásticos, dije yo y como microplásticos es una palabra tan difícil, casi se me cae un poco de salchicha de la boca.</seg>
       </tuv>
     </tu>
     <tu>
