@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Aber erst mal kaufe ich die Müllkralle.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T213313Z" creationid="Ramon" creationdate="20230601T213313Z">
+        <seg>Pero primero compraré la garrade basura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Aber sie machen das trotzdem, obwohl Flo und ich ihnen extra gesagt haben, dass wir das blöd finden und dass andere Eltern das NIE machen.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T184348Z" creationid="alumno" creationdate="20230601T184348Z">
@@ -102,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Da wird Flo aber staunen!</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T213336Z" creationid="Ramon" creationdate="20230601T213336Z">
+        <seg>¡Flo lo va a flipar!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Danach reden wir ganz lange über Naturschutz, und dann sagt der Mann, wer will, kann bei ihm jetzt für einen Euro eine Müllkralle kaufen.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T212535Z" creationid="Ramon" creationdate="20230601T212505Z">
@@ -134,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Das muss ich unbedingt Onkel Jussi erzählen!</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T213200Z" creationid="Ramon" creationdate="20230601T213200Z">
+        <seg>Eso se lo tengo que contar al tio Jussen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Das stimmt wirklich!</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T184001Z" creationid="alumno" creationdate="20230601T184001Z">
@@ -154,6 +178,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T203040Z" creationid="alumno" creationdate="20230601T184654Z">
         <seg>Él se aclaró la garganta y entonces cogió la mano de mamá y de repente tenia húmedos los ojos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Der wohnt bei uns nebenan und er hat sogar 187 Kühe und 33 Kälber und dazu auch noch einen Bullen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T213254Z" creationid="Ramon" creationdate="20230601T213254Z">
+        <seg>El vive al lado de nosotros y tiene incluso 187 vacas, 33 terneras y un toro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -530,6 +562,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T203123Z" creationid="Ramon" creationdate="20230601T203123Z">
         <seg>-Mamá y yo tenemos una sorpesa para vosotros, dijo al final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Mama“, sage ich beim Mittagessen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T213353Z" creationid="Ramon" creationdate="20230601T213353Z">
+        <seg>Mamá, digo en la comida.</seg>
       </tuv>
     </tu>
     <tu>
