@@ -48,8 +48,8 @@
       <tuv lang="de">
         <seg>Eine Geschichte von Sarah Welk mit Illustrationen von Sharon Harmer, erschienen im arsEdition Verlag.</seg>
       </tuv>
-      <tuv lang="es" changeid="alumno" changedate="20230601T180531Z" creationid="alumno" creationdate="20230601T180531Z">
-        <seg>Una historia de Sarah Welk mcon ilustraciones de Sharon Harmer,publicado enarsEdition Verlag.</seg>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T183543Z" creationid="alumno" creationdate="20230601T180531Z">
+        <seg>Una historia de Sarah Welk mcon ilustraciones de Sharon Harmer, publicado enarsEdition Verlag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96,8 +96,8 @@
       <tuv lang="de">
         <seg>Noch besser als Weihnachten und Geburtstag oder eigentlich sogar beides zusammen.</seg>
       </tuv>
-      <tuv lang="es" changeid="alumno" changedate="20230601T181244Z" creationid="alumno" creationdate="20230601T181244Z">
-        <seg>Aun mejor que las Navidades, tu cumpleaños o incluso los dos juntos.</seg>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T183608Z" creationid="alumno" creationdate="20230601T181244Z">
+        <seg>Aún mejor que las Navidades, tu cumpleaños o incluso los dos juntos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Und das ist eine richtig gute Idee, finde ich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T183842Z" creationid="Arturo" creationdate="20230601T183842Z">
+        <seg>Y a mí eso me parece una muy buena idea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Weil ratet mal, was passiert ist?</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T181340Z" creationid="alumno" creationdate="20230601T181340Z">
@@ -138,6 +146,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T181051Z" creationid="alumno" creationdate="20230601T180730Z">
         <seg>Cómo una vez pasó lo mejor del mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ziemlich beste Schwestern: Total schief gewickelt - Teil 2</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T183641Z" creationid="Arturo" creationdate="20230601T183641Z">
+        <seg>Ziemlich beste Schwestern: Total schief gewickelt - Parte 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +178,22 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183142Z" creationid="alumno" creationdate="20230601T183142Z">
         <seg>-Flo, Mimi ¿Podéis venir un momento?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Mimi“, sagt Flo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T183710Z" creationid="Arturo" creationdate="20230601T183710Z">
+        <seg>"Mimi", dijo Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Wollen wir heute selber Shampoo machen?“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T183739Z" creationid="Arturo" creationdate="20230601T183739Z">
+        <seg>"¿Quieres que hoy hagamos champú nosotras mismas?"</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
