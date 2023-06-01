@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Nein!“, hat Papa gerufen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T210308Z" creationid="Ramon" creationdate="20230601T210308Z">
+        <seg>¡No! dijo papá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Unsere Überraschung ist kein lebendes Pony!“</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T204442Z" creationid="Ramon" creationdate="20230601T204442Z">
