@@ -86,10 +86,26 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Mimi, das bin natürlich ich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T183330Z" creationid="alumno" creationdate="20230601T183330Z">
+        <seg>Mimi, esa soy yo por supuesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Noch besser als Weihnachten und Geburtstag oder eigentlich sogar beides zusammen.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T181244Z" creationid="alumno" creationdate="20230601T181244Z">
         <seg>Aun mejor que las Navidades, tu cumpleaños o incluso los dos juntos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Papa und ich wollen euch etwas erzählen!“</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T183220Z" creationid="alumno" creationdate="20230601T183220Z">
+        <seg>¡Papa y yo os queremos contar algo!“</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +146,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T165042Z" creationid="alumno" creationdate="20230601T165042Z">
         <seg>„Eso lo haremos Mimi y yo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Flo, Mimi, kommt ihr mal bitte?</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T183142Z" creationid="alumno" creationdate="20230601T183142Z">
+        <seg>-Flo, Mimi ¿Podéis venir un momento?</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
