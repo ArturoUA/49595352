@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="de">
+        <seg>Darauf kommt ihr nie im Leben!</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T181519Z" creationid="alumno" creationdate="20230601T181519Z">
+        <seg>¡No lo vais a adivinar en la vida!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Eine Geschichte von Sarah Welk mit Illustrationen von Sharon Harmer, erschienen im arsEdition Verlag.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T180531Z" creationid="alumno" creationdate="20230601T180531Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T180623Z" creationid="alumno" creationdate="20230601T180623Z">
         <seg>Aquí viene la primera parte de la historia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich habe schon gleich nach dem Aufstehen gemerkt, dass irgendwas so richtig geheimnisvoll ist.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T181619Z" creationid="alumno" creationdate="20230601T181619Z">
+        <seg>Ya habia notado justo al levantarme,que ocurría algo realmente misterioso .</seg>
       </tuv>
     </tu>
     <tu>
