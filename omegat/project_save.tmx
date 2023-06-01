@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Das stimmt wirklich!</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T184001Z" creationid="alumno" creationdate="20230601T184001Z">
+        <seg>¡Eso es verdad!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Doch in Wahrheit macht der Weihnachtsmann das natürlich selber, weil das ja eine richtig wichtige Aufgabe ist.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T182426Z" creationid="alumno" creationdate="20230601T182426Z">
@@ -94,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Mama hat „Liebster“ zu Papa gesagt!</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T184053Z" creationid="alumno" creationdate="20230601T184053Z">
+        <seg>¡Mamá le llamó "cariño" a papá!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Mimi, das bin natürlich ich.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183330Z" creationid="alumno" creationdate="20230601T183330Z">
@@ -110,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Noch schlimmer ist eigentlich nur, wenn Mama und Papa sich küssen und andere Leute das sehen, im Zoo oder so.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T184245Z" creationid="alumno" creationdate="20230601T184245Z">
+        <seg>Peor es en verdad, cuando mamá y papá se besan y lo ven otras personas, en el zoo o algo asi..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Papa und ich wollen euch etwas erzählen!“</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183220Z" creationid="alumno" creationdate="20230601T183220Z">
@@ -122,6 +146,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183537Z" creationid="alumno" creationdate="20230601T183537Z">
         <seg>Y Flo y yo no gritamos nada mas que ¡ahora mamá! y no terminamos primero de construir, sino que salimos pitando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Und da war ich mir ganz sicher, dass irgendwas nicht stimmt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T184118Z" creationid="alumno" creationdate="20230601T184118Z">
+        <seg>Y ahí estaba segura de que algo no iba bien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +186,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T181340Z" creationid="alumno" creationdate="20230601T181340Z">
         <seg>Porque ¿adivinad que pasó?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Weil zum Glück macht sie das nur ganz selten, ich finde das nämlich peinlich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T184200Z" creationid="alumno" creationdate="20230601T184200Z">
+        <seg>Porque por suerte no lo hace muy a menudo, porque me parece vergonzoso.</seg>
       </tuv>
     </tu>
     <tu>
