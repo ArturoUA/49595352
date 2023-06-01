@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Ein Baby“, hat sie gesagt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T210826Z" creationid="Ramon" creationdate="20230601T210826Z">
+        <seg>Un bebé, dijo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Ein Husky?</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T204511Z" creationid="Ramon" creationdate="20230601T204511Z">
