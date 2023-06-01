@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Der hat gerade faul auf dem Fensterbrett gelegen und ein Ohr aufgestellt, als Flo seinen Namen gesagt hat.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T205359Z" creationid="Ramon" creationdate="20230601T205359Z">
+        <seg>Que estaba vagueando en la ventana y puso la oreja cuando Flo mencionó su nombre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Der hat sich ganz umständlich geräuspert und dann hat er Mamas Hand genommen und auf einmal hatte er irgendwie feuchte Augen.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T203040Z" creationid="alumno" creationdate="20230601T184654Z">
@@ -202,6 +210,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183537Z" creationid="alumno" creationdate="20230601T183537Z">
         <seg>Y Flo y yo no gritamos nada mas que ¡ahora mamá! y no terminamos primero de construir, sino que salimos pitando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Und Kalle ist natürlich unser Kater.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T205214Z" creationid="Ramon" creationdate="20230601T205214Z">
+        <seg>Y Kalle es nuestro gato, claro.</seg>
       </tuv>
     </tu>
     <tu>
