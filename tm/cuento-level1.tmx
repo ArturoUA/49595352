@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="de"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="de">
+        <seg>Aber Jesus war glaube ich fast nie wütend und der Mann ist irgendwie richtig sauer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230502T144515Z" creationid="Arturo" creationdate="20230502T144515Z">
+        <seg>Pero yo creo que Jesús casi nunca se enfadaba y este hombre está muy cabreado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Also die Tiere meine ich, nicht die Leute.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230502T144133Z" creationid="Arturo" creationdate="20230502T144133Z">
+        <seg>Me refiero a los animalitos, no a la gente..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Also im Moment ist unser Bruder winzig klein und Mamas Bauch noch dünn, aber bald wird er größer und Mama richtig dick und dann kommt er auf die Welt und Flo und ich können uns richtig gut um ihn kümmern.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230502T143133Z" creationid="Arturo" creationdate="20230502T143133Z">
+        <seg>Así que de momento nuestro hermanito es muy pequeñito y la barriga de mamá todavía es delgada pero pronto se hará más grande, mamá engordará y después él nacerá y Flo y yo podremos cuidarle muy bien. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Danach reden wir ganz lange über Naturschutz, und dann sagt der Mann, wer will, kann bei ihm jetzt für einen Euro eine Müllkralle kaufen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230505T160200Z" creationid="Arturo" creationdate="20230502T145218Z">
+        <seg>Después hablamos un buen rato sobre el cuidaso de la naturaleza y luego el hombre dice que quien quiera puede comprarle un cubo de basura por un euro. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Das heißt, dass wir die ganze Zeit darüber reden, wie man die Umwelt beschützen kann, weil nämlich richtig viele Leute alles verschmutzen, und das ist schlimm, weil dann Tiere sterben, wenn sie zum Beispiel Plastik fressen oder so.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230502T144105Z" creationid="Arturo" creationdate="20230502T144105Z">
+        <seg>Esto significa que estamos todo el tiempo hablando sobre cómo proteger el medio ambiente, porque hay mucha gente que lo está contaminando todo y eso está muy mal porque los animales se mueren cuando comen cosas como plástico o algo así.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Die erste Stunde hat heute übrigens später als sonst angefangen, weil wir Projektwoche haben.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230502T143748Z" creationid="Arturo" creationdate="20230502T143748Z">
+        <seg>Hoy  la primera hora ha empezado un poco más tarde de lo normal porque es la semana de los proyectos. .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Doch Flo und ich sind uns ganz sicher.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230502T143334Z" creationid="Arturo" creationdate="20230502T143334Z">
+        <seg>Aún así Flo y yo estamos totalmente seguras..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Er sieht ein bisschen so aus wie Jesus vorne auf meiner Religionsmappe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230502T144408Z" creationid="Arturo" creationdate="20230502T144408Z">
+        <seg>Se parece un poco a Jesús, el que sale en la portada de mi carpeta de religión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Und das stimmt natürlich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230502T144906Z" creationid="Arturo" creationdate="20230502T144906Z">
+        <seg>Ahí tiene razón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Und jetzt sitze ich in der Schule und kann an überhaupt nichts anderes mehr denken als an unser Baby.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230505T155930Z" creationid="Arturo" creationdate="20230502T143552Z">
+        <seg>Ahora estoy sentada en el cole sin poder pensar en otra cosa más que en el bebé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Vorne steht jetzt gerade ein Mann mit langen Haaren, das ist ein Umweltbeschützer und er soll uns alles erklären.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230505T160024Z" creationid="Arturo" creationdate="20230502T144304Z">
+        <seg>Ahora mismo tengo delante a un hombre con el pelo largo que es ecologista y ha venido a explicárnoslo todo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Weil wir sind ja schon zwei Mädchen, und nach zwei Mädchen kommt ein Junge, sonst wäre es ja gar nicht gerecht.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230502T143448Z" creationid="Arturo" creationdate="20230502T143448Z">
+        <seg>Ya somos dos chicas y después de dos chicas tiene que venir un chico, si no, no sería justo..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>de</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230502T142641Z" creationid="Arturo" creationdate="20230502T142641Z">
+        <seg>deEn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Aber je mehr Kinder sich um die Umwelt kümmern, desto besser.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230512T163354Z" creationid="Arturo" creationdate="20230502T144846Z">
+        <seg>"Pero cuantos más niños cuiden el medio ambiente, mejor".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Die Erwachsenen verbrauchen viel zu viel Plastik und verschmutzen die Luft“, ruft er gerade.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230502T144717Z" creationid="Arturo" creationdate="20230502T144717Z">
+        <seg>"Los adultos usamos mucho plástico y contaminamos el aire", grita el hombre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Wir wissen aber nicht, ob das ein Junge wird“, hat Papa gesagt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230502T143226Z" creationid="Arturo" creationdate="20230502T143226Z">
+        <seg>"Todavía no sabemos si será un chico" dijo papá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Wir wollen uns überraschen lassen.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230502T143255Z" creationid="Arturo" creationdate="20230502T143255Z">
+        <seg>„Queremos que sea una sorpresa“</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

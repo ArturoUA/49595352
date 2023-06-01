@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="de"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="de">
+        <seg>Aber da fällt mir ein, dass ich ja einfach mein Milchgeld nehmen kann, weil ich ab jetzt sowieso nur noch Wasser trinken werde, denn der Mann hat gesagt, dass Kühe so viel pupsen und dadurch die Luft schlecht wird und dass das umweltschädlich ist.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230511T155130Z" creationid="Arturo" creationdate="20230511T154715Z">
+        <seg>Pero se me ha ocurrido que podría ahorrarme el dinero de la leche y solo beber agua a partir de ahora, porque el señor dijo que las vacas se tiran muchos pedos y eso hace que el aire sea malo y dañino para el medio ambiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Aber erst mal kaufe ich die Müllkralle.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230511T155300Z" creationid="Arturo" creationdate="20230511T155300Z">
+        <seg>Pero antes compraré la garra de basura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Aber ohne Waschmittel.“ Also manchmal versteht Flo solche Sachen richtig gut.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230511T160049Z" creationid="Arturo" creationdate="20230511T160049Z">
+        <seg>"¡Pero sin detergente!“ A veces Flo entiende muy bien las cosas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Da wird Flo aber staunen!</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230511T155328Z" creationid="Arturo" creationdate="20230511T155328Z">
+        <seg>¡A Flo le encantará!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Das ist so ein Stab, an dem ist hinten ein Knopf dran, und wenn man den drückt, dann geht vorne ein Haken zu und schnappt Abfall, und das ist natürlich praktisch, weil man sich nicht zu bücken braucht.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230511T154602Z" creationid="Arturo" creationdate="20230511T154602Z">
+        <seg>Es como un palo con un botón en la parte de atrás que cuando lo presionas, se cierra el gancho que hay en la parte delantera y con eso puedes agarrar la basura. Es muy práctico porque así no tienes que agacharte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Das muss ich unbedingt Onkel Jussi erzählen!</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230511T155153Z" creationid="Arturo" creationdate="20230511T155153Z">
+        <seg>¡Tengo que contarle todo esto al tío Jussi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Der wohnt bei uns nebenan und er hat sogar 187 Kühe und 33 Kälber und dazu auch noch einen Bullen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230511T155245Z" creationid="Arturo" creationdate="20230511T155245Z">
+        <seg>Él vive al lado de nuestra casa y tiene 187 vacas, 33 terneros y hasta un toro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Leider habe ich keinen Euro dabei.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230511T154836Z" creationid="Arturo" creationdate="20230511T154703Z">
+        <seg>Desafortunadamente no llevo ningún euro encima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Wisst ihr, was eine Müllkralle ist?</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230511T154435Z" creationid="Arturo" creationdate="20230511T154435Z">
+        <seg>¿Sabéis qué es una garra de basura?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Aha“, antwortet Mama.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230511T155607Z" creationid="Arturo" creationdate="20230511T155607Z">
+        <seg>"Ajá" respondió mamá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Das hat der Mann in der Schule heute gesagt“, erkläre ich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230511T155708Z" creationid="Arturo" creationdate="20230511T155632Z">
+        <seg>"Es lo que nos ha dichoi un hombre hoy en el cole" le explico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Das machen natürlich Mimi und ich!</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230511T155947Z" creationid="Arturo" creationdate="20230511T155947Z">
+        <seg>"Eso lo haremos Mimi y yo!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Mama“, sage ich beim Mittagessen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230511T155501Z" creationid="Arturo" creationdate="20230511T155501Z">
+        <seg>"Mamá" digo mientras almuerzo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Nein, Mama!“, ruft Flo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230511T155926Z" creationid="Arturo" creationdate="20230511T155901Z">
+        <seg>"¡No mamá!" grita Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Und außerdem sah der aus wie Jesus.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230511T155728Z" creationid="Arturo" creationdate="20230511T155648Z">
+        <seg>"Además, se parecía a Jesús“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Und dann kommt dein Herr Jesus immer zu uns und wäscht die Stoffwindeln, oder wie?“, fragt Mama.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230511T155908Z" creationid="Arturo" creationdate="20230511T155847Z">
+        <seg>"Entonces ventrá tú señor Jesús a lavar los pañales de tela, ¿no?", pregunta mamá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Wenn das Baby da ist, dürfen wir keine Wegwerfwindeln aus Plastik benutzen.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230511T155544Z" creationid="Arturo" creationdate="20230511T155544Z">
+        <seg>"Cuando nazca el bebé no debemos de usar pañales desechables de plástico".</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

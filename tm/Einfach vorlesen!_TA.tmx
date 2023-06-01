@@ -1,0 +1,2066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="de"/>
+  <body>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>width=device-width, initial-scale=1, shrink-to-fit=no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>ie=edge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ziemlich beste Schwestern: Total schief gewickelt -Teil 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/themes/einfach-vorlesen-nov2018/assets/img/richlogo.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach vorlesen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/themes/einfach-vorlesen-nov2018/assets/img/favicon.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/a860bc8dbf9b509aa51fbf86017f7ff1-1669196122.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach vorlesen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Stiftung Lesen Deutsche Bahn Stiftung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/app</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/auchalsapp.svg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/icon_start.svg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Startseite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/icon_geschichtenregal.svg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/geschichtenregal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Geschichten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/icon_lesestart.svg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/lesestart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Für Kleinkinder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/icon_vorlesetipps.svg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/vorlesetipps</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Vorlesetipps</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/icon_faq.svg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/faq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Noch Fragen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/icon_newsletter.svg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/newsletteranmeldung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Newsletteranmeldung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/icon_impressum.svg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/impressum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Impressum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/icon_datenschutz.svg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/datenschutz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Datenschutz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Schriftgröße &amp; Schriftart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/icon-font.svg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/icon-font_family.svg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Hintergrund</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/Schwestern_Total%2520schief%2520gewickelt-0-32-500-700-168119573.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ziemlich beste Schwestern: Total schief gewickelt -Teil 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg><bpt i="0" x="0">&lt;b0&gt;</bpt>Autor/in:<ept i="0">&lt;/b0&gt;</ept> Sarah Welk<it pos="begin" x="1">&lt;br1&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg><bpt i="2" x="2">&lt;b2&gt;</bpt>Illustrationen:<ept i="2">&lt;/b2&gt;</ept> Sharon Harmer<it pos="begin" x="3">&lt;br3&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg><bpt i="4" x="4">&lt;b4&gt;</bpt>Verlag:<ept i="4">&lt;/b4&gt;</ept> arsEdition<it pos="begin" x="5">&lt;br5&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg><bpt i="6" x="6">&lt;b6&gt;</bpt>Alterseinstufung:<ept i="6">&lt;/b6&gt;</ept> ab 7 Jahren<it pos="begin" x="7">&lt;br7&gt;</it></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg><bpt i="8" x="8">&lt;b8&gt;</bpt>ISBN:<ept i="8">&lt;/b8&gt;</ept> 978-3-8458-3212-8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>javascript:history.back();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>icon-back</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/icon-info.svg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/icon-font.svg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/pdf/ziemlich-beste-schwestern-total-schief-gewickelt-band-5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>jetzt drucken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ziemlich beste Schwestern: Total schief gewickelt -Teil 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Eine Geschichte von Sarah Welk mit Illustrationen von Sharon Harmer, erschienen im arsEdition Verlag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Hier kommt der erste Teil der Geschichte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Wie einmal das Beste der Welt passiert ist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Heute ist der beste Tag der Welt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Noch besser als Weihnachten und Geburtstag oder eigentlich sogar beides zusammen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Weil ratet mal, was passiert ist?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Darauf kommt ihr nie im Leben!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich habe schon gleich nach dem Aufstehen gemerkt, dass irgendwas so richtig geheimnisvoll ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Also nicht gruselig geheimnisvoll, sondern schön geheimnisvoll, so wie Bescherung an Weihnachten, wo man ja auch nicht gucken und erst aus dem Zimmer kommen darf, wenn der Engel mit der Glocke läutet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Also Flo glaubt, dass das der Engel macht, weil sie Engel so gern mag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Flo ist meine kleine Schwester, sie geht noch in den Kindergarten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Doch in Wahrheit macht der Weihnachtsmann das natürlich selber, weil das ja eine richtig wichtige Aufgabe ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Bei uns hat heute aber keine Glocke geläutet, sondern Mama und Papa haben morgens so getuschelt und irgendwie komisch geguckt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und dann waren Flo und ich im Spielzimmer und haben gerade eine Futterstation für Frösche gebastelt, als Mama plötzlich gerufen hat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Flo, Mimi, kommt ihr mal bitte?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Papa und ich wollen euch etwas erzählen!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Mimi, das bin natürlich ich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und Flo und ich haben nicht wie sonst „Gleich, Mama!“ geschrien und erst mal fertig gebastelt, sondern wir sind direkt losgeflitzt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/thumb__1024_1024_0_0_auto_002.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Als wir in die Küche gekommen sind, haben Mama und Papa am Tisch gesessen und haben so komisch gelächelt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und dann hat Papa zu Mama gesagt: „Ich oder du?“ Und Mama hat noch mehr gelächelt und geantwortet: „Du, Liebster.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das stimmt wirklich!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Mama hat „Liebster“ zu Papa gesagt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und da war ich mir ganz sicher, dass irgendwas nicht stimmt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Weil zum Glück macht sie das nur ganz selten, ich finde das nämlich peinlich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Noch schlimmer ist eigentlich nur, wenn Mama und Papa sich küssen und andere Leute das sehen, im Zoo oder so.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber sie machen das trotzdem, obwohl Flo und ich ihnen extra gesagt haben, dass wir das blöd finden und dass andere Eltern das NIE machen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Doch jetzt habe ich gar nichts gesagt und Flo auch nicht, sondern wir haben stattdessen Papa angestarrt und waren so stumm wie Fische.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Der hat sich ganz umständlich geräuspert und dann hat er Mamas Hand genommen und auf einmal hatte er irgendwie feuchte Augen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Mama und ich haben eine Überraschung für euch“, hat er schließlich gesagt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Wir wissen ja, was ihr euch am allermeisten auf der ganzen Welt wünscht.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Ein Pony!!“, hat Flo geschrien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Mimi, wir kriegen ein lebendes Pony!!!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und dann ist sie mir um den Hals gefallen und hat so wild mit den Beinen gestrampelt, dass ich fast umgeplumpst wäre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und da habe ich gesehen, dass Mama die Augen aufgerissen und Papa einen Vogel gezeigt hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Also einen kleinen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Äääähhh, nein“, hat Papa schnell gerufen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Unsere Überraschung ist kein lebendes Pony!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Ein Husky?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber dann nehmen wir einen ganz kleinen ohne Zähne, weil sonst beißt der vielleicht Kalle!“, hat Flo gesagt und die Stirn gerunzelt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Huskys sind Hunde, die richtig gut Schlitten ziehen können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einmal haben Flo und ich dafür ein Kalb aus dem Stall von Onkel Jussi genommen, aber das habe ich ja schon erzählt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und Kalle ist natürlich unser Kater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Der hat gerade faul auf dem Fensterbrett gelegen und ein Ohr aufgestellt, als Flo seinen Namen gesagt hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Nein!“, hat Papa gerufen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Auch kein Husky!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Da hat Mama sich nach vorne gelehnt und mit der einen Hand hat sie meine genommen und mit der anderen Flos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Ein Baby“, hat sie gesagt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Wir bekommen ein Baby.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Könnt ihr das glauben?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ist das nicht die wirklich allerallerbeste Überraschung in der ganzen Welt?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Also im Moment ist unser Bruder winzig klein und Mamas Bauch noch dünn, aber bald wird er größer und Mama richtig dick und dann kommt er auf die Welt und Flo und ich können uns richtig gut um ihn kümmern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Wir wissen aber nicht, ob das ein Junge wird“, hat Papa gesagt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Wir wollen uns überraschen lassen.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Doch Flo und ich sind uns ganz sicher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Weil wir sind ja schon zwei Mädchen, und nach zwei Mädchen kommt ein Junge, sonst wäre es ja gar nicht gerecht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und jetzt sitze ich in der Schule und kann an überhaupt nichts anderes mehr denken als an unser Baby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die erste Stunde hat heute übrigens später als sonst angefangen, weil wir Projektwoche haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das heißt, dass wir die ganze Zeit darüber reden, wie man die Umwelt beschützen kann, weil nämlich richtig viele Leute alles verschmutzen, und das ist schlimm, weil dann Tiere sterben, wenn sie zum Beispiel Plastik fressen oder so.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Also die Tiere meine ich, nicht die Leute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Vorne steht jetzt gerade ein Mann mit langen Haaren, das ist ein Umweltbeschützer und er soll uns alles erklären.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Er sieht ein bisschen so aus wie Jesus vorne auf meiner Religionsmappe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber Jesus war glaube ich fast nie wütend und der Mann ist irgendwie richtig sauer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Die Erwachsenen verbrauchen viel zu viel Plastik und verschmutzen die Luft“, ruft er gerade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Aber je mehr Kinder sich um die Umwelt kümmern, desto besser.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und das stimmt natürlich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Danach reden wir ganz lange über Naturschutz, und dann sagt der Mann, wer will, kann bei ihm jetzt für einen Euro eine Müllkralle kaufen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/thumb__512_512_0_0_auto_002.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Wisst ihr, was eine Müllkralle ist?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das ist so ein Stab, an dem ist hinten ein Knopf dran, und wenn man den drückt, dann geht vorne ein Haken zu und schnappt Abfall, und das ist natürlich praktisch, weil man sich nicht zu bücken braucht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Leider habe ich keinen Euro dabei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber da fällt mir ein, dass ich ja einfach mein Milchgeld nehmen kann, weil ich ab jetzt sowieso nur noch Wasser trinken werde, denn der Mann hat gesagt, dass Kühe so viel pupsen und dadurch die Luft schlecht wird und dass das umweltschädlich ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das muss ich unbedingt Onkel Jussi erzählen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Der wohnt bei uns nebenan und er hat sogar 187 Kühe und 33 Kälber und dazu auch noch einen Bullen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber erst mal kaufe ich die Müllkralle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Da wird Flo aber staunen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Mama“, sage ich beim Mittagessen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Wenn das Baby da ist, dürfen wir keine Wegwerfwindeln aus Plastik benutzen.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Aha“, antwortet Mama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Das hat der Mann in der Schule heute gesagt“, erkläre ich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Und außerdem sah der aus wie Jesus.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Und dann kommt dein Herr Jesus immer zu uns und wäscht die Stoffwindeln, oder wie?“, fragt Mama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Nein, Mama!“, ruft Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Das machen natürlich Mimi und ich!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber ohne Waschmittel.“ Also manchmal versteht Flo solche Sachen richtig gut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Weil in Waschmittel ist nämlich Mikroplastik“, sage ich, und weil Mikroplastik ein ganz schön schweres Wort ist, fällt mir dabei ein bisschen Schnitzel aus dem Mund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Das schlucken sonst Fische runter und sterben.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Und du schluckst bitte erst mal dein Essen runter und redest dann“, antwortet Mama und guckt streng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich weiß echt nicht, warum sie das bei JEDEM Essen sagt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber da fällt mir plötzlich noch etwas anderes ein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Was richtig Schlimmes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Was war das eigentlich mal für ein Tier?“, frage ich und zeige auf das Schnitzel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Schwein“, antwortet Papa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/thumb__1024_1024_0_0_auto_003.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und da muss ich so würgen, dass ich das ganze Essen zurück auf den Tisch spucke.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ferkel sind doch so niedlich!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Fast so süß wie echte Babys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Der Mann aus der Schule isst übrigens überhaupt gar nie Fleisch, hat er gesagt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Mimi!“, schreit Mama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Sie springt auf und ihr Stuhl fällt nach hinten um.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Jetzt reicht’s!“ Und dabei haut sie mit der Hand auf den Tisch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Also, ich glaube jedenfalls, dass sie mit der Hand auf den Tisch hauen wollte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>In echt trifft sie nämlich ihren Tellerrand, und deshalb fliegt jetzt ihr Schnitzel mit Karacho hoch in die Luft und die Soße auch, und beides zusammen klatscht erst von unten in die Lampe und dann wieder auf die Tischplatte zurück.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und da sagt Mama überhaupt nichts mehr, sondern glotzt einfach nur auf die ganze Soße an der Glühbirne, und das sieht wirklich lustig aus und ich muss lachen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber da schluchzt Mama plötzlich auf und dreht sich um und rennt einfach ins Schlafzimmer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich kriege einen Riesenschreck.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich kann es nicht aushalten, wenn Erwachsene weinen und am allerwenigsten, wenn es Mama ist oder Papa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Mama tut mir so leid, dass mir auf einmal der ganze Bauch wehtut, und deshalb springe ich schnell auf, weil ich jetzt sofort zu ihr will.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Bleib mal hier“, sagt Papa da mit ganz lieber Stimme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Mama braucht einfach eine kleine Pause.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Bestimmt kommt sie gleich wieder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das Baby in ihrem Bauch bringt gerade alles ein bisschen durcheinander und Mama ist oft ungeduldig und manchmal muss sie sogar spucken und ganz selten auch noch weinen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das ist normal, wenn man schwanger ist, ihr müsst euch keine Sorgen machen.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Also, das finde ich jetzt schon ein bisschen komisch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und Mama tut mir immer noch leid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber zum Glück geht da die Schlafzimmertür auf und Mama guckt vorsichtig um die Ecke.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ihre Augen sind ein bisschen rot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Tut mir leid“, schnieft sie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Ich weiß auch nicht, was mit mir los ist.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Hab ich doch gesagt“, flüstert Papa und zwinkert Flo und mir zu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Macht doch nichts, Mama“, rufe ich schnell und laufe zu ihr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Flo rennt direkt hinter mir her, aber ich komme zuerst an und umarme Mamas Bauch, und Flo nimmt deshalb Mamas Rücken und steckt den Kopf unter ihrem Arm durch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Mach du mal nicht so einen Ärger, sonst wird hier alles total dreckig“, sagt sie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Sag mal, Flo, wie redest du denn mit mir?“, fragt Mama und runzelt die Stirn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Ich hab doch nicht mit dir geredet!“, ruft Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Sondern mit unserem Bruder!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und da umarmt Mama Flo und mich ganz fest zurück und zum Glück putzt Papa jetzt schon das ganze Schnitzel und die ganze Soße vom Tisch und von der Lampe weg, und alles sieht fast schon wieder picobello aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und da kommt auf einmal eine Idee in meinen Kopf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Eine richtig gute Überraschungsidee für den Bruder und für Mama und für Papa auch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Wollt ihr nicht langsam mal Mittagsschlaf machen?“, frage ich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und dabei merke ich schon, dass mein ganzer Bauch hüpft, weil das nämlich super wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und bin ganz froh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Wie Flo und ich einmal richtig gut aufgeräumt haben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Also Flo“, sage ich, als Mama und Papa endlich ins Schlafzimmer verschwunden sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Du räumst draußen im Garten auf und ich mache alle Sachen hier drinnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Damit helfen wir Mama und Papa ganz viel.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Ich hab aber keine Lust, draußen aufzuräumen“, antwortet Flo und schiebt die Unterlippe nach vorne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Draußen finde ich blöd.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Mann Flo!“, rufe ich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Allein schaffe ich aber die ganze Arbeit nicht!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und der Mann in der Schule hat gesagt, dass für Babys alles richtig sauber sein muss!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Nee“, sagt Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Ich mache drinnen und du räumst draußen auf.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber da erkläre ich ihr, dass sie sich mit Umweltschutz ja überhaupt nicht richtig auskennt und ich deshalb die schwierigen Sachen drinnen machen muss.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und dann erlaube ich Flo, dass sie zum Aufräumen meine Müllkralle ausleihen darf, und das findet sie dann auch gut und geht endlich in den Garten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich muss jetzt schnell machen, weil Mama und Papa schlafen ja immer nur eine Stunde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Als Erstes hole ich sechs Rollen Klopapier aus der Vorratskammer und die vom Halter im Bad nehme ich natürlich auch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Dann reiße ich alle Blätter einzeln ab, weil wenn man nämlich zur Toilette geht, soll man nicht immer so viel Papier benutzen, das ist Verschwendung und dadurch sterben Bäume.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und wenn die Blätter einzeln daliegen, kann man nicht mit einem „Wutsch“ die Rolle abrollen und vielleicht zwölf Blätter auf einmal abreißen oder so.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich lege die ganzen Blätter auf die Fensterbank neben dem Klo, und weil da nicht genug Platz ist, auch noch ziemlich viele rund um die Toilette auf die Fliesen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Auf dem Badewannenrand stehen zwei Shampooflaschen und eine Spülung und Duschgel noch dazu, das kippe ich alles in den Ausfluss, weil in normalem Shampoo ist Mikroplastik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und Shampoo und Seife kann man auch super selber machen, sagt der Mann aus der Schule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das mit dem Mikroplastik habe ich euch ja schon erzählt, davon sterben nämlich Fische.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Jetzt muss ich nur noch eine Sache erledigen, nämlich den Aufkleber für den Briefkasten basteln.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Es kommt ja jeden Tag richtig viel Werbung an, zum Beispiel so langweilige Zeitungen mit Frauenanziehsachen oder mit Schaufeln aus dem Baumarkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>In der Schule haben wir uns deshalb überlegt, dass man ein Schild auf den Briefkasten kleben kann, auf dem „Keine Werbung“ steht, weil wenn aus dem Papier keine Werbung gemacht wird, dann kann man es für wichtige Sachen benutzen, Bücher zum Beispiel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber meine Idee ist noch viel besser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich nehme ein großes Blatt und da schreibe ich drauf:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Keine Post einwerfen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Weil das spart ja noch mehr Papier, und Papa sagt sowieso fast jeden Tag, wenn er die Post holt: „Warum kommen hier eigentlich nur blöde Sachen an und niemand schreibt mehr echte Briefe?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Immer nur olle Rechnungen."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Drum herum male ich noch grüne Bäume und einen Totenkopf, der sieht richtig gefährlich aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/thumb__512_512_0_0_auto.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Danach flitze ich nach draußen und hole mein Fahrrad aus dem Schuppen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Der Briefkasten ist nicht direkt am Haus, sondern man muss ein Stück den Brückenweg entlangfahren, und da steht er dann, damit der Postbote nicht immer ganz bis zu uns kommen muss.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Neben uns ist nur noch der Hof von Onkel Jussi und Mats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Mats ist unser Cousin, und der ist fast schon jugendlich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Wir haben übrigens noch viel mehr Cousins, die heißen Bela und Ben und Henry, aber die leben woanders, nämlich in der Stadt, und da fahren wir fast nie hin, und deshalb kennen wir die kaum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Mimi“, schreit Flo und winkt mir wie wild mit der Müllkralle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Wo fährst du hin?“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Zum Briefkasten“, brülle ich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Ich komme gleich wieder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und dann helfe ich dir im Garten!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Flo und ich dürfen nämlich alleine bis zum Briefkasten fahren, weil bei uns fast nie Autos unterwegs sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber auf keinen Fall weiter, das erlaubt Mama nicht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich habe extra das dicke Klebeband aus Mamas Paketschublade mitgenommen, und damit klebe ich meinen Riesenzettel mitten auf dem Briefkasten fest, und er hält richtig gut, bestimmt sogar bei Regen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Der Briefkasten sieht jetzt viel schöner aus als vorher, ich ärgere mich nur ein bisschen, dass ich nicht gleich zwei Schilder gebastelt habe, weil dann hätte ich an dem von Onkel Jussi auch direkt noch eins festmachen können.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Als ich zurückkomme, steht Flo ganz hinten im Garten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich schmeiße mein Fahrrad auf die Einfahrt und flitze zu ihr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Jetzt bin ich dran“, sage ich und nehme ihr die Müllkralle aus der Hand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Ey“, kreischt Flo und reißt sie mir sofort wieder weg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Flo!“, sage ich mit ganz strenger Stimme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Das ist meine Müllkralle und deshalb kann ich auch darüber bestimmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und außerdem darf man nichts wegreißen.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Aber du hast ja selber weggerissen, du Blöde!“, schreit Flo und dann rennt sie einfach weg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Mit der Müllkralle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die spinnt ja wohl total!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich rase los wie eine Rakete und zum Glück kann ich viel schneller laufen als Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber als ich sie an der Kapuze packen will, macht sie plötzlich einen Haken zur Seite und ich stolpere und knalle hin, und zwar volle Kanone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Doch Flo bleibt trotzdem nicht stehen, sondern holt mit dem Arm weit aus und dann schmeißt sie meine Müllkralle einfach über den Zaun zur Gärtnerei.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die ist nebenan und da arbeitet nämlich Mama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Also nicht jetzt natürlich, jetzt macht sie ja Mittagsschlaf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Sag mal, spinnst du?“, schreie ich und bin so wütend wie noch nie in meinem Leben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und deshalb springe ich auf und reiße Flo an den Haaren und sie kneift mir richtig doll in den Arm und wir kreischen beide und dann fallen wir hin und rollen durchs Gras und kämpfen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber zum Glück schaffe ich es, mich auf Flo draufzusetzen, und dann drücke ich ihre beiden Arme ins Gras und zische: „Gibst du auf?“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Klicko“, schreit Flo, doch das geht ja überhaupt nicht, weil „Klicko“ darf man nur sagen, wenn man beim Fangenspielen eine Pause machen will, aber nicht beim Kämpfen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Klicko, wir wechseln ab!“, ruft Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich drücke noch einmal richtig fest ihre Arme in den Rasen und denke nach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Na gut“, zische ich schließlich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Aber ich darf länger als du, weil das meine Kralle ist und ich beim Kämpfen gegen dich gewonnen habe.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und da nickt Flo, und dann lass ich sie los, weil sonst bestimmt gleich Mama und Papa aufwachen und wir ja noch gar nicht fertig mit dem Garten sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber jetzt müssen wir erst mal die Müllkralle zurückholen, und das ist ganz schön schwierig, weil der Zaun nämlich so hoch ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/thumb__512_512_0_0_auto_003.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich mache Räuberleiter und Flo zieht sich hoch und dann guckt sie oben drüber und ruft: „Also, das glaube ich ja wohl nicht.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Irgendwie hört sie sich dabei an wie Mama, wenn sie zum Beispiel abends in unser Zimmer kommt und wir noch nicht aufgeräumt haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Was ist denn?“, rufe ich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„So eine Umweltverschmutzung hab ich noch nie gesehen!“, antwortet Flo und ihre Stimme klingt richtig empört.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und da lasse ich ihren Fuß einfach los und sie plumpst ins Gras, aber sie tut sich nicht weh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Stattdessen springe ich jetzt selber hoch und ziehe mich an der Zaunkante nach oben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Das ist ganz schön schwer, doch ich schaffe das, weil ich nämlich richtig stark bin und nicht nur Pudding in den Armen habe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und ihr glaubt nicht, was da hinter dem Zaun ist!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ein Müllberg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und zwar kein kleiner, sondern ein riesengroßer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ganz unten liegen schimmelige Apfelsinenschalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Darüber Kartoffeln, aus denen gucken grüne Keime raus, wie so Drakula-Arme, und dann auch noch Äpfel mit ekligen Matschstellen und ziemlich viele Bananenschalen und auch ganze Bananen, die sind braun und riechen irgendwie süß-matschig, sogar bis hier oben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich versuche, mir mit einer Hand die Nase zuzuhalten, aber da rutsche ich fast ab, und deshalb atme ich jetzt einfach so wenig wie möglich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Flo“, presse ich hervor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Das müssen wir wegräumen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Stell dir mal vor, unser Bruder besucht Mama mal in der Gärtnerei, und wenn sie nicht guckt, krabbelt er nach hinten und dann sitzt der mitten in dem Stinkehaufen und isst die Sachen vielleicht sogar auf!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Uuuuähhhhh“, würgt Flo hervor, und dabei schüttelt sie sich so, dass ich fast schon denke, sie muss spucken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Flo ist zwar ziemlich mutig, aber manchmal auch ein bisschen empfindlich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Also gut“, sage ich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Ich klettere auf die andere Seite und werfe mit der Kralle alle Sachen zu dir rüber.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und dann bringen wir sie zusammen zu unserer Mülltonne, okay?“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Okay“, sagt Flo mit so einer Quetschstimme, weil sie sich nämlich jetzt schon die Nase zuhält, obwohl es bei ihr ja noch gar nicht stinkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich nehme meinen ganzen Mut zusammen, ziehe mich am Zaun hoch und springe auf der anderen Seite ins Gras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Zum Glück rutsche ich nicht aus, weil in dieser ekelhaften Matschestinke will ich bestimmt nicht liegen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Achtung Flo!“, schreie ich und dann schnappe ich mir mit der Müllkralle die erste Ladung Bananenschalen und schleudere sie in einem richtig hohen Bogen über den Zaun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Es dauert ganz schön lange, bis ich alle Sachen auf die andere Seite geworfen habe, besonders die Schimmelapfelsinen sind schwierig, weil die so rund sind und immer durch die blöde Kralle rutschen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einmal fällt mir sogar so eine Orange auf die Haare, pfui Teufel!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber ich habe keine Zeit, um mich richtig zu ekeln, weil Flo und ich ja schnell machen müssen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Als ich endlich fertig bin und über den Zaun gucke, kann ich selbst kaum glauben, wie viel Müll das ist!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Weil bei uns auf dem Rasen liegt er jetzt ja überall verteilt, und in der Gärtnerei war es ein Haufen, da sah es irgendwie weniger aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Flo steht mittendrin und stemmt die Arme in die Seiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Also Mamas Chef ist ein RICHTIGER Umweltverschmutzer!“, ruft sie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Glaubst du, dass Mama das weiß?“, frage ich und springe neben Flo ins Gras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Flo zieht die Schultern nach oben und guckt grimmig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Ich weiß, was wir machen“, ruft sie plötzlich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Wir legen den ganzen Dreck erst mal vor die Haustür und zeigen ihn Mama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>In die Mülltonne können wir ihn hinterher ja immer noch bringen.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Also manchmal hat Flo echt richtig gute Ideen, obwohl sie noch so klein ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Wir holen uns schnell Arbeitshandschuhe aus dem Schuppen, weil wir ja nur eine Müllkralle haben, und mit den Händen geht das Wegräumen sowieso viel schneller.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Am Anfang ist das ganz schön ekelhaft, aber dann gewöhnen Flo und ich uns irgendwie daran, und da ist es eigentlich sogar lustig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/thumb__1024_1024_0_0_auto.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Wir kriegen nur einmal fast Streit, als Flo aus Witz eine Bananenschale nach mir wirft, aber nur ganz kurz und dann machen wir weiter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Wir sortieren die Sachen sogar, weil das nämlich irgendwie schöner aussieht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und dann sind wir fertig und die Reihenfolge ist so:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Direkt vor der Haustür liegt eine richtig lange Reihe Bananenschalen und ganzevBananen, dahinter kommen dann die verschimmelten Apfelsinen und Matschäpfel, dann die Kartoffeln und ganz am Ende irgendwie so gammelige Lauchstangen, die haben wir nämlich auch noch gefunden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>haben wir nämlich auch noch gefunden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die steckt Flo in Mamas Blumenbeet, mitten zwischen die Rosen, immer abwechselnd ein Lauch und eine Rose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Das sieht eigentlich sogar ganz schön aus“, sagt Flo und guckt stolz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Die werfen wir nachher nicht weg.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und dann rennen wir nach drinnen, weil jetzt bin ich richtig gespannt, was Mama und Papa sagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Eigentlich dürfen wir sie beim Mittagsschlaf nicht wecken, aber heute ist eine Ausnahme, weil wir ja eine richtig gute Überraschung haben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Wir machen ganz vorsichtig die Schlafzimmertür auf und gucken um die Ecke.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Mama“, flüstere ich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Was riecht denn hier so?“, fragt Papa und rümpft die Nase, obwohl seine Augen noch zu sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Ihr müsst kommen!“, wispert Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Mimi und ich haben super Umweltschutzsachen gemacht.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich stoße Flo in den Rücken, weil eigentlich soll sie das ja noch gar nicht verraten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Mama setzt sich auf und starrt uns an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Was hast du denn in deinen Haaren, Mimi?“, fragt sie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Und warum habt ihr Arbeitshandschuhe an?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und warum, bitte schön, stinkt ihr so erbärmlich???“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Flo und ich gucken uns an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber als wir gerade antworten wollen, hören wir draußen eine Stimme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Hallo“, brüllt da jemand aus dem Hof.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Jemand zu Hause?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ich hätte kurz eine Frage zu Ihrem Zettel!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Ist das der Postbote?“, fragt Papa und guckt Mama an.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber die antwortet gar nicht, sondern springt aus dem Bett.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Mir ist übel“, ruft sie und rast ins Bad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Flo stößt mir den Arm in die Seite und zwinkert mir zu, weil Mama jetzt ja gleich die erste Überraschung sieht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber wir können gar nicht hören, wie sie sich freut, weil Papa uns nämlich zur Seite schiebt und die Treppe nach unten rast und dabei „Ich komme schon!“ brüllt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und da flitzen Flo und ich natürlich hinterher, weil wir jetzt auch neugierig sind.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Papa rennt durch den Flur und reißt die Haustür auf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und dann sagt er nichts mehr, und zwar noch nicht mal Piep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Stattdessen reißt er die Augen auf und zeigt auf den Hof und schnappt nach Luft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Dann dreht er sich zu uns um und dann wieder zurück, weil jetzt nämlich der Postbote mit den Armen winkt.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20230531T161455Z">
+        <seg>Luego se vuelve hacia nosotros y luego vuelve porque ahora el cartero agita los brazos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Der steht ziemlich weit weg, direkt hinter der Kartoffelreihe, aber noch vor den Lauchstangen im Beet.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20230531T161455Z">
+        <seg>Está bastante lejos, directamente detrás de la hilera de papas, pero aún frente a los puerros en la cama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Entschuldigung“, ruft er und legt dabei die Hände an den Mund wie einen Trichter.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20230531T161455Z">
+        <seg>"Disculpe", dice, llevándose las manos a la boca como un embudo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Ist das ernst gemeint, dass Sie überhaupt keine Post mehr wollen?“ Und dabei schwenkt er ein ganzes Bündel mit Katalogen und Briefen über dem Kopf hin und her.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20230531T161455Z">
+        <seg>"¿Hablas en serio acerca de no querer más correo?" Y está agitando un montón de catálogos y cartas sobre su cabeza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Äh-äh-äh“, stottert Papa.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20230531T161455Z">
+        <seg>"Uh-uh-uh", tartamudea papá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Was?</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20230531T161455Z">
+        <seg>"¿Qué?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Wie?</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20230531T161455Z">
+        <seg>¿Cómo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Waaaaas???“ Und dabei dreht er sich auf dem Absatz um und sein Finger zeigt immer noch nach vorne, aber jetzt nicht mehr auf den Müll, sondern auf Flo und mich.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20230531T161455Z">
+        <seg>¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿Y él gira sobre sus talones y su dedo sigue apuntando hacia adelante, pero ahora ya no está en la basura, sino en Flo y en mí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Was ist das?“, ruft er und reißt die Augen auf, als hätte er ein grünes Kaninchen gesehen.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20230531T161455Z">
+        <seg>"¿Qué es eso?", grita, abriendo mucho los ojos como si hubiera visto un conejo verde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber als wir gerade etwas sagen wollen, geht die Badezimmertür auf und Mama kommt rausgerannt.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20230531T161455Z">
+        <seg>Pero justo cuando estamos a punto de decir algo, la puerta del baño se abre y mamá sale corriendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>In ihren Armen hält sie einen ganzen Stapel Klopapierblätter und ruft: „Mimi und Flo, könnt ihr mir das bitte mal erklä…!“</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20230531T161455Z">
+        <seg>Sostiene una pila entera de papel higiénico en sus brazos y grita: "Mimi y Flo, ¡podrían explicarme eso por favor...!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und dann bleibt auch sie stocksteif stehen und reißt die Augen auf und starrt in den Hof und dann auf Papa und dann wieder in den Hof.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20230531T161455Z">
+        <seg>Y luego se queda inmóvil y abre mucho los ojos y mira fijamente al patio y luego a papá y luego de vuelta al patio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Ich leg die Briefe einfach mal hier ab!“, ruft jetzt der Postbote und bückt sich.</seg>
+      </tuv>
+      <tuv xml:lang="es" creationid="OmegaT Aligner" creationdate="20230531T161455Z">
+        <seg>"¡Solo pondré las letras aquí!",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Dann dreht er sich um und springt ganz schnell in sein Auto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Aber ich habe genau gesehen, dass er sich auch noch mit dem Finger an die Stirn getippt hat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und dann erklären Flo und ich Mama und Papa erst mal alles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Dass Mamas Chef ein richtig schlimmer Umweltverschmutzer ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und dass man nicht so viel Klopapier benutzen soll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und dass ab jetzt auch überhaupt keine Rechnungen mehr kommen und dass das ja wohl gut ist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Erst sind Mama und Papa irgendwie sauer, aber dann doch nicht mehr, und schließlich sagen sie, dass wir ab jetzt einfach Umweltschutzklopapier kaufen werden, weil stellt euch mal vor, das gibt es auch!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und dann muss ich auch nicht mehr immer alle Blätter einzeln abreißen, und das finde ich gut, weil das war nämlich ganz schön viel Arbeit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und das mit dem Aufkleber am Briefkasten machen wir auch anders, nämlich wir schreiben doch nur „Keine Werbung“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Denn stell dir mal vor, Mimi, jemand schickt dir eine Einladung zum Kindergeburtstag und der Briefträger wirft sie nicht ein!“, sagt Papa, und daran hatte ich überhaupt nicht gedacht. Und dann erklärt Mama uns, dass das in der Gärtnerei gar kein richtiger Müllberg war, sondern ein Komposthaufen, und das ist was anderes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Die Kunden können ihr altes Obst und Gemüse in der Gärtnerei abgeben und dann wird das gesammelt und irgendwann wird daraus ganz von selber richtig gute Erde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Ihr müsst den Müll also wieder zurückbringen, bevor ihr in die Wanne geht“, sagt Mama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>„Mein Chef macht keine Umweltverschmutzung, sondern er kümmert sich richtig gut um die Natur!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und da bin ich ganz erleichtert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Und froh sowieso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/tag.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ende der Geschichte!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Hab einen spannenden Tag!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>zurück</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/pdf/ziemlich-beste-schwestern-total-schief-gewickelt-band-5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>jetzt drucken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Oder noch nicht genug vorgelesen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Hier findest du weitere Geschichten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/geschichtenregal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>weiterlesen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Lesezeichen hinzugefügt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Du hast für diese Geschichte auf diesem Gerät ein Lesezeichen gesetzt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Wenn du sie das nächste Mal öffnest, kannst du an der markierten Stelle fortfahren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>ok, verstanden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Ein Service von:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/logo_einfachvorlesen.svg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.stiftunglesen.de/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/logo_stiftunglesen.svg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>http://www.deutschebahnstiftung.de/lesen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/logo_deutschebahnstiftung.svg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Startseite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/geschichtenregal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Geschichten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/lesestart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Für Kleinkinder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/vorlesetipps</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Vorlesetipps</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/faq</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Noch Fragen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/newsletteranmeldung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Newsletteranmeldung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/impressum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Impressum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>https://www.einfachvorlesen.de/datenschutz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Datenschutz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Datenschutzeinstellung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>http://fragfinn.de/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Kindersuchmaschine fragFINN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="de">
+        <seg>Einfach%20vorlesen!_files/fragfinn_button.png</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

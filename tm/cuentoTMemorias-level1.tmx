@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="de"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="de">
+        <seg>Aber als wir gerade etwas sagen wollen, geht die Badezimmertür auf und Mama kommt rausgerannt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230531T163041Z" creationid="Arturo" creationdate="20230531T163041Z">
+        <seg>Pero justo cuando íbamos a decir algo, se abre la puerta del baño y sale Mamá corriendo desde dentro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Dann dreht er sich zu uns um und dann wieder zurück, weil jetzt nämlich der Postbote mit den Armen winkt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230531T162234Z" creationid="Arturo" creationdate="20230531T162234Z">
+        <seg>Después se voltea hacia nosotras y vuelve de nuevo porque ahora el cartero estaba agitando los brazos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Der steht ziemlich weit weg, direkt hinter der Kartoffelreihe, aber noch vor den Lauchstangen im Beet.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230531T162447Z" creationid="Arturo" creationdate="20230531T162447Z">
+        <seg>Está muy lejos, justo detrás de la fila de las patatas, pero enfrente de los puerros del bancal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>In ihren Armen hält sie einen ganzen Stapel Klopapierblätter und ruft: „Mimi und Flo, könnt ihr mir das bitte mal erklä…!“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230531T163246Z" creationid="Arturo" creationdate="20230531T163246Z">
+        <seg>En sus brazos lleva una pila de rollos de papel higiénico en sus brazos y grita: "¡Mimi y Flo! ¡¿Se puede saber porque...?!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Und dann bleibt auch sie stocksteif stehen und reißt die Augen auf und starrt in den Hof und dann auf Papa und dann wieder in den Hof.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230531T163518Z" creationid="Arturo" creationdate="20230531T163518Z">
+        <seg>Y luego se queda inmóvil y abre mucho los ojos y mira fijamente al patio y luego a Papá y luego de nuevo al patio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Waaaaas???“ Und dabei dreht er sich auf dem Absatz um und sein Finger zeigt immer noch nach vorne, aber jetzt nicht mehr auf den Müll, sondern auf Flo und mich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230531T162921Z" creationid="Arturo" creationdate="20230531T162921Z">
+        <seg>¿Queeeeeé?“ Y de repente gira sobre sus talones mientras su dedo sigue apuntando hacia delante, pero ya no apunta a la basura, si no que a Flo y a mí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Wie?</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230531T162724Z" creationid="Arturo" creationdate="20230531T162724Z">
+        <seg>¿Cómo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Entschuldigung“, ruft er und legt dabei die Hände an den Mund wie einen Trichter.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230531T162523Z" creationid="Arturo" creationdate="20230531T162523Z">
+        <seg>"Disculpa" dijo mientras se llevaba las manos a la boca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Ich leg die Briefe einfach mal hier ab!“, ruft jetzt der Postbote und bückt sich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230531T163647Z" creationid="Arturo" creationdate="20230531T163647Z">
+        <seg>"¡Dejaré las letras aquí!" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Ist das ernst gemeint, dass Sie überhaupt keine Post mehr wollen?“ Und dabei schwenkt er ein ganzes Bündel mit Katalogen und Briefen über dem Kopf hin und her.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230531T162639Z" creationid="Arturo" creationdate="20230531T162639Z">
+        <seg>"¿Enserio que no quieres más correo?" y mientras agitaba un montón de cartas y catálogos sobre su cabeza..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Was ist das?“, ruft er und reißt die Augen auf, als hätte er ein grünes Kaninchen gesehen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230531T162957Z" creationid="Arturo" creationdate="20230531T162957Z">
+        <seg>"¿Qué es eso?" grita mientras abría los ojos como si hubiese visto un conejo verde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Was?</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230531T162715Z" creationid="Arturo" creationdate="20230531T162715Z">
+        <seg>"¿Qué?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Äh-äh-äh“, stottert Papa.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230531T162702Z" creationid="Arturo" creationdate="20230531T162702Z">
+        <seg>"Eh-eh-eh", tartamudeó Papá..</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
