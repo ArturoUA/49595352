@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="de">
+        <seg>Aber Jesus war glaube ich fast nie wütend und der Mann ist irgendwie richtig sauer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T212031Z" creationid="Ramon" creationdate="20230601T212031Z">
+        <seg>Pero creo que Jesús nunca se enfadó y el hombre esta de alguna forma cabreado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Aber dann nehmen wir einen ganz kleinen ohne Zähne, weil sonst beißt der vielleicht Kalle!“, hat Flo gesagt und die Stirn gerunzelt.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T204838Z" creationid="Ramon" creationdate="20230601T204838Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T182230Z" creationid="alumno" creationdate="20230601T182230Z">
         <seg>Bueno Flo piensa que el ángel hace eso, porque le gustan tanto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Also die Tiere meine ich, nicht die Leute.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T211827Z" creationid="Ramon" creationdate="20230601T211827Z">
+        <seg>Quiero decir los animales, no las personas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +178,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T205156Z" creationid="Ramon" creationdate="20230601T205156Z">
         <seg>Una vez Flo y yo cogimos un ternero de la granja del tío Jussi, pero eso ya os lo conté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Er sieht ein bisschen so aus wie Jesus vorne auf meiner Religionsmappe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T211956Z" creationid="Ramon" creationdate="20230601T211956Z">
+        <seg>Se parece un poco a Jesús en mi m,apa de religión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Vorne steht jetzt gerade ein Mann mit langen Haaren, das ist ein Umweltbeschützer und er soll uns alles erklären.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T211919Z" creationid="Ramon" creationdate="20230601T211919Z">
+        <seg>Delante hay ahora un hombre con pelo largo, que es un protector medioambiental y el nos lo va a explicar todo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Weil ratet mal, was passiert ist?</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T181340Z" creationid="alumno" creationdate="20230601T181340Z">
@@ -394,6 +426,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T165042Z" creationid="alumno" creationdate="20230601T165042Z">
         <seg>„Eso lo haremos Mimi y yo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Die Erwachsenen verbrauchen viel zu viel Plastik und verschmutzen die Luft“, ruft er gerade.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T212129Z" creationid="Ramon" creationdate="20230601T212129Z">
+        <seg>Los adultos utilizan demasiado plástico y contaminan el aire.</seg>
       </tuv>
     </tu>
     <tu>
