@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Ich hab doch nicht mit dir geredet!“, ruft Flo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T220707Z" creationid="Ramon" creationdate="20230601T220707Z">
+        <seg>¡No hablaba contigo! gritó Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Ich weiß auch nicht, was mit mir los ist.“</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T220159Z" creationid="Ramon" creationdate="20230601T220159Z">
@@ -898,6 +906,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214446Z" creationid="Ramon" creationdate="20230601T214446Z">
         <seg>Cerdo, contestó papá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Sondern mit unserem Bruder!“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T230756Z" creationid="Ramon" creationdate="20230601T230756Z">
+        <seg>¡Sino con nuestro hermano!</seg>
       </tuv>
     </tu>
     <tu>
