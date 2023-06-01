@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Bei uns hat heute aber keine Glocke geläutet, sondern Mama und Papa haben morgens so getuschelt und irgendwie komisch geguckt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T182557Z" creationid="alumno" creationdate="20230601T182557Z">
+        <seg>Pero a nosotras no nos ha sonado ninguna campana, sino que mama y papa estaban cuchicheando y mirando un poco raro por la mañana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Darauf kommt ihr nie im Leben!</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T181519Z" creationid="alumno" creationdate="20230601T181519Z">
@@ -30,10 +38,26 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Doch in Wahrheit macht der Weihnachtsmann das natürlich selber, weil das ja eine richtig wichtige Aufgabe ist.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T182426Z" creationid="alumno" creationdate="20230601T182426Z">
+        <seg>Per en realidad lo hace Papa Noel porque es una tarea realmente importante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Eine Geschichte von Sarah Welk mit Illustrationen von Sharon Harmer, erschienen im arsEdition Verlag.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T180531Z" creationid="alumno" creationdate="20230601T180531Z">
         <seg>Una historia de Sarah Welk mcon ilustraciones de Sharon Harmer,publicado enarsEdition Verlag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Flo ist meine kleine Schwester, sie geht noch in den Kindergarten.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T182309Z" creationid="alumno" creationdate="20230601T182309Z">
+        <seg>Flo es mi hermana pequeña, aun va a la guardería.</seg>
       </tuv>
     </tu>
     <tu>
