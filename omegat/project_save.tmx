@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Und da muss ich so würgen, dass ich das ganze Essen zurück auf den Tisch spucke.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T214638Z" creationid="Ramon" creationdate="20230601T214638Z">
+        <seg>Y empiezan a darme arcadas, tales qeu escupo toda la comida a la mesa otra vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Und da war ich mir ganz sicher, dass irgendwas nicht stimmt.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T184118Z" creationid="alumno" creationdate="20230601T184118Z">
@@ -662,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Schwein“, antwortet Papa.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T214446Z" creationid="Ramon" creationdate="20230601T214446Z">
+        <seg>Cerdo, contestó papá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Und außerdem sah der aus wie Jesus.“</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T213614Z" creationid="Ramon" creationdate="20230601T213614Z">
@@ -690,6 +706,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T204442Z" creationid="Ramon" creationdate="20230601T204442Z">
         <seg>¡Nuestra sorpresa no es un poni de verdad!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Was war das eigentlich mal für ein Tier?“, frage ich und zeige auf das Schnitzel.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T214433Z" creationid="Ramon" creationdate="20230601T214433Z">
+        <seg>¿A todo esto que animal era este? pregunto señalando la salchicha.</seg>
       </tuv>
     </tu>
     <tu>
