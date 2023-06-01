@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Bestimmt kommt sie gleich wieder.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T215819Z" creationid="Ramon" creationdate="20230601T215819Z">
+        <seg>Seguramente vuelva pronto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Da hat Mama sich nach vorne gelehnt und mit der einen Hand hat sie meine genommen und mit der anderen Flos.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T210727Z" creationid="Ramon" creationdate="20230601T210727Z">
@@ -166,10 +174,26 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Das Baby in ihrem Bauch bringt gerade alles ein bisschen durcheinander und Mama ist oft ungeduldig und manchmal muss sie sogar spucken und ganz selten auch noch weinen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T215924Z" creationid="Ramon" creationdate="20230601T215924Z">
+        <seg>El bebé en su barriga la tiene un poco alterada y está a menudo impaciente y a veces tiene incluso que escupir o llorar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Das heißt, dass wir die ganze Zeit darüber reden, wie man die Umwelt beschützen kann, weil nämlich richtig viele Leute alles verschmutzen, und das ist schlimm, weil dann Tiere sterben, wenn sie zum Beispiel Plastik fressen oder so.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T211739Z" creationid="Ramon" creationdate="20230601T211739Z">
         <seg>Eso quiere decir que hablamos todo el tiempo sobre como podemos cuidar el medioambiente, porque mmuchas personas lo ensucian, y esto es malo, porque mueren los animales cuando comen plástico o algo así.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Das ist normal, wenn man schwanger ist, ihr müsst euch keine Sorgen machen.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T215951Z" creationid="Ramon" creationdate="20230601T215951Z">
+        <seg>Eso es normal cuando está embarazada, no os preocupéis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -646,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Bleib mal hier“, sagt Papa da mit ganz lieber Stimme.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T215739Z" creationid="Ramon" creationdate="20230601T215701Z">
+        <seg>Quédate aqui un momento, dice papa con una voz muy dulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Das hat der Mann in der Schule heute gesagt“, erkläre ich.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T213549Z" creationid="Ramon" creationdate="20230601T213549Z">
@@ -714,6 +746,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214914Z" creationid="Ramon" creationdate="20230601T214914Z">
         <seg>¡Ya es suficiente! Y golpea con la mano la mesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Mama braucht einfach eine kleine Pause.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T215801Z" creationid="Ramon" creationdate="20230601T215801Z">
+        <seg>Mamá necesita solo un pequeño descanso.</seg>
       </tuv>
     </tu>
     <tu>
