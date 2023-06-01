@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Ganz manchmal auch lebende, aber das ist keine Tierquälerei, weil die können ja wieder rauskrabbeln, wenn es ihnen da drinnen zu dunkel ist.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T235316Z" creationid="Arturo" creationdate="20230601T235316Z">
+        <seg>A veces incluso vivas, aunque eso no es maltrato animal, porque pueden volver salir si lo encuentran muy oscuro para ellas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Heute ist der beste Tag der Welt.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T181132Z" creationid="alumno" creationdate="20230601T181132Z">
@@ -706,6 +714,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T184200Z" creationid="alumno" creationdate="20230601T184200Z">
         <seg>Porque por suerte no lo hace muy a menudo, porque me parece vergonzoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Wenn Flo nämlich einen toten Marienkäfer findet, steckt sie ihn einfach durch den Schlitz.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T235007Z" creationid="Arturo" creationdate="20230601T235007Z">
+        <seg>Porque cuando Flo se encuentra una mariquita muerta, simplemente la mete por la ranura.</seg>
       </tuv>
     </tu>
     <tu>
