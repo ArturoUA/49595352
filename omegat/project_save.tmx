@@ -12,6 +12,14 @@
         <seg>Imprimir ahora</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Das machen natürlich Mimi und ich!</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T165042Z" creationid="alumno" creationdate="20230601T165042Z">
+        <seg>„Eso lo haremos Mimi y yo!</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
