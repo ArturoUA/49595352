@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Deshalb renne ich zu Papas Arbeitszimmer und klopfe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T235634Z" creationid="Arturo" creationdate="20230601T235634Z">
+        <seg>Así que corro hacia el estudio de Papá y llamo a la puerta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Die erste Stunde hat heute übrigens später als sonst angefangen, weil wir Projektwoche haben.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T211627Z" creationid="Ramon" creationdate="20230601T211627Z">
@@ -850,6 +858,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T203249Z" creationid="Ramon" creationdate="20230601T203249Z">
         <seg>-¡¡Un poni!! gritó Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Entschuldigung, Papa“, sage ich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T235656Z" creationid="Arturo" creationdate="20230601T235656Z">
+        <seg>"Perdona Papá", le digo.</seg>
       </tuv>
     </tu>
     <tu>
