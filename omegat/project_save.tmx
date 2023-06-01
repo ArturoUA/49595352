@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>In der Speisekammer finden wir leider nur normales Mehl, das ist natürlich blöd.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T235447Z" creationid="Arturo" creationdate="20230601T235447Z">
+        <seg>Lamentablemente sólo encontramos harina normal en la despensa, lo cual es una estupidez, claro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>In echt trifft sie nämlich ihren Tellerrand, und deshalb fliegt jetzt ihr Schnitzel mit Karacho hoch in die Luft und die Soße auch, und beides zusammen klatscht erst von unten in die Lampe und dann wieder auf die Tischplatte zurück.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T215157Z" creationid="Ramon" creationdate="20230601T215157Z">
