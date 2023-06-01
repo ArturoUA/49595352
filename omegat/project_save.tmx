@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Aber zum Glück geht da die Schlafzimmertür auf und Mama guckt vorsichtig um die Ecke.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T220116Z" creationid="Ramon" creationdate="20230601T220116Z">
+        <seg>Peor por suerte se abre la puerta de la habitación y sale cuidadosamente por la esquina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Als wir in die Küche gekommen sind, haben Mama und Papa am Tisch gesessen und haben so komisch gelächelt.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183747Z" creationid="alumno" creationdate="20230601T183747Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T182137Z" creationid="alumno" creationdate="20230601T182137Z">
         <seg>Es decir, no algo misterioso de miedo,sino algo como los regalos en Navidad donde no puedes mirar y solo puedes salir del cuarto cuando el ángel toque la campana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Also, das finde ich jetzt schon ein bisschen komisch.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T220013Z" creationid="Ramon" creationdate="20230601T220013Z">
+        <seg>Eso si que me parecía un poco raro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Ihre Augen sind ein bisschen rot.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T220128Z" creationid="Ramon" creationdate="20230601T220128Z">
+        <seg>Sus ojos están un poco rojos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>In echt trifft sie nämlich ihren Tellerrand, und deshalb fliegt jetzt ihr Schnitzel mit Karacho hoch in die Luft und die Soße auch, und beides zusammen klatscht erst von unten in die Lampe und dann wieder auf die Tischplatte zurück.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T215157Z" creationid="Ramon" creationdate="20230601T215157Z">
@@ -490,6 +514,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T205214Z" creationid="Ramon" creationdate="20230601T205214Z">
         <seg>Y Kalle es nuestro gato, claro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Und Mama tut mir immer noch leid.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T220028Z" creationid="Ramon" creationdate="20230601T220028Z">
+        <seg>Y mamá me seguía dando pena.</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,10 +774,34 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Hab ich doch gesagt“, flüstert Papa und zwinkert Flo und mir zu.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T220241Z" creationid="Ramon" creationdate="20230601T220241Z">
+        <seg>Te lo dije, nos susurra a Flo y a mi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Ich weiß auch nicht, was mit mir los ist.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T220159Z" creationid="Ramon" creationdate="20230601T220159Z">
+        <seg>Tampoco sé lo que me está pasando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Jetzt reicht’s!“ Und dabei haut sie mit der Hand auf den Tisch.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214914Z" creationid="Ramon" creationdate="20230601T214914Z">
         <seg>¡Ya es suficiente! Y golpea con la mano la mesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Macht doch nichts, Mama“, rufe ich schnell und laufe zu ihr.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T220311Z" creationid="Ramon" creationdate="20230601T220311Z">
+        <seg>No pasa nada mamá, grito rápidamente y corro a ella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -818,6 +874,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214446Z" creationid="Ramon" creationdate="20230601T214446Z">
         <seg>Cerdo, contestó papá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Tut mir leid“, schnieft sie.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T220140Z" creationid="Ramon" creationdate="20230601T220140Z">
+        <seg>Lo siento, murmura ella.</seg>
       </tuv>
     </tu>
     <tu>
