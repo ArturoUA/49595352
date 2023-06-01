@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Also, ich glaube jedenfalls, dass sie mit der Hand auf den Tisch hauen wollte.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T214939Z" creationid="Ramon" creationdate="20230601T214939Z">
+        <seg>Bueno, eso pensé, que quería darle con la mano en la mesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Bei uns hat heute aber keine Glocke geläutet, sondern Mama und Papa haben morgens so getuschelt und irgendwie komisch geguckt.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T182557Z" creationid="alumno" creationdate="20230601T182557Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T184001Z" creationid="alumno" creationdate="20230601T184001Z">
         <seg>¡Eso es verdad!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Der Mann aus der Schule isst übrigens überhaupt gar nie Fleisch, hat er gesagt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T214800Z" creationid="Ramon" creationdate="20230601T214800Z">
+        <seg>El hombre de la escuela dijo que no comía nunca carne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,6 +278,22 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Fast so süß wie echte Babys.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T214727Z" creationid="Ramon" creationdate="20230601T214727Z">
+        <seg>Casi tan monos como bebés de verdad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ferkel sind doch so niedlich!</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T214710Z" creationid="Ramon" creationdate="20230601T214710Z">
+        <seg>¡Pero si los cerditos son tan monos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Flo ist meine kleine Schwester, sie geht noch in den Kindergarten.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T182309Z" creationid="alumno" creationdate="20230601T182309Z">
@@ -306,6 +338,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214256Z" creationid="Ramon" creationdate="20230601T214256Z">
         <seg>No se porque lo dice en CADA comida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>In echt trifft sie nämlich ihren Tellerrand, und deshalb fliegt jetzt ihr Schnitzel mit Karacho hoch in die Luft und die Soße auch, und beides zusammen klatscht erst von unten in die Lampe und dann wieder auf die Tischplatte zurück.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T215157Z" creationid="Ramon" creationdate="20230601T215157Z">
+        <seg>En realidad le da al borde de plato y por eso este sale volando con su salchicha por los aires, con la salsa también y todo se choca contra la lámpara y cae otra vez a la mesa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -370,6 +410,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183220Z" creationid="alumno" creationdate="20230601T183220Z">
         <seg>¡Papa y yo os queremos contar algo!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Sie springt auf und ihr Stuhl fällt nach hinten um.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T214834Z" creationid="Ramon" creationdate="20230601T214834Z">
+        <seg>Se levanta y su silla se cae hacia atrás.</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Jetzt reicht’s!“ Und dabei haut sie mit der Hand auf den Tisch.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T214914Z" creationid="Ramon" creationdate="20230601T214914Z">
+        <seg>¡Ya es suficiente! Y golpea con la mano la mesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Mama und ich haben eine Überraschung für euch“, hat er schließlich gesagt.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T203123Z" creationid="Ramon" creationdate="20230601T203123Z">
@@ -634,6 +690,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T213353Z" creationid="Ramon" creationdate="20230601T213353Z">
         <seg>Mamá, digo en la comida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Mimi!“, schreit Mama.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T214817Z" creationid="Ramon" creationdate="20230601T214817Z">
+        <seg>¡Mimi! gritó mamá.</seg>
       </tuv>
     </tu>
     <tu>
