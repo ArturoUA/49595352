@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Flo rennt direkt hinter mir her, aber ich komme zuerst an und umarme Mamas Bauch, und Flo nimmt deshalb Mamas Rücken und steckt den Kopf unter ihrem Arm durch.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T220428Z" creationid="Ramon" creationdate="20230601T220428Z">
+        <seg>Flo corre justo detrás de mi, pero yo llego primera y abraza la barriga de mamá y Flo abraza la espalda de mamá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Heute ist der beste Tag der Welt.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T181132Z" creationid="alumno" creationdate="20230601T181132Z">
@@ -798,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Mach du mal nicht so einen Ärger, sonst wird hier alles total dreckig“, sagt sie.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T220553Z" creationid="Ramon" creationdate="20230601T220553Z">
+        <seg>No armes tanto follón, que si no se va a ensuciar todo, dice ella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Macht doch nichts, Mama“, rufe ich schnell und laufe zu ihr.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T220311Z" creationid="Ramon" creationdate="20230601T220311Z">
@@ -866,6 +882,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T213839Z" creationid="Ramon" creationdate="20230601T213839Z">
         <seg>¡No mamá!, gritó Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Sag mal, Flo, wie redest du denn mit mir?“, fragt Mama und runzelt die Stirn.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T220636Z" creationid="Ramon" creationdate="20230601T220636Z">
+        <seg>¿Pero que formas son esas de hablarme? pregunta mamá.</seg>
       </tuv>
     </tu>
     <tu>
