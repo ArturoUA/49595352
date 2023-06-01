@@ -502,10 +502,26 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Aha“, antwortet Mama.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T213524Z" creationid="Ramon" creationdate="20230601T213524Z">
+        <seg>Aha, contestó mamá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Auch kein Husky!“</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T210437Z" creationid="Ramon" creationdate="20230601T210437Z">
         <seg>¡Tampoco un husky!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Das hat der Mann in der Schule heute gesagt“, erkläre ich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T213549Z" creationid="Ramon" creationdate="20230601T213549Z">
+        <seg>Eso lo ha dicho el hombre en la escuela, expliqué yo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,10 +614,34 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Und außerdem sah der aus wie Jesus.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T213614Z" creationid="Ramon" creationdate="20230601T213614Z">
+        <seg>Y además se parecía a Jesús.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Und dann kommt dein Herr Jesus immer zu uns und wäscht die Stoffwindeln, oder wie?“, fragt Mama.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T213752Z" creationid="Ramon" creationdate="20230601T213752Z">
+        <seg>Y entonces va a venir el señor Jesús siempre a nuestra casa a limpiar los pañales, ¿o qué? preguntó mamá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Unsere Überraschung ist kein lebendes Pony!“</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T204442Z" creationid="Ramon" creationdate="20230601T204442Z">
         <seg>¡Nuestra sorpresa no es un poni de verdad!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Wenn das Baby da ist, dürfen wir keine Wegwerfwindeln aus Plastik benutzen.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230601T213502Z" creationid="Ramon" creationdate="20230601T213502Z">
+        <seg>Cuando venga el bebé, no podemos utilizar pañales que estén hecho de plástico.</seg>
       </tuv>
     </tu>
     <tu>
