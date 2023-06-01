@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="de">
+        <seg>Aber sie machen das trotzdem, obwohl Flo und ich ihnen extra gesagt haben, dass wir das blöd finden und dass andere Eltern das NIE machen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T184348Z" creationid="alumno" creationdate="20230601T184348Z">
+        <seg>Pero lo hacen aún así, a pesar de que les dije que que me parecia mal y que otros padres no lo hacian NUNCA..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Als wir in die Küche gekommen sind, haben Mama und Papa am Tisch gesessen und haben so komisch gelächelt.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183747Z" creationid="alumno" creationdate="20230601T183747Z">
@@ -54,10 +62,26 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Der hat sich ganz umständlich geräuspert und dann hat er Mamas Hand genommen und auf einmal hatte er irgendwie feuchte Augen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T184654Z" creationid="alumno" creationdate="20230601T184654Z">
+        <seg>s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Doch in Wahrheit macht der Weihnachtsmann das natürlich selber, weil das ja eine richtig wichtige Aufgabe ist.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T182426Z" creationid="alumno" creationdate="20230601T182426Z">
         <seg>Per en realidad lo hace Papa Noel porque es una tarea realmente importante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Doch jetzt habe ich gar nichts gesagt und Flo auch nicht, sondern wir haben stattdessen Papa angestarrt und waren so stumm wie Fische.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230601T184508Z" creationid="alumno" creationdate="20230601T184508Z">
+        <seg>Pero ahora no dije nada y Flo tampoco, sino que miramos a papá y estabábamos callados como peces.</seg>
       </tuv>
     </tu>
     <tu>
