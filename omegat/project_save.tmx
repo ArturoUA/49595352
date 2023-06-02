@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Alle Leute weichen ihm aus, sodass er richtig gut durchkommt und gar nicht drängeln muss.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T163626Z" creationid="alumno" creationdate="20230602T163626Z">
+        <seg>Todo el mundo lo esquiva, asi puede llegar bien sin empujar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Alle starren auf Papa und auf die Matschspritzer in seinem Gesicht und auf die Tasche und niemand bewegt sich.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230602T162926Z" creationid="alumno" creationdate="20230602T162926Z">
@@ -1078,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Ich drehe den Kopf zur Seite und da entdecke ich Papa.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T163549Z" creationid="alumno" creationdate="20230602T163549Z">
+        <seg>Giro la cabeza y me encuentro a Papá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Ich drücke noch einmal richtig fest ihre Arme in den Rasen und denke nach.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T083506Z" creationid="Ramon" creationdate="20230602T083506Z">
@@ -1706,6 +1722,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T184118Z" creationid="alumno" creationdate="20230601T184118Z">
         <seg>Y ahí estaba segura de que algo no iba bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Und da werde ich richtig sauer, weil das einfach nicht wahr ist, und deshalb schubse ich Flo und sie schubst mich zurück und dann fallen wir beide hin und rollen über den Boden und kämpfen, und Mama versucht, uns auseinanderzuziehen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T163527Z" creationid="alumno" creationdate="20230602T163527Z">
+        <seg>Y entonces me enfado de verdad porque eso no es cierto, así que empujo a Flo, ella a mí y entonces las dos nos caemos,rodamos por el suelo,nos peleamos y Mamá intenta separarnos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2462,6 +2486,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Das stimmt ja gar nicht!“, kreischt Flo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T163354Z" creationid="alumno" creationdate="20230602T163354Z">
+        <seg>¡Eso no es  cierto en absoluto! chilla Flo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Das war Flos Idee!“, rufe ich.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230602T163258Z" creationid="alumno" creationdate="20230602T163258Z">
@@ -2922,6 +2954,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T095222Z" creationid="Ramon" creationdate="20230602T095222Z">
         <seg>¡Mi jefe no contamina, sino que se preocupa por la naturaleza!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Mimi lügt!“</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T163424Z" creationid="alumno" creationdate="20230602T163424Z">
+        <seg>¡Mimi miente!“</seg>
       </tuv>
     </tu>
     <tu>
