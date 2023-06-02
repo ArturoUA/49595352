@@ -950,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Ich kippe alles in zwei große Sandeimer und Flo rührt um und dann sind wir fertig und es sieht wirklich richtig gut aus und riecht auch schön.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T144834Z" creationid="Arturo" creationdate="20230602T144834Z">
+        <seg>Lo vierto todo en dos grandes cubos de arena y Flo lo remueve. Ya está, tiene buen aspecto y además huele muy bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Ich kriege einen Riesenschreck.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T215500Z" creationid="Ramon" creationdate="20230601T215500Z">
