@@ -1510,6 +1510,22 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Klicko, wir wechseln ab!“, ruft Flo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T083437Z" creationid="Ramon" creationdate="20230602T083437Z">
+        <seg>¿Pausa, cambiamos! grita Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Klicko“, schreit Flo, doch das geht ja überhaupt nicht, weil „Klicko“ darf man nur sagen, wenn man beim Fangenspielen eine Pause machen will, aber nicht beim Kämpfen!</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T083359Z" creationid="Ramon" creationdate="20230602T083359Z">
+        <seg>Pausa, grita Flo, pero eso no vale, porque "pausa" solo se puede decir cuando quieres parar en el pilla pilla, pero no mientras peleamos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Mach du mal nicht so einen Ärger, sonst wird hier alles total dreckig“, sagt sie.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T220553Z" creationid="Ramon" creationdate="20230601T220553Z">
