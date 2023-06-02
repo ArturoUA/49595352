@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Darüber Kartoffeln, aus denen gucken grüne Keime raus, wie so Drakula-Arme, und dann auch noch Äpfel mit ekligen Matschstellen und ziemlich viele Bananenschalen und auch ganze Bananen, die sind braun und riechen irgendwie süß-matschig, sogar bis hier oben.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T084742Z" creationid="Ramon" creationdate="20230602T084742Z">
+        <seg>Encima patatas. de ellas salen gérmenes verdes, como brazos de drácula, manzanas asquerosas, muchas pieles de plátanos y tambien plátanos enteros, que son marrones y huelen mal hasta ahi arriba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Das Baby in ihrem Bauch bringt gerade alles ein bisschen durcheinander und Mama ist oft ungeduldig und manchmal muss sie sogar spucken und ganz selten auch noch weinen.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T215924Z" creationid="Ramon" creationdate="20230601T215924Z">
@@ -618,6 +626,14 @@
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T235316Z" creationid="Arturo" creationdate="20230601T235316Z">
         <seg>A veces incluso vivas, aunque eso no es maltrato animal, porque pueden volver salir si lo encuentran muy oscuro para ellas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ganz unten liegen schimmelige Apfelsinenschalen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T084441Z" creationid="Ramon" creationdate="20230602T084441Z">
+        <seg>Abajo del todo hay pieles de manzana.</seg>
       </tuv>
     </tu>
     <tu>
