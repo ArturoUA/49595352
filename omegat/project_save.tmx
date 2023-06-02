@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Aber als wir gerade antworten wollen, hören wir draußen eine Stimme.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T092359Z" creationid="Ramon" creationdate="20230602T092359Z">
+        <seg>Pero cuando quisimos contestar, escuchamos afuera una voz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Aber auf keinen Fall weiter, das erlaubt Mama nicht.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T081716Z" creationid="Ramon" creationdate="20230602T081716Z">
@@ -710,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Flo und ich gucken uns an.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T092333Z" creationid="Ramon" creationdate="20230602T092333Z">
+        <seg>Flo y yo nos miramos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Flo zieht die Schultern nach oben und guckt grimmig.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T090644Z" creationid="Ramon" creationdate="20230602T090644Z">
@@ -786,6 +802,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T181619Z" creationid="alumno" creationdate="20230601T181619Z">
         <seg>Ya habia notado justo al levantarme,que ocurría algo realmente misterioso .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich hätte kurz eine Frage zu Ihrem Zettel!“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T092552Z" creationid="Ramon" creationdate="20230602T092552Z">
+        <seg>¡Tendría una pregunta sobre su cartel!“</seg>
       </tuv>
     </tu>
     <tu>
@@ -1838,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Hallo“, brüllt da jemand aus dem Hof.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T092503Z" creationid="Ramon" creationdate="20230602T092503Z">
+        <seg>„Hola, grita alguien desde la granja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Ich hab aber keine Lust, draußen aufzuräumen“, antwortet Flo und schiebt die Unterlippe nach vorne.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T074151Z" creationid="Ramon" creationdate="20230602T074151Z">
@@ -1922,6 +1954,22 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T092016Z" creationid="Ramon" creationdate="20230602T092016Z">
         <seg>¡Tenéis que venir! murmura Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Ist das der Postbote?“, fragt Papa und guckt Mama an.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T092620Z" creationid="Ramon" creationdate="20230602T092620Z">
+        <seg>¿Es el cartero? pregunta papá y mira a mamá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Jemand zu Hause?</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T092526Z" creationid="Ramon" creationdate="20230602T092526Z">
+        <seg>¿Alguien en casa?</seg>
       </tuv>
     </tu>
     <tu>
