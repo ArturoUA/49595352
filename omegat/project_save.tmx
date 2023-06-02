@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Ich versuche, mir mit einer Hand die Nase zuzuhalten, aber da rutsche ich fast ab, und deshalb atme ich jetzt einfach so wenig wie möglich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T084816Z" creationid="Ramon" creationdate="20230602T084816Z">
+        <seg>Intento aguantarme con una mano la nariz, pero casio me resbalo asi que intento respirar lo menos posible..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Ich weiß echt nicht, warum sie das bei JEDEM Essen sagt.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214256Z" creationid="Ramon" creationdate="20230601T214256Z">
@@ -962,6 +970,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T084229Z" creationid="Ramon" creationdate="20230602T084229Z">
         <seg>En vez de eso salto yo y me agarro del borde de la valla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Stell dir mal vor, unser Bruder besucht Mama mal in der Gärtnerei, und wenn sie nicht guckt, krabbelt er nach hinten und dann sitzt der mitten in dem Stinkehaufen und isst die Sachen vielleicht sogar auf!“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T085048Z" creationid="Ramon" creationdate="20230602T085048Z">
+        <seg>¡Imaginate que nuestro hermano visita a mamá a la guardería y cuando ella no mira gatea hacia atrás y está em medio de esta montaña de basura, inclulos podría comerse cosas!“</seg>
       </tuv>
     </tu>
     <tu>
@@ -1422,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Das müssen wir wegräumen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T084855Z" creationid="Ramon" creationdate="20230602T084855Z">
+        <seg>Esto lo tenemos que quitar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Das schlucken sonst Fische runter und sterben.“</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214143Z" creationid="Ramon" creationdate="20230601T214143Z">
@@ -1514,6 +1538,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183142Z" creationid="alumno" creationdate="20230601T183142Z">
         <seg>-Flo, Mimi ¿Podéis venir un momento?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Flo“, presse ich hervor.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T084841Z" creationid="Ramon" creationdate="20230602T084841Z">
+        <seg>Flo, le digo.</seg>
       </tuv>
     </tu>
     <tu>
