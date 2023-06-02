@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Alle Leute schieben ihre Taschen in eine Röhre, und da drin werden die Koffer irgendwie durchsichtig und die Polizei kann gucken, ob jemand gefährliche Sachen ins Flugzeug mitnehmen will, weil das ist nämlich verboten.</seg>
+      </tuv>
+      <tuv lang="es" changeid="34685" changedate="20230602T154254Z" creationid="34685" creationdate="20230602T154254Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Als Erstes hole ich sechs Rollen Klopapier aus der Vorratskammer und die vom Halter im Bad nehme ich natürlich auch.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T075137Z" creationid="Ramon" creationdate="20230602T075137Z">
@@ -938,6 +946,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T083506Z" creationid="Ramon" creationdate="20230602T083506Z">
         <seg>Preiono una vez mas fuerte sus brazos al cesped y pienso un momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich finde Sicherheitskontrolle am besten vom ganzen Flughafen, beinahe noch besser als die Flugzeuge.</seg>
+      </tuv>
+      <tuv lang="es" changeid="34685" changedate="20230602T154102Z" creationid="34685" creationdate="20230602T154102Z">
+        <seg>El control de seguridad me parece lo mejor del aeropuerto, es casi mejor que los aviones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1790,6 +1806,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Weil die geht nämlich so:</seg>
+      </tuv>
+      <tuv lang="es" changeid="34685" changedate="20230602T154136Z" creationid="34685" creationdate="20230602T154136Z">
+        <seg>Porque va así:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Weil in der Schule haben wir dafür ein Rezept gekriegt und das ist überhaupt nicht schwierig.</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T233651Z" creationid="Arturo" creationdate="20230601T233651Z">
@@ -2046,10 +2070,26 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Ausgang A 13“, murmelt er.</seg>
+      </tuv>
+      <tuv lang="es" changeid="34685" changedate="20230602T153859Z" creationid="34685" creationdate="20230602T153859Z">
+        <seg>"Salida A 13", murmura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Bleib mal hier“, sagt Papa da mit ganz lieber Stimme.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T215739Z" creationid="Ramon" creationdate="20230601T215701Z">
         <seg>Quédate aqui un momento, dice papa con una voz muy dulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Da vorne ist die Sicherheitskontrolle.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="34685" changedate="20230602T153952Z" creationid="34685" creationdate="20230602T153952Z">
+        <seg>"Ahí delante está el control de seguridad".</seg>
       </tuv>
     </tu>
     <tu>
@@ -2622,6 +2662,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Pudding?“, fragt Papa, aber dabei guckt er ganz hektisch auf eine Anzeigetafel, und deshalb weiß ich, dass er gar nicht richtig zuhört.</seg>
+      </tuv>
+      <tuv lang="es" changeid="34685" changedate="20230602T153814Z" creationid="34685" creationdate="20230602T153814Z">
+        <seg>"¿Pudding?", pregunta Papá, aunque está mirando frenéticamente el marcador, por eso sé que no me está escuchando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Rechts im Regal, bei den Brotbacksachen.“</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230602T000157Z" creationid="Arturo" creationdate="20230602T000157Z">
@@ -2778,6 +2826,14 @@
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T235821Z" creationid="Arturo" creationdate="20230601T235821Z">
         <seg>"¡Maldita sea!“, sisea Papá sin apartar la mirada del ordenador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Vielleicht hast du ja Pudding in den Armen“, kichert Flo und stupst mich heimlich in den Rücken.</seg>
+      </tuv>
+      <tuv lang="es" changeid="34685" changedate="20230602T153606Z" creationid="34685" creationdate="20230602T153606Z">
+        <seg>"Puede que tengas pudding en los brazos", ríe Flo, pinchándome a escondidas en la espalda.</seg>
       </tuv>
     </tu>
     <tu>
