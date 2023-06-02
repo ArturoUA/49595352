@@ -654,10 +654,26 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Flo steht mittendrin und stemmt die Arme in die Seiten.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T090447Z" creationid="Ramon" creationdate="20230602T090447Z">
+        <seg>Flo está en medio y se criza de brazos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Flo und ich dürfen nämlich alleine bis zum Briefkasten fahren, weil bei uns fast nie Autos unterwegs sind.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T081652Z" creationid="Ramon" creationdate="20230602T081652Z">
         <seg>Flo y yo podemos ir solos hasta el buzón, porque casi nunca pasan coches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Flo zieht die Schultern nach oben und guckt grimmig.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T090644Z" creationid="Ramon" creationdate="20230602T090644Z">
+        <seg>Flo echa los hombros hacia arriba y mira raro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1286,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Weil bei uns auf dem Rasen liegt er jetzt ja überall verteilt, und in der Gärtnerei war es ein Haufen, da sah es irgendwie weniger aus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T090417Z" creationid="Ramon" creationdate="20230602T090417Z">
+        <seg>Porque en nuestro césped esta todo repartido, en la guardería era un montón por eso parecia menos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Weil dann kann Mama ja einfach uns das Geld geben und ich tue es in mein Sparschwein und kaufe mir irgendwann eine richtige Riesensache.</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T234545Z" creationid="Arturo" creationdate="20230601T234545Z">
@@ -1470,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Also Mamas Chef ist ein RICHTIGER Umweltverschmutzer!“, ruft sie.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T090510Z" creationid="Ramon" creationdate="20230602T090510Z">
+        <seg>¡El jefe de mamá es un contaminador! grita ella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Also gut“, sage ich.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T085235Z" creationid="Ramon" creationdate="20230602T085235Z">
@@ -1634,6 +1666,14 @@
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230602T001226Z" creationid="Arturo" creationdate="20230602T001226Z">
         <seg>"¿Para tan pocas horas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Glaubst du, dass Mama das weiß?“, frage ich und springe neben Flo ins Gras.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T090612Z" creationid="Ramon" creationdate="20230602T090612Z">
+        <seg>¿Crees que mamá lo sabe? pregunto y salto al lado de Flo al césped.</seg>
       </tuv>
     </tu>
     <tu>
