@@ -1590,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Und auf einmal drehen sich alle Leute zu uns um, auch die Uniform-Männer, und starren uns an.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T163154Z" creationid="alumno" creationdate="20230602T163154Z">
+        <seg>Y de repente se gira todo el mundo, tamnien los hombres en uniforme, y nos miran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Und außerdem darf man nichts wegreißen.“</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T082334Z" creationid="Ramon" creationdate="20230602T082334Z">
@@ -2454,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Das war Flos Idee!“, rufe ich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T163258Z" creationid="alumno" creationdate="20230602T163258Z">
+        <seg>Eso fue idea de Flo, grito yo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Denn stell dir mal vor, Mimi, jemand schickt dir eine Einladung zum Kindergeburtstag und der Briefträger wirft sie nicht ein!“, sagt Papa, und daran hatte ich überhaupt nicht gedacht.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230602T155732Z" creationid="Ramon" creationdate="20230602T095000Z">
@@ -2538,6 +2554,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T093313Z" creationid="Ramon" creationdate="20230602T093313Z">
         <seg>Perdona, grita él mientras se pone las manos en la boca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Euer Shampoo?“, fragt Mama, und irgendwie klingt ihre Stimme so, als könnte sie nicht glauben, was sie gerade gehört hat.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T163238Z" creationid="alumno" creationdate="20230602T163238Z">
+        <seg>¿Vuestro champú? pregunta Mamá, de alguna forma sonaba su voz como si no se lo creyese.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2722,6 +2746,14 @@
       </tuv>
       <tuv lang="es" changeid="34685" changedate="20230602T160323Z" creationid="34685" creationdate="20230602T160323Z">
         <seg>"¡Quiero seguir mirando!" "Flo", responde Mamá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Ich wollte das nicht in Papas Tasche tun!“</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T163323Z" creationid="alumno" creationdate="20230602T163323Z">
+        <seg>¡No lo queria poner en la bolsa de Papá!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3178,6 +3210,14 @@
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230602T000311Z" creationid="Arturo" creationdate="20230602T000311Z">
         <seg>"¿Y qué aspecto tiene el envase?", pregunto, porque no podemos equivocarnos de envase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Unser Shampoo!“, schreit Flo da plötzlich, und zwar so laut, dass mir fast die Ohren wegfliegen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T163115Z" creationid="alumno" creationdate="20230602T163115Z">
+        <seg>¡Nuestro champú! grita Flo de repente, tan alto que casi se me vuelan las orejas.</seg>
       </tuv>
     </tu>
     <tu>
