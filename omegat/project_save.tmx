@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Also wenn er ein bisschen größer ist, meine ich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T165626Z" creationid="alumno" creationdate="20230602T165626Z">
+        <seg>Quiero decir, cuando sea un poco mayor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Also, das finde ich jetzt schon ein bisschen komisch.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T220013Z" creationid="Ramon" creationdate="20230601T220013Z">
@@ -934,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Es dauert jetzt überhaupt nicht mehr lange, bis er geboren wird, vielleicht sogar schon morgen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T165654Z" creationid="alumno" creationdate="20230602T165654Z">
+        <seg>Ya no queda nada hasta que nazca, quizá ya mañana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Es ist gar nicht mehr in der Tüte, sondern Mama hat es in ein riesiges Glas gefüllt.</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230602T003203Z" creationid="Arturo" creationdate="20230602T003203Z">
@@ -1458,6 +1474,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230602T153646Z" creationid="alumno" creationdate="20230601T184053Z">
         <seg>¡Mamá le llamó "cariño" a Papá!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Mama ist inzwischen ganz schön dick, und deshalb haben wir auch schon den Kinderwagen eingerichtet, der ist orange und türkis, und damit fahren wir das Baby dann immer rum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T165800Z" creationid="alumno" creationdate="20230602T165800Z">
+        <seg>Mamá ya está bastante gorda y por eso le hemos preparadosu carrito, es naranja y turquesa, con eso llevaremos el bebé de un lado a otro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3242,6 +3266,14 @@
       </tuv>
       <tuv lang="es" changeid="34685" changedate="20230602T155746Z" creationid="34685" creationdate="20230602T155746Z">
         <seg>"Nada de besos", siseo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Ninja“ haben Flo und ich uns ausgedacht, weil Ninjas richtig gute Kämpfer sind, und wir wollen unserem Bruder auch das Kämpfen beibringen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T165604Z" creationid="alumno" creationdate="20230602T165604Z">
+        <seg>Ninja, nos lo inventamos Flo y yo, porque los ninjas son muy buenos luchadores y queremos enseñarle tambien a luchar a nuestro hermano.</seg>
       </tuv>
     </tu>
     <tu>
