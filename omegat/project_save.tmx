@@ -176,8 +176,8 @@
       <tuv lang="de">
         <seg>Alle Leute schieben ihre Taschen in eine Röhre, und da drin werden die Koffer irgendwie durchsichtig und die Polizei kann gucken, ob jemand gefährliche Sachen ins Flugzeug mitnehmen will, weil das ist nämlich verboten.</seg>
       </tuv>
-      <tuv lang="es" changeid="34685" changedate="20230602T154254Z" creationid="34685" creationdate="20230602T154254Z">
-        <seg>.</seg>
+      <tuv lang="es" changeid="34685" changedate="20230602T155224Z" creationid="34685" creationdate="20230602T154254Z">
+        <seg>Todos introducen sus maletas en un tubo, y ahí dentro las maletas se vuelven de algún modo transparentes y la policía puede ver si alguien quiere llevar cosas peligrosas en el avión, porque eso está prohibido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1346,6 +1346,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214834Z" creationid="Ramon" creationdate="20230601T214834Z">
         <seg>Se levanta y su silla se cae hacia atrás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Silvesterknaller oder so.</seg>
+      </tuv>
+      <tuv lang="es" changeid="34685" changedate="20230602T155341Z" creationid="34685" creationdate="20230602T155341Z">
+        <seg>Un petardo o algo así.</seg>
       </tuv>
     </tu>
     <tu>
