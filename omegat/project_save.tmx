@@ -806,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Er redet auf Papa ein und gleichzeitig greift er in Papas Reisetasche und auf einmal klappt er seinen Mund zu und stattdessen reißt er die Augen auf.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T161527Z" creationid="alumno" creationdate="20230602T161527Z">
+        <seg>Le habla a Papá a la misma vez que coje la maleta de Papá, de repenté se calló y abrió mucho los ojos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Er sieht ein bisschen so aus wie Jesus vorne auf meiner Religionsmappe.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T212141Z" creationid="Ramon" creationdate="20230601T211956Z">
@@ -1866,6 +1874,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T084406Z" creationid="Ramon" creationdate="20230602T084406Z">
         <seg>No uno pequeño, sino bastante grande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Vor ihm hat sich ein Mann in Uniform aufgebaut und guckt streng.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T161356Z" creationid="alumno" creationdate="20230602T161356Z">
+        <seg>Delante de el hay un hombre en uniforme y lo mira serio.</seg>
       </tuv>
     </tu>
     <tu>
