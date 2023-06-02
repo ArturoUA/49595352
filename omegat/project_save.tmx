@@ -718,10 +718,26 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Mats ist unser Cousin, und der ist fast schon jugendlich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T081047Z" creationid="Ramon" creationdate="20230602T081047Z">
+        <seg>Mats es nuestro primo, que ya es casi adolescente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Mimi, das bin natürlich ich.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183330Z" creationid="alumno" creationdate="20230601T183330Z">
         <seg>Mimi, esa soy yo por supuesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Neben uns ist nur noch der Hof von Onkel Jussi und Mats.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T081007Z" creationid="Ramon" creationdate="20230602T081007Z">
+        <seg>Al lado nuestra solo está la granja del tio Jussi y Mats</seg>
       </tuv>
     </tu>
     <tu>
@@ -1034,6 +1050,14 @@
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230602T002740Z" creationid="Arturo" creationdate="20230602T002740Z">
         <seg>Cuando hicimos jabón natural nosotras mismas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Wir haben übrigens noch viel mehr Cousins, die heißen Bela und Ben und Henry, aber die leben woanders, nämlich in der Stadt, und da fahren wir fast nie hin, und deshalb kennen wir die kaum.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T081226Z" creationid="Ramon" creationdate="20230602T081226Z">
+        <seg>Tenemos mas primos, se llaman Bela y Henry, pero viven en otro sitio, en la ciudad y allí casi nunca vamos, por eso no los conocemos apenas.</seg>
       </tuv>
     </tu>
     <tu>
