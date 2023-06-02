@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Bei der einen ist vorne ein kleiner Affe aufgedruckt und bei der anderen ein Kaninchen, und ich nehme das Kaninchen, weil ich Kaninchen so niedlich finde.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T170239Z" creationid="alumno" creationdate="20230602T170239Z">
+        <seg>En uno hay un pequeño mono y en el otro un conejo, escojo el del conejo, porque me parecen tan monos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Bei uns hat heute aber keine Glocke geläutet, sondern Mama und Papa haben morgens so getuschelt und irgendwie komisch geguckt.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T182557Z" creationid="alumno" creationdate="20230601T182557Z">
@@ -2354,6 +2362,14 @@
       </tuv>
       <tuv lang="es" changeid="34685" changedate="20230602T160431Z" creationid="34685" creationdate="20230602T160431Z">
         <seg>Nos vamos ya“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Wir haben ja sogar zwei echte, Knolle und Bolle, die wohnen hinten im Stall am Kartoffelbeet.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T170445Z" creationid="alumno" creationdate="20230602T170445Z">
+        <seg>Tenemos incluso dos de verdad, Knolle y Bolle, que viven detras de la granja, junto al huerto de patatas.</seg>
       </tuv>
     </tu>
     <tu>
