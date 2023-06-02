@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Also bitte: Geh.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T000714Z" creationid="Arturo" creationdate="20230602T000714Z">
+        <seg>Así que , por favor, vete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Also die Tiere meine ich, nicht die Leute.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T211827Z" creationid="Ramon" creationdate="20230601T211827Z">
@@ -398,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Heute Mittag muss Papa nämlich nach Frankfurt fliegen, für seine Arbeit.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T001103Z" creationid="Arturo" creationdate="20230602T001103Z">
+        <seg>Papá tiene que volar este mediodía a Fráncfort por trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Heute ist der beste Tag der Welt.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T181132Z" creationid="alumno" creationdate="20230601T181132Z">
@@ -486,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Jetzt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T000722Z" creationid="Arturo" creationdate="20230602T000722Z">
+        <seg>Ahora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Könnt ihr das glauben?</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T210855Z" creationid="Ramon" creationdate="20230601T210855Z">
@@ -554,6 +578,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183220Z" creationid="alumno" creationdate="20230601T183220Z">
         <seg>¡Papa y yo os queremos contar algo!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Raus!“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T000729Z" creationid="Arturo" creationdate="20230602T000729Z">
+        <seg>¡Fuera!“</seg>
       </tuv>
     </tu>
     <tu>
@@ -906,6 +938,14 @@
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T235937Z" creationid="Arturo" creationdate="20230601T235937Z">
         <seg>"¡Te he hecho una pregunta!" Eso es lo que me dice siempre Mamá cuando no le contesto enseguida..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Ich muss einen Flug buchen und dabei darf ich keinen Fehler machen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T000655Z" creationid="Arturo" creationdate="20230602T000655Z">
+        <seg>"Tengo que reservar un vuelo y no puedo equivocarme</seg>
       </tuv>
     </tu>
     <tu>
