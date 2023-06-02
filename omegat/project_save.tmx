@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Rechts im Regal, bei den Brotbacksachen.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T000157Z" creationid="Arturo" creationdate="20230602T000157Z">
+        <seg>"En el estante de la derecha, junto a las cosas de repostería"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Roggenmehl“, murmelt Papa und guckt immer noch nicht zu mir her.</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230602T000047Z" creationid="Arturo" creationdate="20230602T000047Z">
@@ -1098,6 +1106,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214231Z" creationid="Ramon" creationdate="20230601T214231Z">
         <seg>Y tu tragarás primero la comida antes de hablar, contestó mamá mirando mal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Und wie sieht die Verpackung aus?“, frage ich, weil wir dürfen ja auf keinen Fall das falsche nehmen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T000311Z" creationid="Arturo" creationdate="20230602T000311Z">
+        <seg>"¿Y qué aspecto tiene el envase?", pregunto, porque no podemos equivocarnos de envase.</seg>
       </tuv>
     </tu>
     <tu>
