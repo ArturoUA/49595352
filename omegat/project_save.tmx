@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Flo bleibt stehen und starrt auf Papas Sachen und dann dreht sie sich zu mir um und ihr Gesicht sieht richtig geheimnisvoll aus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T145905Z" creationid="Arturo" creationdate="20230602T145905Z">
+        <seg>Flo se detiene y se queda mirando las cosas de Papá y luego se vuelve hacia mí con una mirada muy misteriosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Flo ist meine kleine Schwester, sie geht noch in den Kindergarten.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T182309Z" creationid="alumno" creationdate="20230601T182309Z">
@@ -1082,6 +1090,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T080619Z" creationid="Ramon" creationdate="20230602T080619Z">
         <seg>Siempre facturas aburridas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>In Frankfurt braucht er doch auch Badezimmersachen!“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T150102Z" creationid="Arturo" creationdate="20230602T150102Z">
+        <seg>Al fin y al cabo, también necesitará cosas para el baño en Fráncfort.“</seg>
       </tuv>
     </tu>
     <tu>
@@ -2518,6 +2534,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Mimi“, flüstert sie.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T145925Z" creationid="Arturo" creationdate="20230602T145925Z">
+        <seg>"Mimi", susurra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Mimi“, sagt Flo.</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T183710Z" creationid="Arturo" creationdate="20230601T183710Z">
@@ -2850,6 +2874,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T090730Z" creationid="Ramon" creationdate="20230602T090730Z">
         <seg>Colocamos toda la basura delante de la puerte de casa y se lo enseñamos a mamá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Wir machen eine Superüberraschung für Papa!</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T150001Z" creationid="Arturo" creationdate="20230602T150001Z">
+        <seg>"¡Vamos a hacerle una súper sorpresa a Papá!</seg>
       </tuv>
     </tu>
     <tu>
