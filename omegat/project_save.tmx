@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Leider ist es nur noch halb voll, aber vielleicht reicht das ja.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T105510Z" creationid="Arturo" creationdate="20230602T105510Z">
+        <seg>Sólo está medio lleno, pero quizá sea suficiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Mama hat „Liebster“ zu Papa gesagt!</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T184053Z" creationid="alumno" creationdate="20230601T184053Z">
