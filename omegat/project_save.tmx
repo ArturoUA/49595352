@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Aber als ich sie an der Kapuze packen will, macht sie plötzlich einen Haken zur Seite und ich stolpere und knalle hin, und zwar volle Kanone.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T082655Z" creationid="Ramon" creationdate="20230602T082655Z">
+        <seg>Pero cuando la iba a agarrar de la capucha, se aparta al lado, tropiezo y me caigo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Aber auf keinen Fall weiter, das erlaubt Mama nicht.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T081716Z" creationid="Ramon" creationdate="20230602T081716Z">
@@ -414,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Doch Flo bleibt trotzdem nicht stehen, sondern holt mit dem Arm weit aus und dann schmeißt sie meine Müllkralle einfach über den Zaun zur Gärtnerei.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T082815Z" creationid="Ramon" creationdate="20230602T082815Z">
+        <seg>Pero Flo aun asi no se queda quita, sino que coje carrerilla con el brazo y lanza mi garra de basura sobre la valla a la guardería.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Doch Flo und ich sind uns ganz sicher.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T211340Z" creationid="Ramon" creationdate="20230601T211340Z">
@@ -642,6 +658,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T080348Z" creationid="Ramon" creationdate="20230602T080348Z">
         <seg>Cojo una hoja grande y escribo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich rase los wie eine Rakete und zum Glück kann ich viel schneller laufen als Flo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T082600Z" creationid="Ramon" creationdate="20230602T082600Z">
+        <seg>Salgo corriendo como un cohete y por suerte corro mas rápido quee Flo.</seg>
       </tuv>
     </tu>
     <tu>
