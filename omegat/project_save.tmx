@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Das ist ja ein Schwachsinn“, hat Mama beim Frühstück gesagt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T001309Z" creationid="Arturo" creationdate="20230602T001309Z">
+        <seg>¡Vaya disparate!“, ha dicho Mamá en el desayuno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Das ist normal, wenn man schwanger ist, ihr müsst euch keine Sorgen machen.“</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T215951Z" creationid="Ramon" creationdate="20230601T215951Z">
@@ -902,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Fliegen ist übrigens richtig umweltschädlich“, hat Flo gerufen und Mama und Papa haben genau gleichzeitig gestöhnt: „Bitte nicht!“ Und dann haben sie schnell über was anderes geredet.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T002644Z" creationid="Arturo" creationdate="20230602T002644Z">
+        <seg>"Por cierto, volar en avión es muy malo para el medio ambiente", dijo Flo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Flo, Mimi, kommt ihr mal bitte?</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183142Z" creationid="alumno" creationdate="20230601T183142Z">
@@ -1162,6 +1178,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214231Z" creationid="Ramon" creationdate="20230601T214231Z">
         <seg>Y tu tragarás primero la comida antes de hablar, contestó mamá mirando mal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Und warum überhaupt so kurzfristig?“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T001337Z" creationid="Arturo" creationdate="20230602T001337Z">
+        <seg>"¿y por qué con tanta antelación?“</seg>
       </tuv>
     </tu>
     <tu>
