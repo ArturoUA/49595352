@@ -136,8 +136,8 @@
       <tuv lang="de">
         <seg>Aber jetzt müssen wir erst mal die Müllkralle zurückholen, und das ist ganz schön schwierig, weil der Zaun nämlich so hoch ist.</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230602T083754Z" creationid="Ramon" creationdate="20230602T083754Z">
-        <seg>Pero primero tenemos que conseguir de vuelta la garra de basura, eso es muy dificil , porque la valla es muy alta.</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214214Z" creationid="Ramon" creationdate="20230602T083754Z">
+        <seg>Pero primero tenemos que conseguir de vuelta la garra de basura, eso es muy dificil, porque la valla es muy alta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -904,8 +904,8 @@
       <tuv lang="de">
         <seg>Eigentlich dürfen wir sie beim Mittagsschlaf nicht wecken, aber heute ist eine Ausnahme, weil wir ja eine richtig gute Überraschung haben.</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230602T091822Z" creationid="Ramon" creationdate="20230602T091822Z">
-        <seg>Normalmente no podemos despertarlos de la siesta, pero hoy es una exepción, porque tenemos una muy buena sorpresa..</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214327Z" creationid="Ramon" creationdate="20230602T091822Z">
+        <seg>Normalmente no podemos despertarlos de la siesta, pero hoy es una exepción, porque tenemos una muy buena sorpresa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1392,8 +1392,8 @@
       <tuv lang="de">
         <seg>Ich versuche, mir mit einer Hand die Nase zuzuhalten, aber da rutsche ich fast ab, und deshalb atme ich jetzt einfach so wenig wie möglich.</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230602T084816Z" creationid="Ramon" creationdate="20230602T084816Z">
-        <seg>Intento aguantarme con una mano la nariz, pero casio me resbalo asi que intento respirar lo menos posible..</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214247Z" creationid="Ramon" creationdate="20230602T084816Z">
+        <seg>Intento aguantarme con una mano la nariz, pero casio me resbalo asi que intento respirar lo menos posible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1616,8 +1616,8 @@
       <tuv lang="de">
         <seg>Man braucht nur zwei Sachen, nämlich Mehl und Wasser.</seg>
       </tuv>
-      <tuv lang="es" changeid="Arturo" changedate="20230601T233723Z" creationid="Arturo" creationdate="20230601T233723Z">
-        <seg>Sólo se necesitan dos cosas: harina y agua.</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214459Z" creationid="Arturo" creationdate="20230601T233723Z">
+        <seg>Solo se necesitan dos cosas: harina y agua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2112,8 +2112,8 @@
       <tuv lang="de">
         <seg>Und dann rennen wir nach drinnen, weil jetzt bin ich richtig gespannt, was Mama und Papa sagen.</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230602T091735Z" creationid="Ramon" creationdate="20230602T091735Z">
-        <seg>Y entonces corremos a dentro estoy emocionada de ver que dicen mamá y papá..</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214316Z" creationid="Ramon" creationdate="20230602T091735Z">
+        <seg>Y entonces corremos a dentro estoy emocionada de ver que dicen mamá y papá.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2288,8 +2288,8 @@
       <tuv lang="de">
         <seg>Und warum, bitte schön, stinkt ihr so erbärmlich???“</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230602T092310Z" creationid="Ramon" creationdate="20230602T092310Z">
-        <seg>¿¿¿ Y porqué , por dios, oléis asi de mal???“</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214407Z" creationid="Ramon" creationdate="20230602T092310Z">
+        <seg>¿¿¿ Y porqué,  por dios, oléis asi de mal???“</seg>
       </tuv>
     </tu>
     <tu>
@@ -2344,8 +2344,8 @@
       <tuv lang="de">
         <seg>Waaaaas???“ Und dabei dreht er sich auf dem Absatz um und sein Finger zeigt immer noch nach vorne, aber jetzt nicht mehr auf den Müll, sondern auf Flo und mich.</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230602T093736Z" creationid="Ramon" creationdate="20230602T093736Z">
-        <seg>¿¿¿Quee??? Entonces se gira y ahora ya no señala a la basura si no que a nosotras.</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214419Z" creationid="Ramon" creationdate="20230602T093736Z">
+        <seg>¿¿¿Quee??? Entonces se gira y ahora ya no señala a la basura sino que a nosotras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3520,8 +3520,8 @@
       <tuv lang="de">
         <seg>„Okay“, sagt Flo mit so einer Quetschstimme, weil sie sich nämlich jetzt schon die Nase zuhält, obwohl es bei ihr ja noch gar nicht stinkt.</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230602T085436Z" creationid="Ramon" creationdate="20230602T085436Z">
-        <seg>Ok, dice Flo con voz de pato, porque se estaba tapando la nariz, aunque ya no olía mal..</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214306Z" creationid="Ramon" creationdate="20230602T085436Z">
+        <seg>Ok, dice Flo con voz de pato, porque se estaba tapando la nariz, aunque ya no olía mal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3792,8 +3792,8 @@
       <tuv lang="de">
         <seg>„Was hast du denn in deinen Haaren, Mimi?“, fragt sie.</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230602T092200Z" creationid="Ramon" creationdate="20230602T092200Z">
-        <seg>¿Que tienes en el pelo, Mimi? pregunta ella..</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214354Z" creationid="Ramon" creationdate="20230602T092200Z">
+        <seg>¿Que tienes en el pelo, Mimi? pregunta ella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3816,8 +3816,8 @@
       <tuv lang="de">
         <seg>„Was riecht denn hier so?“, fragt Papa und rümpft die Nase, obwohl seine Augen noch zu sind.</seg>
       </tuv>
-      <tuv lang="es" changeid="alumno" changedate="20230602T155531Z" creationid="Ramon" creationdate="20230602T091942Z">
-        <seg>¿Que huele así? pregunta Papá mientra se frota la nariz a pesar de tener lo ojos cerrados.</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214342Z" creationid="Ramon" creationdate="20230602T091942Z">
+        <seg>¿Que huele así? pregunta Papá mientra se frota la nariz a pesar de tener los ojos cerrados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3976,8 +3976,8 @@
       <tuv lang="de">
         <seg>„Wollen wir heute selber Shampoo machen?“</seg>
       </tuv>
-      <tuv lang="es" changeid="Arturo" changedate="20230601T183739Z" creationid="Arturo" creationdate="20230601T183739Z">
-        <seg>"¿Quieres que hoy hagamos champú nosotras mismas?"</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214451Z" creationid="Arturo" creationdate="20230601T183739Z">
+        <seg>"¿Quieres que hoy hagamos el champú nosotras mismas?"</seg>
       </tuv>
     </tu>
     <tu>
