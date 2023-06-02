@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Die steckt Flo in Mamas Blumenbeet, mitten zwischen die Rosen, immer abwechselnd ein Lauch und eine Rose.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T091535Z" creationid="Ramon" creationdate="20230602T091535Z">
+        <seg>Eso lo pone Flo en las flores de mamá, entre las rosas, un puerro, una rosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Direkt vor der Haustür liegt eine richtig lange Reihe Bananenschalen und ganzevBananen, dahinter kommen dann die verschimmelten Apfelsinen und Matschäpfel, dann die Kartoffeln und ganz am Ende irgendwie so gammelige Lauchstangen, die haben wir nämlich auch noch gefunden.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T091421Z" creationid="Ramon" creationdate="20230602T091421Z">
@@ -1238,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Und dann rennen wir nach drinnen, weil jetzt bin ich richtig gespannt, was Mama und Papa sagen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T091735Z" creationid="Ramon" creationdate="20230602T091735Z">
+        <seg>Y entonces corremos a dentro estoy emocionada de ver que dicen mamá y papá..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Und dann sind wir fertig und die Reihenfolge ist so:</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T091248Z" creationid="Ramon" creationdate="20230602T091248Z">
@@ -1494,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>haben wir nämlich auch noch gefunden.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T091448Z" creationid="Ramon" creationdate="20230602T091448Z">
+        <seg>Que tambien encontramos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>jetzt drucken</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T175546Z" creationid="Arturo" creationdate="20230601T175546Z">
@@ -1630,10 +1654,26 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Das sieht eigentlich sogar ganz schön aus“, sagt Flo und guckt stolz.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T091608Z" creationid="Ramon" creationdate="20230602T091608Z">
+        <seg>En verdad se ve muy mono, dijo Flo y mir´orgullosamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Die Erwachsenen verbrauchen viel zu viel Plastik und verschmutzen die Luft“, ruft er gerade.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T212151Z" creationid="Ramon" creationdate="20230601T212129Z">
         <seg>Los adultos utilizan demasiado plástico y contaminan el aire, esta gritando ahora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Die werfen wir nachher nicht weg.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T091623Z" creationid="Ramon" creationdate="20230602T091623Z">
+        <seg>Eso luego no lo vamos a quitar.</seg>
       </tuv>
     </tu>
     <tu>
