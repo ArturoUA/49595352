@@ -910,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Ich finde, dass das Shampoo irgendwie nicht so richtig gut geworden ist, doch das sage ich nicht, weil Flo sonst wieder beleidigt ist.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T133344Z" creationid="Arturo" creationdate="20230602T133344Z">
+        <seg>Yo creo que el champú no ha salido muy bien por algún motivo, pero no digo nada para que Flo no vuelva a ofenderse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Ich habe extra das dicke Klebeband aus Mamas Paketschublade mitgenommen, und damit klebe ich meinen Riesenzettel mitten auf dem Briefkasten fest, und er hält richtig gut, bestimmt sogar bei Regen.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T081857Z" creationid="Ramon" creationdate="20230602T081857Z">
