@@ -1878,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Aber das Duschgel und das Parfüm machen wir ohne Mehl“, schlage ich vor.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T133510Z" creationid="Arturo" creationdate="20230602T133510Z">
+        <seg>"Hagamos gel de ducha y perfume sin harina", sugiero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Aber du hast ja selber weggerissen, du Blöde!“, schreit Flo und dann rennt sie einfach weg.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T082423Z" creationid="Ramon" creationdate="20230602T082423Z">
@@ -1970,6 +1978,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T215739Z" creationid="Ramon" creationdate="20230601T215701Z">
         <seg>Quédate aqui un momento, dice papa con una voz muy dulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Damit der Schaum schön weiß wird.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T140337Z" creationid="Arturo" creationdate="20230602T140337Z">
+        <seg>""</seg>
       </tuv>
     </tu>
     <tu>
