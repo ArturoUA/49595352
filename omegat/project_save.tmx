@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Eigentlich dürfen wir sie beim Mittagsschlaf nicht wecken, aber heute ist eine Ausnahme, weil wir ja eine richtig gute Überraschung haben.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T091822Z" creationid="Ramon" creationdate="20230602T091822Z">
+        <seg>Normalmente no podemos despertarlos de la siesta, pero hoy es una exepción, porque tenemos una muy buena sorpresa..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Ein Barbiehaus oder so.</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T234601Z" creationid="Arturo" creationdate="20230601T234601Z">
@@ -1470,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Wir machen ganz vorsichtig die Schlafzimmertür auf und gucken um die Ecke.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T091849Z" creationid="Ramon" creationdate="20230602T091849Z">
+        <seg>Abrimos con cuidado la puerta de la habitación y miramos por la esquina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Wir sortieren die Sachen sogar, weil das nämlich irgendwie schöner aussieht.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T091222Z" creationid="Ramon" creationdate="20230602T091222Z">
@@ -1942,6 +1958,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Mama“, flüstere ich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T091859Z" creationid="Ramon" creationdate="20230602T091859Z">
+        <seg>Mamá, susurré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Mama“, sage ich beim Mittagessen.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T213353Z" creationid="Ramon" creationdate="20230601T213353Z">
@@ -2194,6 +2218,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T084001Z" creationid="Ramon" creationdate="20230602T084001Z">
         <seg>¿Que pasa? grito yo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Was riecht denn hier so?“, fragt Papa und rümpft die Nase, obwohl seine Augen noch zu sind.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T091942Z" creationid="Ramon" creationdate="20230602T091942Z">
+        <seg>¿Que huele así? pregunta papa mientra se frota la nariz a pesar de tener lo ojos cerrados.</seg>
       </tuv>
     </tu>
     <tu>
