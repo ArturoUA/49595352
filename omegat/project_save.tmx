@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Aber die antwortet gar nicht, sondern springt aus dem Bett.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T092644Z" creationid="Ramon" creationdate="20230602T092644Z">
+        <seg>Pero ella no contesta, sino que salta de la cama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Aber erst mal kaufe ich die Müllkralle.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T213313Z" creationid="Ramon" creationdate="20230601T213313Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T184348Z" creationid="alumno" creationdate="20230601T184348Z">
         <seg>Pero lo hacen aún así, a pesar de que les dije que que me parecia mal y que otros padres no lo hacian NUNCA..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Aber wir können gar nicht hören, wie sie sich freut, weil Papa uns nämlich zur Seite schiebt und die Treppe nach unten rast und dabei „Ich komme schon!“ brüllt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T092859Z" creationid="Ramon" creationdate="20230602T092859Z">
+        <seg>Pero no podemos escuchar como se alegra, porque papá nos empuja y corre escaleras abajo gritando ¡ya voy!.</seg>
       </tuv>
     </tu>
     <tu>
@@ -710,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Flo stößt mir den Arm in die Seite und zwinkert mir zu, weil Mama jetzt ja gleich die erste Überraschung sieht.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T092810Z" creationid="Ramon" creationdate="20230602T092810Z">
+        <seg>Flo me empuja con el brazo y me guiña, porque mamá va a ver pronto la sorpresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Flo und ich dürfen nämlich alleine bis zum Briefkasten fahren, weil bei uns fast nie Autos unterwegs sind.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T081652Z" creationid="Ramon" creationdate="20230602T081652Z">
@@ -1178,6 +1202,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T061928Z" creationid="Ramon" creationdate="20230602T061928Z">
         <seg>Y estoy muy contenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Und da flitzen Flo und ich natürlich hinterher, weil wir jetzt auch neugierig sind.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T092940Z" creationid="Ramon" creationdate="20230602T092940Z">
+        <seg>Y ahi corrimos Flo y yo detrás, porque estamos curiosas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2106,6 +2138,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T081437Z" creationid="Ramon" creationdate="20230602T081437Z">
         <seg>Mimi, grita flo y me saluda con la garra de basura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Mir ist übel“, ruft sie und rast ins Bad.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T092726Z" creationid="Ramon" creationdate="20230602T092726Z">
+        <seg>Me encuentro mal, dice ella y corre al baño.</seg>
       </tuv>
     </tu>
     <tu>
