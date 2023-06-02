@@ -910,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Für die paar Stunden?</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T001226Z" creationid="Arturo" creationdate="20230602T001226Z">
+        <seg>"¿Para tan pocas horas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Hab ich doch gesagt“, flüstert Papa und zwinkert Flo und mir zu.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T220241Z" creationid="Ramon" creationdate="20230601T220241Z">
