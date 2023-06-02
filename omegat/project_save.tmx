@@ -1846,6 +1846,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Und dann erklärt er uns, dass niemand so viel Shampoo auf einmal mit ins Flugzeug nehmen darf, weil das irgendwie gefährlich ist, und erst recht nicht in einem Vorratsglas.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T164557Z" creationid="alumno" creationdate="20230602T164557Z">
+        <seg>Luego explica que nadie puede llevaar tanto champú de una vez en el avión, porqu es peligroso y menos en un bote de cristal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Und dann erlaube ich Flo, dass sie zum Aufräumen meine Müllkralle ausleihen darf, und das findet sie dann auch gut und geht endlich in den Garten.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T074930Z" creationid="Ramon" creationdate="20230602T074835Z">
@@ -2130,6 +2138,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214338Z" creationid="Ramon" creationdate="20230601T214338Z">
         <seg>Algo realmente malo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Was war das denn?“</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T164242Z" creationid="alumno" creationdate="20230602T164242Z">
+        <seg>¿Que era todo eso?“</seg>
       </tuv>
     </tu>
     <tu>
@@ -2482,6 +2498,14 @@
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230602T140409Z" creationid="Arturo" creationdate="20230602T140337Z">
         <seg>"Así la espuma será bonita y blanca"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Damit meine Haare nicht stinkig werden“, wiederholt Papa, und dabei zieht er die Augenbrauen so hoch, dass sie fast bis oben auf seinen Kopf rutschen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T164456Z" creationid="alumno" creationdate="20230602T164456Z">
+        <seg>Para que no me apeste el pelo, repite Papá, mientras sube tanto las cejas que casi se deslizan por la parte superior de su cabeza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3462,6 +3486,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Wir haben nur echtes Shampoo für dich gemacht, damit deine Haare nicht stinkig werden.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T164352Z" creationid="alumno" creationdate="20230602T164352Z">
+        <seg>Hemos hecho champú de verdad, para que tu pelo no apeste“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Wir können ja Gänseblümchen mit reinschnipseln!“, ruft Flo, und bevor ich noch irgendetwas sagen kann, rennt sie los und holt richtig viele.</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230602T132933Z" creationid="Arturo" creationdate="20230602T132933Z">
@@ -3506,6 +3538,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T211322Z" creationid="Ramon" creationdate="20230601T211322Z">
         <seg>Nos queremos dejar sorprender.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Wir wollten dich nicht ärgern, Papa!“, ruft Flo schnell.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T164321Z" creationid="alumno" creationdate="20230602T164321Z">
+        <seg>¡No te queriamos cabrear! dijo en seguida Flo.</seg>
       </tuv>
     </tu>
     <tu>
