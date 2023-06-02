@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Es ist gar nicht mehr in der Tüte, sondern Mama hat es in ein riesiges Glas gefüllt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T003203Z" creationid="Arturo" creationdate="20230602T003203Z">
+        <seg>Ya no está en la bolsa, Mamá la ha puesto en un tarro enorme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Fast so süß wie echte Babys.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214727Z" creationid="Ramon" creationdate="20230601T214727Z">
