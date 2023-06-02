@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Aber da erkläre ich ihr, dass man Babys natürlich nicht anbinden darf, noch nicht mal im Kinderwagen, und dass Flo einfach noch zu klein ist, um das zu wissen, und ein bisschen zu dumm.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T171047Z" creationid="alumno" creationdate="20230602T171047Z">
+        <seg>Pero entonces le explico que no se pueden atar los bebés, ni si quiera en el carrito y que Flo es demasiado pequeña para saber eso y un poco tonta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Aber da erkläre ich ihr, dass sie sich mit Umweltschutz ja überhaupt nicht richtig auskennt und ich deshalb die schwierigen Sachen drinnen machen muss.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T074711Z" creationid="Ramon" creationdate="20230602T074600Z">
@@ -2622,6 +2630,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Damit können wir unseren Bruder im Kinderwagen anbinden, damit er nicht rausfällt.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T170907Z" creationid="alumno" creationdate="20230602T170907Z">
+        <seg>Con esto podemos atar a nuestro hermano al carrito, para que no se caiga“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Damit meine Haare nicht stinkig werden“, wiederholt Papa, und dabei zieht er die Augenbrauen so hoch, dass sie fast bis oben auf seinen Kopf rutschen.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230602T164456Z" creationid="alumno" creationdate="20230602T164456Z">
@@ -2898,6 +2914,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230602T155429Z" creationid="Ramon" creationdate="20230602T090612Z">
         <seg>¿Crees que Mamá lo sabe? pregunto y salto al lado de Flo al césped.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Guck mal, Mimi!“, kräht Flo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T170835Z" creationid="alumno" creationdate="20230602T170822Z">
+        <seg>¡Mira Mimi! dijo Flo.</seg>
       </tuv>
     </tu>
     <tu>
