@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Ich mache Räuberleiter und Flo zieht sich hoch und dann guckt sie oben drüber und ruft: „Also, das glaube ich ja wohl nicht.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T083900Z" creationid="Ramon" creationdate="20230602T083900Z">
+        <seg>Subo a Flo y mira por encima de la valla y grita: esto no me lo puedo creer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Ich muss jetzt schnell machen, weil Mama und Papa schlafen ja immer nur eine Stunde.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T075001Z" creationid="Ramon" creationdate="20230602T075001Z">
@@ -762,6 +770,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T215157Z" creationid="Ramon" creationdate="20230601T215157Z">
         <seg>En realidad le da al borde de plato y por eso este sale volando con su salchicha por los aires, con la salsa también y todo se choca contra la lámpara y cae otra vez a la mesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Irgendwie hört sie sich dabei an wie Mama, wenn sie zum Beispiel abends in unser Zimmer kommt und wir noch nicht aufgeräumt haben.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T083944Z" creationid="Ramon" creationdate="20230602T083944Z">
+        <seg>De alguna forma se parece a mamá cuando por ejemplo viene a nuestro cuarto y no hemos recogido aun.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1726,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„So eine Umweltverschmutzung hab ich noch nie gesehen!“, antwortet Flo und ihre Stimme klingt richtig empört.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T084116Z" creationid="Ramon" creationdate="20230602T084116Z">
+        <seg>No había visto nunca tanta contaminación, contestó Flo y su voz parecia bastante decepcionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Sondern mit unserem Bruder!“</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T230756Z" creationid="Ramon" creationdate="20230601T230756Z">
@@ -1810,6 +1834,14 @@
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T235821Z" creationid="Arturo" creationdate="20230601T235821Z">
         <seg>"¡Maldita sea!“, sisea Papá sin apartar la mirada del ordenador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Was ist denn?“, rufe ich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T084001Z" creationid="Ramon" creationdate="20230602T084001Z">
+        <seg>¿Que pasa? grito yo</seg>
       </tuv>
     </tu>
     <tu>
