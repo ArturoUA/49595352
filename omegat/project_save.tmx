@@ -1574,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Wie?</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T093630Z" creationid="Ramon" creationdate="20230602T093630Z">
+        <seg>¿Cómo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Wir haben übrigens noch viel mehr Cousins, die heißen Bela und Ben und Henry, aber die leben woanders, nämlich in der Stadt, und da fahren wir fast nie hin, und deshalb kennen wir die kaum.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T081226Z" creationid="Ramon" creationdate="20230602T081226Z">
@@ -1862,6 +1870,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Entschuldigung“, ruft er und legt dabei die Hände an den Mund wie einen Trichter.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T093313Z" creationid="Ramon" creationdate="20230602T093313Z">
+        <seg>Perdona, grita él mientras se pone las manos en la boca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Ey“, kreischt Flo und reißt sie mir sofort wieder weg.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T082226Z" creationid="Ramon" creationdate="20230602T082226Z">
@@ -2034,6 +2050,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T092620Z" creationid="Ramon" creationdate="20230602T092620Z">
         <seg>¿Es el cartero? pregunta papá y mira a mamá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Ist das ernst gemeint, dass Sie überhaupt keine Post mehr wollen?“ Und dabei schwenkt er ein ganzes Bündel mit Katalogen und Briefen über dem Kopf hin und her.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T093447Z" creationid="Ramon" creationdate="20230602T093447Z">
+        <seg>¿Lo decís en serio, eso de que ya no queréis cartas? mientras mueve un buen taco de catálogos y cartas sobre su cabeza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2422,6 +2446,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Was?</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T093530Z" creationid="Ramon" creationdate="20230602T093530Z">
+        <seg>¿Qué?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Weil da ist ja schon die Marienkäfersammlung drin.“</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T234812Z" creationid="Arturo" creationdate="20230601T234812Z">
@@ -2514,6 +2546,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T081514Z" creationid="Ramon" creationdate="20230602T081514Z">
         <seg>Al buzón, grito yo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Äh-äh-äh“, stottert Papa.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T093511Z" creationid="Ramon" creationdate="20230602T093511Z">
+        <seg>Em em em, tartamudea papá.</seg>
       </tuv>
     </tu>
     <tu>
