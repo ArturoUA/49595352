@@ -1398,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Und bevor ich noch irgendetwas sagen kann, stellt sie schon das große Glas mit dem Shampoo mitten in Papas Tasche.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T150146Z" creationid="Arturo" creationdate="20230602T150146Z">
+        <seg>Y antes de que pueda decir algo pone el bote de champú en medio de la bolsa de Papá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Und bin ganz froh.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T061928Z" creationid="Ramon" creationdate="20230602T061928Z">
