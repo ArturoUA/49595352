@@ -1950,6 +1950,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Das ist echte Supermatsche!</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T123043Z" creationid="Arturo" creationdate="20230602T123043Z">
+        <seg>"¡Esto sí que es un mejunje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Das ist meine Müllkralle und deshalb kann ich auch darüber bestimmen.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T082320Z" creationid="Ramon" creationdate="20230602T082320Z">
