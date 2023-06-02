@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Früher war er dünn und klein und dann war er dünn und groß und seit ein paar Wochen ist er dick und groß.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T171647Z" creationid="alumno" creationdate="20230602T171647Z">
+        <seg>Antes era delgado y pequeño, entonces fue delgado y grande y hace unas semanas es gordo y muy grande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Ganz manchmal auch lebende, aber das ist keine Tierquälerei, weil die können ja wieder rauskrabbeln, wenn es ihnen da drinnen zu dunkel ist.</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T235316Z" creationid="Arturo" creationdate="20230601T235316Z">
@@ -1522,6 +1530,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230602T165800Z" creationid="alumno" creationdate="20230602T165800Z">
         <seg>Mamá ya está bastante gorda y por eso le hemos preparadosu carrito, es naranja y turquesa, con eso llevaremos el bebé de un lado a otro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Mama sagt, wahrscheinlich kommt das von den ganzen Mäusen, die er immer im Stall von Onkel Jussi fängt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T171745Z" creationid="alumno" creationdate="20230602T171745Z">
+        <seg>Mamá dice que seguramente sea de todos los ratones que caza siempre en el establo del tio Jussi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2130,6 +2146,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T094809Z" creationid="Ramon" creationdate="20230602T094809Z">
         <seg>Y lo de la pegatina del buzón lo haremos diferente también, ya que escribirmeos solo " no anuncios".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Und das stimmt natürlich, weil Kalle ist nämlich so rund wie eine Schneekugel.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T171555Z" creationid="alumno" creationdate="20230602T171555Z">
+        <seg>Y eso es verdad porque Kalle es tan redondo como una bola de nieve.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3162,6 +3186,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214914Z" creationid="Ramon" creationdate="20230601T214914Z">
         <seg>¡Ya es suficiente! Y golpea con la mano la mesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Jetzt weiß ich!“, ruft Flo auf einmal und ihre Stimme klingt ganz stolz.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T171830Z" creationid="alumno" creationdate="20230602T171830Z">
+        <seg>¡Ya lo tengo! exclama Flo de repente y su voz suena muy orgullosa.</seg>
       </tuv>
     </tu>
     <tu>
