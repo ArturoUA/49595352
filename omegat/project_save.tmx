@@ -1750,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Und da rufe ich schnell „Ja“ und Flo auch.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T164727Z" creationid="alumno" creationdate="20230602T164727Z">
+        <seg>Grito rápidamente, si, y Flo también.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Und da sagt Mama überhaupt nichts mehr, sondern glotzt einfach nur auf die ganze Soße an der Glühbirne, und das sieht wirklich lustig aus und ich muss lachen.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230602T154248Z" creationid="Ramon" creationdate="20230601T215332Z">
@@ -2026,6 +2034,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T094445Z" creationid="Ramon" creationdate="20230602T094445Z">
         <seg>Y que ahora ya no van a llegar facturas y que es algo bueno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Und dass man dafür richtig schlimmen Ärger kriegen kann.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T164613Z" creationid="alumno" creationdate="20230602T164613Z">
+        <seg>Y que por ello se pueden meteren un buen lío.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2774,6 +2790,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Habt ihr das verstanden?“, fragt er.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T164658Z" creationid="alumno" creationdate="20230602T164658Z">
+        <seg>¿Lo habéis entendido? pregunta el.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Hallo“, brüllt da jemand aus dem Hof.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T092503Z" creationid="Ramon" creationdate="20230602T092503Z">
@@ -3314,6 +3338,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230602T154121Z" creationid="Ramon" creationdate="20230601T213752Z">
         <seg>Y entonces va a venir el señor Jesús siempre a nuestra casa a limpiar los pañales, ¿o qué? preguntó Mamá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Und deine Anziehsachen waschen wir einfach“, ergänzt Flo und dabei gibt sie Papa hunderttausend Küsse ins Gesicht.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T164825Z" creationid="alumno" creationdate="20230602T164825Z">
+        <seg>Y tu ropa tambien la lavaremos, añade Flo dándole cien mil besos en la cara.</seg>
       </tuv>
     </tu>
     <tu>
