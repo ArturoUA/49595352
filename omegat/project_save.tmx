@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Ich stoße Flo in den Rücken, weil eigentlich soll sie das ja noch gar nicht verraten.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T092115Z" creationid="Ramon" creationdate="20230602T092115Z">
+        <seg>Empujo a Flo por la espalda porque ne verdad no lo puede decir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Ich versuche, mir mit einer Hand die Nase zuzuhalten, aber da rutsche ich fast ab, und deshalb atme ich jetzt einfach so wenig wie möglich.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T084816Z" creationid="Ramon" creationdate="20230602T084816Z">
@@ -986,6 +994,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T184053Z" creationid="alumno" creationdate="20230601T184053Z">
         <seg>¡Mamá le llamó "cariño" a papá!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Mama setzt sich auf und starrt uns an.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T092129Z" creationid="Ramon" creationdate="20230602T092129Z">
+        <seg>Mamá se levanta y nos mira.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1330,6 +1346,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T211539Z" creationid="Ramon" creationdate="20230601T211539Z">
         <seg>Y ahora estoy en la escuela y no puedo pensar en otra cosa que no sea nuestro bebé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Und warum, bitte schön, stinkt ihr so erbärmlich???“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T092310Z" creationid="Ramon" creationdate="20230602T092310Z">
+        <seg>¿¿¿ Y porqué , por dios, oléis asi de mal???“</seg>
       </tuv>
     </tu>
     <tu>
@@ -1894,6 +1918,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Ihr müsst kommen!“, wispert Flo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T092016Z" creationid="Ramon" creationdate="20230602T092016Z">
+        <seg>¡Tenéis que venir! murmura Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Jetzt bin ich dran“, sage ich und nehme ihr die Müllkralle aus der Hand.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T082156Z" creationid="Ramon" creationdate="20230602T082156Z">
@@ -1986,6 +2018,14 @@
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230602T000617Z" creationid="Arturo" creationdate="20230602T000617Z">
         <seg>"¡Por favor, Mimi!", exclama Papá, y ahora sí, se da la vuelta con tanto ímpetu que casi se cae de la silla. Parece muy molesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Mimi und ich haben super Umweltschutzsachen gemacht.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T092048Z" creationid="Ramon" creationdate="20230602T092048Z">
+        <seg>Mimi y yo hemos hecho muchas cosas para proteger el medio ambiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2174,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Und warum habt ihr Arbeitshandschuhe an?</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T092240Z" creationid="Ramon" creationdate="20230602T092240Z">
+        <seg>¿Y porqué teneis puestaos los guantes de trabajo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Und warum überhaupt so kurzfristig?“</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230602T001337Z" creationid="Arturo" creationdate="20230602T001337Z">
@@ -2210,6 +2258,14 @@
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T235821Z" creationid="Arturo" creationdate="20230601T235821Z">
         <seg>"¡Maldita sea!“, sisea Papá sin apartar la mirada del ordenador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Was hast du denn in deinen Haaren, Mimi?“, fragt sie.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T092200Z" creationid="Ramon" creationdate="20230602T092200Z">
+        <seg>¿Que tienes en el pelo, Mimi? pregunta ella..</seg>
       </tuv>
     </tu>
     <tu>
