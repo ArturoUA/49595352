@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Aber meine beiden Gläser stelle ich trotzdem lieber ins Bad, und zwar ganz unten in den Schrank.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T160732Z" creationid="alumno" creationdate="20230602T160732Z">
+        <seg>Pero mis dos cristales los ponré de todas formas en la cama, abajo del todo en el armario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Aber ohne Waschmittel.“ Also manchmal versteht Flo solche Sachen richtig gut.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T213928Z" creationid="Ramon" creationdate="20230601T213928Z">
@@ -2698,6 +2706,14 @@
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230602T000617Z" creationid="Arturo" creationdate="20230602T000617Z">
         <seg>"¡Por favor, Mimi!", exclama Papá, y ahora sí, se da la vuelta con tanto ímpetu que casi se cae de la silla. Parece muy molesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Mann, warum ist die Tasche denn so schwer?“, stöhnt Papa, als wir zusammen durch den Flughafen rasen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T160939Z" creationid="alumno" creationdate="20230602T160823Z">
+        <seg>Tio, ¿porque pesa tanto la bolsa? se quejó Papá cuando corrimos al aeropuerto.</seg>
       </tuv>
     </tu>
     <tu>
