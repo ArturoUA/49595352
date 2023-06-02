@@ -1334,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Ich nehme Knolle auf den Arm, und stellt euch mal vor, er hält wirklich ganz still.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T172527Z" creationid="alumno" creationdate="20230602T172527Z">
+        <seg>Cojo a Knolle en brazos e imaginaros, ni se mueve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Ich nehme ein großes Blatt und da schreibe ich drauf:</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T080348Z" creationid="Ramon" creationdate="20230602T080348Z">
