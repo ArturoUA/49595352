@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Zum Glück finden Flo und ich das Roggenmehl jetzt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T003113Z" creationid="Arturo" creationdate="20230602T003113Z">
+        <seg>Por suerte Flo y yo hemos encontrado la harina de centeno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>jetzt drucken</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T175546Z" creationid="Arturo" creationdate="20230601T175546Z">
@@ -920,8 +928,8 @@
       <tuv lang="de">
         <seg>„Fliegen ist übrigens richtig umweltschädlich“, hat Flo gerufen und Mama und Papa haben genau gleichzeitig gestöhnt: „Bitte nicht!“ Und dann haben sie schnell über was anderes geredet.</seg>
       </tuv>
-      <tuv lang="es" changeid="Arturo" changedate="20230602T002644Z" creationid="Arturo" creationdate="20230602T002644Z">
-        <seg>"Por cierto, volar en avión es muy malo para el medio ambiente", dijo Flo</seg>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T002943Z" creationid="Arturo" creationdate="20230602T002644Z">
+        <seg>"Por cierto, volar en avión es muy malo para el medio ambiente", dijo Flo entonces Mamá y Papá gritaron al mismo tiempo:"¡Por favor, no!" Y luego cambiaron rápidamente de tema.</seg>
       </tuv>
     </tu>
     <tu>
