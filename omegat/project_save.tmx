@@ -280,8 +280,8 @@
       <tuv lang="de">
         <seg>Also bitte: Geh.</seg>
       </tuv>
-      <tuv lang="es" changeid="Arturo" changedate="20230602T000714Z" creationid="Arturo" creationdate="20230602T000714Z">
-        <seg>Así que , por favor, vete.</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214611Z" creationid="Arturo" creationdate="20230602T000714Z">
+        <seg>Así que, por favor, vete.</seg>
       </tuv>
     </tu>
     <tu>
@@ -336,8 +336,8 @@
       <tuv lang="de">
         <seg>Also nicht nur ein bisschen still, sondern vollkommen still.</seg>
       </tuv>
-      <tuv lang="es" changeid="alumno" changedate="20230602T162818Z" creationid="alumno" creationdate="20230602T162818Z">
-        <seg>Es decir no un poco, sino completamente en silencio,.</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214731Z" creationid="alumno" creationdate="20230602T162818Z">
+        <seg>Es decir no un poco, sino completamente en silencio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -560,8 +560,8 @@
       <tuv lang="de">
         <seg>Das Shampoo schützt nicht nur die Umwelt, sondern es kostet auch viel weniger als das aus der Drogerie!“</seg>
       </tuv>
-      <tuv lang="es" changeid="Arturo" changedate="20230601T234128Z" creationid="Arturo" creationdate="20230601T234128Z">
-        <seg>"Este champú no sólo protege el medio ambiente, ¡si no que también cuesta mucho menos que el de la farmacia!"</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214527Z" creationid="Arturo" creationdate="20230601T234128Z">
+        <seg>"Este champú no solo protege el medio ambiente, ¡sino que también cuesta mucho menos que el de la farmacia!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -776,16 +776,16 @@
       <tuv lang="de">
         <seg>Die Sicherheitskontrolle ist nur für Papa, weil er das Ticket hat, und das finde ich richtig blöd.</seg>
       </tuv>
-      <tuv lang="es" changeid="34685" changedate="20230602T155558Z" creationid="34685" creationdate="20230602T155558Z">
-        <seg>El control de seguridad es sólo para Papá porque tiene el billete, y me parece una completa estupidez.</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214700Z" creationid="34685" creationdate="20230602T155558Z">
+        <seg>El control de seguridad es solo para Papá porque tiene el billete, y me parece una completa estupidez.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="de">
         <seg>Die Strickjacke und das T-Shirt und die ganzen Ordner und Zettel schiebt sie dafür einfach zur Seite und der Reißverschluss geht trotzdem noch zu.</seg>
       </tuv>
-      <tuv lang="es" changeid="alumno" changedate="20230602T160047Z" creationid="alumno" creationdate="20230602T160047Z">
-        <seg>Simplemente empuja la rebeca, la camiseta, todas las carpetas y notas a un lado y la cremallera sigue cerrada..</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214650Z" creationid="alumno" creationdate="20230602T160047Z">
+        <seg>Simplemente empuja la rebeca, la camiseta, todas las carpetas y notas a un lado y la cremallera sigue cerrada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -912,8 +912,8 @@
       <tuv lang="de">
         <seg>Ein Barbiehaus oder so.</seg>
       </tuv>
-      <tuv lang="es" changeid="Arturo" changedate="20230601T234601Z" creationid="Arturo" creationdate="20230601T234601Z">
-        <seg>Una casa de Barbies o algo así..</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214544Z" creationid="Arturo" creationdate="20230601T234601Z">
+        <seg>Una casa de Barbies o algo así.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1448,8 +1448,8 @@
       <tuv lang="de">
         <seg>In der Speisekammer finden wir leider nur normales Mehl, das ist natürlich blöd.</seg>
       </tuv>
-      <tuv lang="es" changeid="Arturo" changedate="20230601T235447Z" creationid="Arturo" creationdate="20230601T235447Z">
-        <seg>Lamentablemente sólo encontramos harina normal en la despensa, lo cual es una estupidez, claro.</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214554Z" creationid="Arturo" creationdate="20230601T235447Z">
+        <seg>Lamentablemente solo encontramos harina normal en la despensa, lo cual es una estupidez, claro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1560,8 +1560,8 @@
       <tuv lang="de">
         <seg>Leider ist es nur noch halb voll, aber vielleicht reicht das ja.</seg>
       </tuv>
-      <tuv lang="es" changeid="Arturo" changedate="20230602T105510Z" creationid="Arturo" creationdate="20230602T105510Z">
-        <seg>Sólo está medio lleno, pero quizá sea suficiente.</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214621Z" creationid="Arturo" creationdate="20230602T105510Z">
+        <seg>Solo está medio lleno, pero quizá sea suficiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1672,8 +1672,8 @@
       <tuv lang="de">
         <seg>Obwohl er es so bewegt, als wäre es ein rohes Ei, schwappt der braune Schaum trotzdem hin und her, und irgendwie sieht das ganz schön eklig aus und die hübschen Gänseblümchen kann ich überhaupt nicht mehr erkennen.</seg>
       </tuv>
-      <tuv lang="es" changeid="alumno" changedate="20230602T161930Z" creationid="alumno" creationdate="20230602T161930Z">
-        <seg>Aunque lo mueve como si fuera un huevo crudo, la espuma marrón sigue moviéndose de un lado a otro y, de alguna forma, tiene un aspecto asqueroso y no puedo distinguir las bonitas margaritas..</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214718Z" creationid="alumno" creationdate="20230602T161930Z">
+        <seg>Aunque lo mueve como si fuera un huevo crudo, la espuma marrón sigue moviéndose de un lado a otro y, de alguna forma, tiene un aspecto asqueroso y no puedo distinguir las bonitas margaritas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1720,8 +1720,8 @@
       <tuv lang="de">
         <seg>Richtig mit Schaum“, ruft Flo und lacht.</seg>
       </tuv>
-      <tuv lang="es" changeid="Arturo" changedate="20230602T132338Z" creationid="Arturo" creationdate="20230602T132338Z">
-        <seg>¡Hasta tiene espuma!“, dice Flo y ríe.</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214643Z" creationid="Arturo" creationdate="20230602T132338Z">
+        <seg>¡Tiene hasta espuma!“, dice Flo y ríe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1976,8 +1976,8 @@
       <tuv lang="de">
         <seg>Und da werde ich richtig sauer, weil das einfach nicht wahr ist, und deshalb schubse ich Flo und sie schubst mich zurück und dann fallen wir beide hin und rollen über den Boden und kämpfen, und Mama versucht, uns auseinanderzuziehen.</seg>
       </tuv>
-      <tuv lang="es" changeid="alumno" changedate="20230602T163527Z" creationid="alumno" creationdate="20230602T163527Z">
-        <seg>Y entonces me enfado de verdad porque eso no es cierto, así que empujo a Flo, ella a mí y entonces las dos nos caemos,rodamos por el suelo,nos peleamos y Mamá intenta separarnos.</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214809Z" creationid="alumno" creationdate="20230602T163527Z">
+        <seg>Y entonces me enfado de verdad porque eso no es cierto, así que empujo a Flo, ella a mí y entonces las dos nos caemos, rodamos por el suelo,nos peleamos y Mamá intenta separarnos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2328,8 +2328,8 @@
       <tuv lang="de">
         <seg>Vor ihm hat sich ein Mann in Uniform aufgebaut und guckt streng.</seg>
       </tuv>
-      <tuv lang="es" changeid="alumno" changedate="20230602T161356Z" creationid="alumno" creationdate="20230602T161356Z">
-        <seg>Delante de el hay un hombre en uniforme y lo mira serio.</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214711Z" creationid="alumno" creationdate="20230602T161356Z">
+        <seg>Delante de él hay un hombre en uniforme y lo mira serio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2376,8 +2376,8 @@
       <tuv lang="de">
         <seg>Weil dann kann Mama ja einfach uns das Geld geben und ich tue es in mein Sparschwein und kaufe mir irgendwann eine richtige Riesensache.</seg>
       </tuv>
-      <tuv lang="es" changeid="Arturo" changedate="20230601T234545Z" creationid="Arturo" creationdate="20230601T234545Z">
-        <seg>Porque así cuando Mamá nos dé dinero, lo meteré en mi hucha para comprarme algo muy grande algún día .</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214536Z" creationid="Arturo" creationdate="20230601T234545Z">
+        <seg>Porque así cuando Mamá nos dé dinero, lo meteré en mi hucha para comprarme algo muy grande algún día.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2832,8 +2832,8 @@
       <tuv lang="de">
         <seg>„Das stimmt ja gar nicht!“, kreischt Flo.</seg>
       </tuv>
-      <tuv lang="es" changeid="alumno" changedate="20230602T163354Z" creationid="alumno" creationdate="20230602T163354Z">
-        <seg>¡Eso no es  cierto en absoluto! chilla Flo</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214742Z" creationid="alumno" creationdate="20230602T163354Z">
+        <seg>¡Eso no es cierto en absoluto! chilla Flo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3088,8 +3088,8 @@
       <tuv lang="de">
         <seg>„Ich habe dich was gefragt!“ Das sagt Mama auch immer zu mir, wenn ich mal nicht sofort antworte.</seg>
       </tuv>
-      <tuv lang="es" changeid="Arturo" changedate="20230601T235937Z" creationid="Arturo" creationdate="20230601T235937Z">
-        <seg>"¡Te he hecho una pregunta!" Eso es lo que me dice siempre Mamá cuando no le contesto enseguida..</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T214603Z" creationid="Arturo" creationdate="20230601T235937Z">
+        <seg>"¡Te he hecho una pregunta!" Eso es lo que me dice siempre Mamá cuando no le contesto enseguida.</seg>
       </tuv>
     </tu>
     <tu>
