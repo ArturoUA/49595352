@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Aber leider dürfen wir nicht mit reingehen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="34685" changedate="20230602T155514Z" creationid="34685" creationdate="20230602T155514Z">
+        <seg>Pero, por desgracia, no se nos permite entrar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Aber meine Idee ist noch viel besser.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T080328Z" creationid="Ramon" creationdate="20230602T080328Z">
@@ -502,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Das weiß ich noch vom Urlaub.</seg>
+      </tuv>
+      <tuv lang="es" changeid="34685" changedate="20230602T155450Z" creationid="34685" creationdate="20230602T155450Z">
+        <seg>Eso recuerdo de mis vacaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Dass Mamas Chef ein richtig schlimmer Umweltverschmutzer ist.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T094342Z" creationid="Ramon" creationdate="20230602T094342Z">
@@ -578,6 +594,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230602T110541Z" creationid="alumno" creationdate="20230602T110541Z">
         <seg>Los clientes pueden dar su fruta y verdura vieja a la guardería, eso se almacena y en algún momento se convertirá en tierra muy buena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Die Sicherheitskontrolle ist nur für Papa, weil er das Ticket hat, und das finde ich richtig blöd.</seg>
+      </tuv>
+      <tuv lang="es" changeid="34685" changedate="20230602T155558Z" creationid="34685" creationdate="20230602T155558Z">
+        <seg>El control de seguridad es sólo para Papá porque tiene el billete, y me parece una completa estupidez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1354,6 +1378,14 @@
       </tuv>
       <tuv lang="es" changeid="34685" changedate="20230602T155341Z" creationid="34685" creationdate="20230602T155341Z">
         <seg>Un petardo o algo así.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>So können wir das mit der Röhre gar nicht richtig sehen!</seg>
+      </tuv>
+      <tuv lang="es" changeid="34685" changedate="20230602T155641Z" creationid="34685" creationdate="20230602T155641Z">
+        <seg>¡No podemos verlo así con el tubo!</seg>
       </tuv>
     </tu>
     <tu>
