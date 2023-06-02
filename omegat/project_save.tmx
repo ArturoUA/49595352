@@ -960,8 +960,8 @@
       <tuv lang="de">
         <seg>Einmal haben wir drinnen ganz alleine echten Kuchen gebacken, und da haben wir &lt;e0&gt;richtig&lt;/e0&gt; Ärger gekriegt, aber das habe ich ja schon mal erzählt.</seg>
       </tuv>
-      <tuv lang="es" changeid="Arturo" changedate="20230602T121445Z" creationid="Arturo" creationdate="20230602T121434Z">
-        <seg>Una vez hicimos una tarta casera y nos metimos en un problema gordo, pero eso ya os lo conté.</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T205944Z" creationid="Arturo" creationdate="20230602T121434Z">
+        <seg>Una vez hicimos una tarta casera y nos metimos en un problema gordo, pero eso ya os lo conté.&lt;e0&gt;&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
