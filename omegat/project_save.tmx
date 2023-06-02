@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Den Flieger krieg ich sowieso nicht mehr.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T163816Z" creationid="alumno" creationdate="20230602T163816Z">
+        <seg>Al vuelo ya no llegamos de todas formas.“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Der Briefkasten ist nicht direkt am Haus, sondern man muss ein Stück den Brückenweg entlangfahren, und da steht er dann, damit der Postbote nicht immer ganz bis zu uns kommen muss.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T080935Z" creationid="Ramon" creationdate="20230602T080935Z">
@@ -1270,6 +1278,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>In der Hand hält er seine Tasche.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T163647Z" creationid="alumno" creationdate="20230602T163647Z">
+        <seg>En la mano tiene su bolsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>In der Schule haben wir uns deshalb überlegt, dass man ein Schild auf den Briefkasten kleben kann, auf dem „Keine Werbung“ steht, weil wenn aus dem Papier keine Werbung gemacht wird, dann kann man es für wichtige Sachen benutzen, Bücher zum Beispiel.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T080312Z" creationid="Ramon" creationdate="20230602T080312Z">
@@ -1706,6 +1722,14 @@
       </tuv>
       <tuv lang="es" changeid="34685" changedate="20230602T160635Z" creationid="34685" creationdate="20230602T160635Z">
         <seg>Y yo también lo veo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Und da springen Flo und ich auch auf und dann rasen wir alle vier durch den Flughafen wie Raketen, bis fast zum Ausgang.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T163915Z" creationid="alumno" creationdate="20230602T163915Z">
+        <seg>Y ahi es cuando Flo y yo nos levantamos de un salto y salimos corriendo del aeropuerto como cohetes, hasta la salida casi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2386,6 +2410,14 @@
       </tuv>
       <tuv lang="es" changeid="34685" changedate="20230602T160618Z" creationid="34685" creationdate="20230602T160618Z">
         <seg>"¡Hay algo donde Papá!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Bevor die sich das anders überlegen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T163758Z" creationid="alumno" creationdate="20230602T163758Z">
+        <seg>Antes de que cambien de opinión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3130,6 +3162,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T082933Z" creationid="Ramon" creationdate="20230602T082933Z">
         <seg>¿Vamos a ver, estas loca? grito yo, tan enfadad como nunca en mi vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Schnell weg hier“, flüstert er und schnappt Mamas Hand und zieht sie hinter sich her.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T163734Z" creationid="alumno" creationdate="20230602T163734Z">
+        <seg>Salgamos de aquí rápido, susurra él y agarra de la mano a Mamá.</seg>
       </tuv>
     </tu>
     <tu>
