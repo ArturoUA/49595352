@@ -1262,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Richtig mit Schaum“, ruft Flo und lacht.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T132338Z" creationid="Arturo" creationdate="20230602T132338Z">
+        <seg>¡Hasta tiene espuma!“, dice Flo y ríe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Sie springt auf und ihr Stuhl fällt nach hinten um.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214834Z" creationid="Ramon" creationdate="20230601T214834Z">
