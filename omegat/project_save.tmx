@@ -16,8 +16,8 @@
       <tuv lang="de">
         <seg>Aber da erkläre ich ihr, dass sie sich mit Umweltschutz ja überhaupt nicht richtig auskennt und ich deshalb die schwierigen Sachen drinnen machen muss.</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230602T074600Z" creationid="Ramon" creationdate="20230602T074600Z">
-        <seg>.</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T074711Z" creationid="Ramon" creationdate="20230602T074600Z">
+        <seg>Pero entonces le explico que no sabe realmente sobre el medioambiente y que por eso tengo que hacer las cosas difíciles de dentro yo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Und dann erlaube ich Flo, dass sie zum Aufräumen meine Müllkralle ausleihen darf, und das findet sie dann auch gut und geht endlich in den Garten.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T074930Z" creationid="Ramon" creationdate="20230602T074835Z">
+        <seg>Y entonces le permito a Flo que le puedo prestar mi garra de basura para limpiar, eso le parece bien y ya por fin se va al jardín .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Und dann hat Papa zu Mama gesagt: „Ich oder du?“ Und Mama hat noch mehr gelächelt und geantwortet: „Du, Liebster.“</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183932Z" creationid="alumno" creationdate="20230601T183932Z">
@@ -880,8 +888,8 @@
       <tuv lang="de">
         <seg>Wisst ihr, was eine Müllkralle ist?</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230601T212551Z" creationid="Ramon" creationdate="20230601T212551Z">
-        <seg>Sabéis lo que es una farra de basura?</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T074846Z" creationid="Ramon" creationdate="20230601T212551Z">
+        <seg>Sabéis lo que es una garra de basura?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1104,8 +1112,8 @@
       <tuv lang="de">
         <seg>„Ich mache drinnen und du räumst draußen auf.“</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230602T074518Z" creationid="Ramon" creationdate="20230602T074518Z">
-        <seg>Yo limpiaré fuera y tu lo harás fuera.</seg>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T074611Z" creationid="Ramon" creationdate="20230602T074518Z">
+        <seg>Yo limpiaré dentro y tu lo harás fuera.</seg>
       </tuv>
     </tu>
     <tu>
