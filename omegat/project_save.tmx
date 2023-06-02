@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Dann umarme ich Papa, so fest ich kann.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T165046Z" creationid="alumno" creationdate="20230602T165046Z">
+        <seg>Entonces abrazo Papá, tan fuerte como puedo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Dann zeigt er seine Karte einem Mann und hebt seine Tasche auf das Laufband.</seg>
       </tuv>
       <tuv lang="es" changeid="34685" changedate="20230602T155857Z" creationid="34685" creationdate="20230602T155857Z">
@@ -2254,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Wie wir einmal Knolle und Bolle gewickelt haben</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T165122Z" creationid="alumno" creationdate="20230602T165122Z">
+        <seg>Cómo envolvimos una vez a Knolle y Bolle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Wie wir einmal echtes Shampoo selber gemacht haben</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230602T002740Z" creationid="Arturo" creationdate="20230602T002740Z">
@@ -3334,6 +3350,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Und dann kannst du einfach morgen zur Arbeit fliegen.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T165029Z" creationid="alumno" creationdate="20230602T165029Z">
+        <seg>Y entonces podrás viajar mañana al trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Und dann kommt dein Herr Jesus immer zu uns und wäscht die Stoffwindeln, oder wie?“, fragt Mama.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230602T154121Z" creationid="Ramon" creationdate="20230601T213752Z">
@@ -3346,6 +3370,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230602T164825Z" creationid="alumno" creationdate="20230602T164825Z">
         <seg>Y tu ropa tambien la lavaremos, añade Flo dándole cien mil besos en la cara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Und deine Arbeitszettel trocknen wir und dann wischen wir sie sauber“, rufe ich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T164854Z" creationid="alumno" creationdate="20230602T164854Z">
+        <seg>Y te secaremos tus papeles del trabajo y los limpiaremos, grito yo</seg>
       </tuv>
     </tu>
     <tu>
