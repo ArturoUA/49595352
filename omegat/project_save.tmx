@@ -3366,6 +3366,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Nein“, antwortet Flo und legt den Finger an die Nase.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T171233Z" creationid="alumno" creationdate="20230602T171233Z">
+        <seg>No, contestó Flo y se puso el dedo en la nariz .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Nicht küssen“, zische ich.</seg>
       </tuv>
       <tuv lang="es" changeid="34685" changedate="20230602T155746Z" creationid="34685" creationdate="20230602T155746Z">
@@ -3750,6 +3758,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Wir können ja unsere Puppen nehmen, die sind fast wie richtige Babys.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T171201Z" creationid="alumno" creationdate="20230602T171201Z">
+        <seg>Podemos coger nuestras muñecas, que son casi como bebés de verdad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Wir legen den ganzen Dreck erst mal vor die Haustür und zeigen ihn Mama.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230602T155446Z" creationid="Ramon" creationdate="20230602T090730Z">
@@ -3810,6 +3826,14 @@
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T183739Z" creationid="Arturo" creationdate="20230601T183739Z">
         <seg>"¿Quieres que hoy hagamos champú nosotras mismas?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Wollen wir wickeln üben?“, frage ich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T171135Z" creationid="alumno" creationdate="20230602T171135Z">
+        <seg>¿Practicamos poner pañales? pregunto yo</seg>
       </tuv>
     </tu>
     <tu>
