@@ -886,10 +886,26 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Haben wir Roggenmehl?“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T235710Z" creationid="Arturo" creationdate="20230601T235710Z">
+        <seg>"¿Tenemos harina de centeno?“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Ich hab doch nicht mit dir geredet!“, ruft Flo.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T220707Z" creationid="Ramon" creationdate="20230601T220707Z">
         <seg>¡No hablaba contigo! gritó Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Ich habe dich was gefragt!“ Das sagt Mama auch immer zu mir, wenn ich mal nicht sofort antworte.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T235937Z" creationid="Arturo" creationdate="20230601T235937Z">
+        <seg>"¡Te he hecho una pregunta!" Eso es lo que me dice siempre Mamá cuando no le contesto enseguida..</seg>
       </tuv>
     </tu>
     <tu>
@@ -998,6 +1014,22 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Papa!“, rufe ich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T235844Z" creationid="Arturo" creationdate="20230601T235844Z">
+        <seg>"¡Papá!" le grito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Roggenmehl“, murmelt Papa und guckt immer noch nicht zu mir her.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T000047Z" creationid="Arturo" creationdate="20230602T000047Z">
+        <seg>"Harina de centeno...“, murmura Papá sin mirarme aún.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Sag mal, Flo, wie redest du denn mit mir?“, fragt Mama und runzelt die Stirn.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T220636Z" creationid="Ramon" creationdate="20230601T220636Z">
@@ -1074,6 +1106,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T204442Z" creationid="Ramon" creationdate="20230601T204442Z">
         <seg>¡Nuestra sorpresa no es un poni de verdad!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Verflucht!“, zischt Papa und dreht sich gar nicht zu mir um, sondern starrt die ganze Zeit weiter auf seinen Computer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230601T235821Z" creationid="Arturo" creationdate="20230601T235821Z">
+        <seg>"¡Maldita sea!“, sisea Papá sin apartar la mirada del ordenador.</seg>
       </tuv>
     </tu>
     <tu>
