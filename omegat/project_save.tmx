@@ -1406,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Mimi“, schreit Flo und winkt mir wie wild mit der Müllkralle.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T081437Z" creationid="Ramon" creationdate="20230602T081437Z">
+        <seg>Mimi, grita flo y me saluda con la garra de basura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Nee“, sagt Flo.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T074445Z" creationid="Ramon" creationdate="20230602T074445Z">
@@ -1618,6 +1626,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T211322Z" creationid="Ramon" creationdate="20230601T211322Z">
         <seg>Nos queremos dejar sorprender.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Wo fährst du hin?“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T081459Z" creationid="Ramon" creationdate="20230602T081459Z">
+        <seg>¿A donde vas?</seg>
       </tuv>
     </tu>
     <tu>
