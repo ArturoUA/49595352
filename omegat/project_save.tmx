@@ -1806,6 +1806,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Und da kommt sie aus dem Spielzimmer angeflitzt, und in ihrer Hand hält sie eine Schnur, die hat sie selber gekordelt, und die ist orange und türkis.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T170738Z" creationid="alumno" creationdate="20230602T170738Z">
+        <seg>Y entonces viene corriendo de la habitación de juegos, en su mano tiene una cordel que se ha a anudado ella misma, que es naranja y turquesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Und da lasse ich ihren Fuß einfach los und sie plumpst ins Gras, aber sie tut sich nicht weh.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T084156Z" creationid="Ramon" creationdate="20230602T084156Z">
@@ -2838,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Flo!“, rufe ich, weil ich sie nicht gleich finde.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T170519Z" creationid="alumno" creationdate="20230602T170519Z">
+        <seg>¡Flo! llamo, porque no los encuentro enseguida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Flo!“, sage ich mit ganz strenger Stimme.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T082301Z" creationid="Ramon" creationdate="20230602T082301Z">
@@ -2938,6 +2954,14 @@
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T235937Z" creationid="Arturo" creationdate="20230601T235937Z">
         <seg>"¡Te he hecho una pregunta!" Eso es lo que me dice siempre Mamá cuando no le contesto enseguida..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Ich habe eine Überraschung für dich!“</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T170553Z" creationid="alumno" creationdate="20230602T170553Z">
+        <seg>¡Tengo una sorpresa para ti!</seg>
       </tuv>
     </tu>
     <tu>
