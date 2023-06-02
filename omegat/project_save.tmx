@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Das passt richtig gut, weil die sind ja auch zu zweit, und dann können wir beide üben!“</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T171935Z" creationid="alumno" creationdate="20230602T171935Z">
+        <seg>¡Eso queda muy bien, porque somos dos y podemos practicar a la vez!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Das stimmt wirklich!</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T184001Z" creationid="alumno" creationdate="20230601T184001Z">
@@ -654,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Den hat Papa gebaut und Flo und ich haben ihm damals richtig gut dabei geholfen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T172112Z" creationid="alumno" creationdate="20230602T172112Z">
+        <seg>Lo ha construido Papá y Flo y yo ayudamos mucho en su momento .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Der Briefkasten ist nicht direkt am Haus, sondern man muss ein Stück den Brückenweg entlangfahren, und da steht er dann, damit der Postbote nicht immer ganz bis zu uns kommen muss.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T080935Z" creationid="Ramon" creationdate="20230602T080935Z">
@@ -674,6 +690,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214800Z" creationid="Ramon" creationdate="20230601T214800Z">
         <seg>El hombre de la escuela dijo que no comía nunca carne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Der Stall ist so groß, dass wir da selber auch reingehen können und die Kaninchen ganz viel Platz zum Spielen haben.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T172204Z" creationid="alumno" creationdate="20230602T172204Z">
+        <seg>La conejera es tan grande, que podemos entrar nosotras mismas y los conejos tienen mucho espacio para jugar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2230,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Und so machen wir es.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T171945Z" creationid="alumno" creationdate="20230602T171945Z">
+        <seg>Y así lo haremos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Und warum, bitte schön, stinkt ihr so erbärmlich???“</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T092310Z" creationid="Ramon" creationdate="20230602T092310Z">
@@ -2418,6 +2450,14 @@
       </tuv>
       <tuv lang="es" changeid="34685" changedate="20230602T160431Z" creationid="34685" creationdate="20230602T160431Z">
         <seg>Nos vamos ya“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Wir flitzen in den Garten und laufen zum Kaninchenstall.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T172032Z" creationid="alumno" creationdate="20230602T172032Z">
+        <seg>Salimos pitando al jardín y vamos a la conejera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3858,6 +3898,14 @@
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230602T150001Z" creationid="Arturo" creationdate="20230602T150001Z">
         <seg>"¡Vamos a hacerle una súper sorpresa a Papá!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Wir wickeln einfach Knolle und Bolle!</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T171857Z" creationid="alumno" creationdate="20230602T171857Z">
+        <seg>¡Envolveremos a Knolle y Bolle!</seg>
       </tuv>
     </tu>
     <tu>
