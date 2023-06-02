@@ -2174,6 +2174,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Dann können wir ja los.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="34685" changedate="20230602T160144Z" creationid="34685" creationdate="20230602T160144Z">
+        <seg>"Entonces prodremos irnos“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Das hat der Mann in der Schule heute gesagt“, erkläre ich.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T213549Z" creationid="Ramon" creationdate="20230601T213549Z">
@@ -2470,6 +2478,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Ich will noch gucken!“ „Flo“, antwortet Mama.</seg>
+      </tuv>
+      <tuv lang="es" changeid="34685" changedate="20230602T160323Z" creationid="34685" creationdate="20230602T160323Z">
+        <seg>"¡Quiero seguir mirando!" "Flo", responde Mamá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Ihr müsst aber auf jeden Fall Roggenmehl nehmen“, hat der Umweltbeschützer gesagt.</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T233949Z" creationid="Arturo" creationdate="20230601T233949Z">
@@ -2706,6 +2722,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T210308Z" creationid="Ramon" creationdate="20230601T210308Z">
         <seg>¡No! dijo papá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Nein!“, ruft Flo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="34685" changedate="20230602T160212Z" creationid="34685" creationdate="20230602T160212Z">
+        <seg>"¡No!“, grita Flo.</seg>
       </tuv>
     </tu>
     <tu>
