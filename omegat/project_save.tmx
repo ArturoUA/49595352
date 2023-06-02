@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Die Kunden können ihr altes Obst und Gemüse in der Gärtnerei abgeben und dann wird das gesammelt und irgendwann wird daraus ganz von selber richtig gute Erde.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T110541Z" creationid="alumno" creationdate="20230602T110541Z">
+        <seg>Los clientes pueden dar su fruta y verdura vieja a la guardería, eso se almacena y en algún momento se convertirá en tierra muy buena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Die erste Stunde hat heute übrigens später als sonst angefangen, weil wir Projektwoche haben.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T211627Z" creationid="Ramon" creationdate="20230601T211627Z">
@@ -688,8 +696,8 @@
       <tuv lang="de">
         <seg>Ende der Geschichte!</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230602T095309Z" creationid="Ramon" creationdate="20230602T095309Z">
-        <seg>¡Final de la historia!</seg>
+      <tuv lang="es" changeid="alumno" changedate="20230602T110602Z" creationid="Ramon" creationdate="20230602T095309Z">
+        <seg>¡Fin de la historia!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1184,8 +1192,8 @@
       <tuv lang="de">
         <seg>Neben uns ist nur noch der Hof von Onkel Jussi und Mats.</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230602T081007Z" creationid="Ramon" creationdate="20230602T081007Z">
-        <seg>Al lado nuestra solo está la granja del tio Jussi y Mats</seg>
+      <tuv lang="es" changeid="alumno" changedate="20230602T110339Z" creationid="Ramon" creationdate="20230602T081007Z">
+        <seg>Al lado nuestra solo está la granja del tio Jussi y Mats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2384,8 +2392,8 @@
       <tuv lang="de">
         <seg>„Mimi“, schreit Flo und winkt mir wie wild mit der Müllkralle.</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230602T081437Z" creationid="Ramon" creationdate="20230602T081437Z">
-        <seg>Mimi, grita flo y me saluda con la garra de basura.</seg>
+      <tuv lang="es" changeid="alumno" changedate="20230602T110142Z" creationid="Ramon" creationdate="20230602T081437Z">
+        <seg>Mimi, grita Flo y me saluda con la garra de basura.</seg>
       </tuv>
     </tu>
     <tu>
