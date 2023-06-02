@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Aber ich habe keine Zeit, um mich richtig zu ekeln, weil Flo und ich ja schnell machen müssen!</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T090232Z" creationid="Ramon" creationdate="20230602T090232Z">
+        <seg>¡Pero no tengo tiempo de quejarme, porque Flo tiene que darse prisa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Aber jetzt müssen wir erst mal die Müllkralle zurückholen, und das ist ganz schön schwierig, weil der Zaun nämlich so hoch ist.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T083754Z" creationid="Ramon" creationdate="20230602T083754Z">
@@ -130,6 +138,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T075137Z" creationid="Ramon" creationdate="20230602T075137Z">
         <seg>Primero cojo seis rollos de papel higiénico de la despensa y tambien cojo del baño obviamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Als ich endlich fertig bin und über den Zaun gucke, kann ich selbst kaum glauben, wie viel Müll das ist!</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T090322Z" creationid="Ramon" creationdate="20230602T090322Z">
+        <seg>¡Cuando salto la valla, no me puedo creer cuanta basura hay!</seg>
       </tuv>
     </tu>
     <tu>
@@ -542,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Einmal fällt mir sogar so eine Orange auf die Haare, pfui Teufel!</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T090201Z" creationid="Ramon" creationdate="20230602T090201Z">
+        <seg>¡Una vez se me cayó una naranja al pelo, que asco!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Einmal haben Flo und ich dafür ein Kalb aus dem Stall von Onkel Jussi genommen, aber das habe ich ja schon erzählt.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T205156Z" creationid="Ramon" creationdate="20230601T205156Z">
@@ -554,6 +578,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T212141Z" creationid="Ramon" creationdate="20230601T211956Z">
         <seg>Se parece un poco a Jesús en mi mapa de religión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Es dauert ganz schön lange, bis ich alle Sachen auf die andere Seite geworfen habe, besonders die Schimmelapfelsinen sind schwierig, weil die so rund sind und immer durch die blöde Kralle rutschen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T090125Z" creationid="Ramon" creationdate="20230602T090125Z">
+        <seg>Esto tarda bastante, hasta que todas he lanzado todas las cosas al otro lado, sobre todo las manzanas podridas porque son redondas y se resbalan.</seg>
       </tuv>
     </tu>
     <tu>
