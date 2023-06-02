@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Flo ist zwar ziemlich mutig, aber manchmal auch ein bisschen empfindlich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T085151Z" creationid="Ramon" creationdate="20230602T085151Z">
+        <seg>Flo es muy valiente, pero a veces muy sensible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Flo rennt direkt hinter mir her, aber ich komme zuerst an und umarme Mamas Bauch, und Flo nimmt deshalb Mamas Rücken und steckt den Kopf unter ihrem Arm durch.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T220428Z" creationid="Ramon" creationdate="20230601T220428Z">
@@ -1102,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Und dann bringen wir sie zusammen zu unserer Mülltonne, okay?“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T085345Z" creationid="Ramon" creationdate="20230602T085345Z">
+        <seg>¿Y luego lo tiramos todo al contenedor, vale?“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Und dann erlaube ich Flo, dass sie zum Aufräumen meine Müllkralle ausleihen darf, und das findet sie dann auch gut und geht endlich in den Garten.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T074930Z" creationid="Ramon" creationdate="20230602T074835Z">
@@ -1398,6 +1414,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Also gut“, sage ich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T085235Z" creationid="Ramon" creationdate="20230602T085235Z">
+        <seg>Entonces bien, digo yo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Auch kein Husky!“</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T210437Z" creationid="Ramon" creationdate="20230601T210437Z">
@@ -1594,6 +1618,14 @@
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T235937Z" creationid="Arturo" creationdate="20230601T235937Z">
         <seg>"¡Te he hecho una pregunta!" Eso es lo que me dice siempre Mamá cuando no le contesto enseguida..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Ich klettere auf die andere Seite und werfe mit der Kralle alle Sachen zu dir rüber.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T085308Z" creationid="Ramon" creationdate="20230602T085308Z">
+        <seg>Escalaré al otro lado y tiraré todo con la garra de basura a ti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1922,6 +1954,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T204442Z" creationid="Ramon" creationdate="20230601T204442Z">
         <seg>¡Nuestra sorpresa no es un poni de verdad!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Uuuuähhhhh“, würgt Flo hervor, und dabei schüttelt sie sich so, dass ich fast schon denke, sie muss spucken.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T085134Z" creationid="Ramon" creationdate="20230602T085134Z">
+        <seg>Uuugh, dice Flo mientras ladea con la cabeza pensando que iba a escupir.</seg>
       </tuv>
     </tu>
     <tu>
