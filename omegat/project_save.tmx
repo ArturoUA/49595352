@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Der heißt Ninja, aber wenn er auf die Welt kommt, kriegt er einen neuen Namen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T165430Z" creationid="alumno" creationdate="20230602T165430Z">
+        <seg>Se llama ninja, pero cuando llegue al mundi, conseguirá otro nombre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Der steht ziemlich weit weg, direkt hinter der Kartoffelreihe, aber noch vor den Lauchstangen im Beet.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T093235Z" creationid="Ramon" creationdate="20230602T093235Z">
@@ -1466,6 +1474,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T215637Z" creationid="Ramon" creationdate="20230601T215637Z">
         <seg>Mamá me da tanta pena, que de repente me duele el estómago entero y por eso me levanto rápidamente porque quiero ir con ella ahora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Mama und ich bereiten nämlich gerade alles für unseren kleinen Bruder vor.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T165348Z" creationid="alumno" creationdate="20230602T165348Z">
+        <seg>Mamá y yo estamos preparando todo para nuestro pequeño hermano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2998,6 +3014,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Klar“, antwortet Mama und steckt dabei Windeln ins Regal über dem Wickeltisch.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T165323Z" creationid="alumno" creationdate="20230602T165323Z">
+        <seg>Claro, contestó Mamá colocando los pañales en la estantería sobre el cambiador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Klicko, wir wechseln ab!“, ruft Flo.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T083437Z" creationid="Ramon" creationdate="20230602T083437Z">
@@ -3050,6 +3074,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T091859Z" creationid="Ramon" creationdate="20230602T091859Z">
         <seg>Mamá, susurré.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Mama“, frage ich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T165151Z" creationid="alumno" creationdate="20230602T165151Z">
+        <seg>Mamá, pregunté yo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3530,6 +3562,14 @@
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230602T145237Z" creationid="Arturo" creationdate="20230602T145237Z">
         <seg>"Porque no podemos poner los cubos sucios en el baño, si no a Mamá le saldrá demasiado."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Wenn Ninja auf der Welt ist, dürfen wir ihn dann auch mal wickeln?“</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T165243Z" creationid="alumno" creationdate="20230602T165243Z">
+        <seg>Cuando nazca Ninja, ¿le podemos cambiar el pañal tambien?</seg>
       </tuv>
     </tu>
     <tu>
