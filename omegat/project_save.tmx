@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Ich nehme meinen ganzen Mut zusammen, ziehe mich am Zaun hoch und springe auf der anderen Seite ins Gras.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T085508Z" creationid="Ramon" creationdate="20230602T085508Z">
+        <seg>Con valor, escalo la valla y salto hacia el otro lado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Ich rase los wie eine Rakete und zum Glück kann ich viel schneller laufen als Flo.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T082600Z" creationid="Ramon" creationdate="20230602T082600Z">
@@ -1358,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Zum Glück rutsche ich nicht aus, weil in dieser ekelhaften Matschestinke will ich bestimmt nicht liegen!</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T085853Z" creationid="Ramon" creationdate="20230602T085853Z">
+        <seg>¡Por suerte no me resbalo, porque en esa montaña de basura no quiero estar!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>jetzt drucken</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T175546Z" creationid="Arturo" creationdate="20230601T175546Z">
@@ -1818,6 +1834,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T213839Z" creationid="Ramon" creationdate="20230601T213839Z">
         <seg>¡No mamá!, gritó Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Okay“, sagt Flo mit so einer Quetschstimme, weil sie sich nämlich jetzt schon die Nase zuhält, obwohl es bei ihr ja noch gar nicht stinkt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T085436Z" creationid="Ramon" creationdate="20230602T085436Z">
+        <seg>Ok, dice Flo con voz de pato, porque se estaba tapando la nariz, aunque ya no olía mal..</seg>
       </tuv>
     </tu>
     <tu>
