@@ -1006,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Hinter der Absperrung steht Papa und sein Kopf ist knallrot.</seg>
+      </tuv>
+      <tuv lang="es" changeid="34685" changedate="20230602T161019Z" creationid="34685" creationdate="20230602T161019Z">
+        <seg>Papá está detrás de la barrera y tiene la cabeza roja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Huskys sind Hunde, die richtig gut Schlitten ziehen können.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T204915Z" creationid="Ramon" creationdate="20230601T204915Z">
@@ -1578,6 +1586,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230602T154248Z" creationid="Ramon" creationdate="20230601T215332Z">
         <seg>Y entonces Mamá no dijo absolutamente nada, simplemente miró toda la salsa en la bombilla, se veia bastante gracioso y me tuve que reir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Und da sehe ich es auch.</seg>
+      </tuv>
+      <tuv lang="es" changeid="34685" changedate="20230602T160635Z" creationid="34685" creationdate="20230602T160635Z">
+        <seg>Y yo también lo veo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2186,6 +2202,14 @@
       </tuv>
       <tuv lang="es" changeid="34685" changedate="20230602T153859Z" creationid="34685" creationdate="20230602T153859Z">
         <seg>"Salida A 13", murmura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Bei Papa ist irgendwas!“</seg>
+      </tuv>
+      <tuv lang="es" changeid="34685" changedate="20230602T160618Z" creationid="34685" creationdate="20230602T160618Z">
+        <seg>"¡Hay algo donde Papá!"</seg>
       </tuv>
     </tu>
     <tu>
