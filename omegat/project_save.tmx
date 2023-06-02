@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Als ich zurückkomme, steht Flo ganz hinten im Garten.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T082053Z" creationid="Ramon" creationdate="20230602T082053Z">
+        <seg>Cuando vuelvo, está Flo al final del jardín</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Als wir in die Küche gekommen sind, haben Mama und Papa am Tisch gesessen und haben so komisch gelächelt.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183747Z" creationid="alumno" creationdate="20230601T183747Z">
@@ -338,6 +346,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T080935Z" creationid="Ramon" creationdate="20230602T080935Z">
         <seg>El buzón no esta directamente al lado de la casa, sino que hay que ir un rato por el puente y ahi está, para que el cartero no tenga que ir siempre hasta nuestra casa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Der Briefkasten sieht jetzt viel schöner aus als vorher, ich ärgere mich nur ein bisschen, dass ich nicht gleich zwei Schilder gebastelt habe, weil dann hätte ich an dem von Onkel Jussi auch direkt noch eins festmachen können.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T082022Z" creationid="Ramon" creationdate="20230602T082022Z">
+        <seg>El buzón se ve ahora mucho mas bonito, que pena que no haya hecho dos carteles, entonces podría haber pegado uno en el buzón del tio Jussi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -618,6 +634,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T080348Z" creationid="Ramon" creationdate="20230602T080348Z">
         <seg>Cojo una hoja grande y escribo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ich schmeiße mein Fahrrad auf die Einfahrt und flitze zu ihr.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T082119Z" creationid="Ramon" creationdate="20230602T082119Z">
+        <seg>Lanzo la bici a la entrada y corro a ella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1354,6 +1378,14 @@
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T233949Z" creationid="Arturo" creationdate="20230601T233949Z">
         <seg>"En cualquier caso, deberías usar harina de centeno", nos dijo el ecologista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Jetzt bin ich dran“, sage ich und nehme ihr die Müllkralle aus der Hand.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T082156Z" creationid="Ramon" creationdate="20230602T082156Z">
+        <seg>Me toca, le digo mientras le quito la garra de basura de la mano.</seg>
       </tuv>
     </tu>
     <tu>
