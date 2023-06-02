@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Einmal haben wir drinnen ganz alleine echten Kuchen gebacken, und da haben wir &lt;e0&gt;richtig&lt;/e0&gt; Ärger gekriegt, aber das habe ich ja schon mal erzählt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T121434Z" creationid="Arturo" creationdate="20230602T121434Z">
+        <seg>Una vez hicimos una tarta casera y nos metimos en un problema gordo, pero eso ya lo conté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Ende der Geschichte!</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230602T110602Z" creationid="Ramon" creationdate="20230602T095309Z">
@@ -1226,6 +1234,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183220Z" creationid="alumno" creationdate="20230601T183220Z">
         <seg>¡Papa y yo os queremos contar algo!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Papa will immer nicht, dass wir Chaos in der Küche machen, deshalb nehmen Flo und ich einfach alles mit in den Garten.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T120433Z" creationid="Arturo" creationdate="20230602T120433Z">
+        <seg>A Papá no le gusta que ensuciemos la cocina, así que Flo y yo lo sacamos todo al jardín.</seg>
       </tuv>
     </tu>
     <tu>
