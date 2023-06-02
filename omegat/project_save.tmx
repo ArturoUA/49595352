@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Aber zum Glück schaffe ich es, mich auf Flo draufzusetzen, und dann drücke ich ihre beiden Arme ins Gras und zische: „Gibst du auf?“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T083132Z" creationid="Ramon" creationdate="20230602T083132Z">
+        <seg>Pero por suerte logro ponerme encima de Flo y le presiono los dos brazos al césped y le digo:¿te rindes?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Als Erstes hole ich sechs Rollen Klopapier aus der Vorratskammer und die vom Halter im Bad nehme ich natürlich auch.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T075137Z" creationid="Ramon" creationdate="20230602T075137Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T182137Z" creationid="alumno" creationdate="20230601T182137Z">
         <seg>Es decir, no algo misterioso de miedo,sino algo como los regalos en Navidad donde no puedes mirar y solo puedes salir del cuarto cuando el ángel toque la campana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Also nicht jetzt natürlich, jetzt macht sie ja Mittagsschlaf.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T082854Z" creationid="Ramon" creationdate="20230602T082854Z">
+        <seg>Bueno ahora no, porque está haciendo la siesta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +426,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T211627Z" creationid="Ramon" creationdate="20230601T211627Z">
         <seg>La primera clase ha empezado hoy mas tarde, porque tenemos semana de proyectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Die ist nebenan und da arbeitet nämlich Mama.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T082839Z" creationid="Ramon" creationdate="20230602T082839Z">
+        <seg>Eso está al lado y ahi trabaja mamá.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1046,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Und deshalb springe ich auf und reiße Flo an den Haaren und sie kneift mir richtig doll in den Arm und wir kreischen beide und dann fallen wir hin und rollen durchs Gras und kämpfen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T083039Z" creationid="Ramon" creationdate="20230602T083039Z">
+        <seg>Y por eso salto sobre ella y le estiro de los pelos, ella me pellizca en el brazo, gritamos las dos y acabamos rodando por el césped peleando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Und jetzt sitze ich in der Schule und kann an überhaupt nichts anderes mehr denken als an unser Baby.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T211539Z" creationid="Ramon" creationdate="20230601T211539Z">
@@ -1618,6 +1650,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T220636Z" creationid="Ramon" creationdate="20230601T220636Z">
         <seg>¿Pero que formas son esas de hablarme? pregunta mamá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Sag mal, spinnst du?“, schreie ich und bin so wütend wie noch nie in meinem Leben.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T082933Z" creationid="Ramon" creationdate="20230602T082933Z">
+        <seg>¿Vamos a ver, estas loca? grito yo, tan enfadad como nunca en mi vida.</seg>
       </tuv>
     </tu>
     <tu>
