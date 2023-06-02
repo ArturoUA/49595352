@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Die Strickjacke und das T-Shirt und die ganzen Ordner und Zettel schiebt sie dafür einfach zur Seite und der Reißverschluss geht trotzdem noch zu.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T160047Z" creationid="alumno" creationdate="20230602T160047Z">
+        <seg>Simplemente empuja la rebeca, la camiseta, todas las carpetas y notas a un lado y la cremallera sigue cerrada..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Die erste Stunde hat heute übrigens später als sonst angefangen, weil wir Projektwoche haben.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T211627Z" creationid="Ramon" creationdate="20230601T211627Z">
@@ -792,8 +800,8 @@
       <tuv lang="de">
         <seg>Erst sind Mama und Papa irgendwie sauer, aber dann doch nicht mehr, und schließlich sagen sie, dass wir ab jetzt einfach Umweltschutzklopapier kaufen werden, weil stellt euch mal vor, das gibt es auch!</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230602T094646Z" creationid="Ramon" creationdate="20230602T094646Z">
-        <seg>Primero están mamá y papá como que enfadados, luego ya no y la final dicen que simplemente comprarán papel higiénico ambiental, porque imaginaros ¡eso existe!</seg>
+      <tuv lang="es" changeid="alumno" changedate="20230602T155713Z" creationid="Ramon" creationdate="20230602T094646Z">
+        <seg>Primero están Mamá y Papá como que enfadados, luego ya no y la final dicen que simplemente comprarán papel higiénico ambiental, porque imaginaros ¡eso existe!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1608,8 +1616,8 @@
       <tuv lang="de">
         <seg>Und dann erklärt Mama uns, dass das in der Gärtnerei gar kein richtiger Müllberg war, sondern ein Komposthaufen, und das ist was anderes.</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230602T095115Z" creationid="Ramon" creationdate="20230602T095055Z">
-        <seg>Y entonces nos explicó mama, que lo de la guardería no era una montaña de basura, sino compost y eso es otra cosa.</seg>
+      <tuv lang="es" changeid="alumno" changedate="20230602T155743Z" creationid="Ramon" creationdate="20230602T095055Z">
+        <seg>Y entonces nos explicó Mamá, que lo de la guardería no era una montaña de basura, sino compost y eso es otra cosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1648,8 +1656,8 @@
       <tuv lang="de">
         <seg>Und dann muss ich auch nicht mehr immer alle Blätter einzeln abreißen, und das finde ich gut, weil das war nämlich ganz schön viel Arbeit.</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230602T094721Z" creationid="Ramon" creationdate="20230602T094721Z">
-        <seg>Y entonces ya no tengo que arrancar todas las hojas, eso me parece bien, porque da muchoi trabajo.</seg>
+      <tuv lang="es" changeid="alumno" changedate="20230602T155724Z" creationid="Ramon" creationdate="20230602T094721Z">
+        <seg>Y entonces ya no tengo que arrancar todas las hojas, eso me parece bien, porque da mucho trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2224,8 +2232,8 @@
       <tuv lang="de">
         <seg>„Denn stell dir mal vor, Mimi, jemand schickt dir eine Einladung zum Kindergeburtstag und der Briefträger wirft sie nicht ein!“, sagt Papa, und daran hatte ich überhaupt nicht gedacht.</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230602T095000Z" creationid="Ramon" creationdate="20230602T095000Z">
-        <seg>Porque imaginaros, Mimi, que alguien te manda una carta de invitación para un cumpleaños ¡y el cartero no la mete en el buzón! dice papá y en eso nisiquiera habia pensado.</seg>
+      <tuv lang="es" changeid="alumno" changedate="20230602T155732Z" creationid="Ramon" creationdate="20230602T095000Z">
+        <seg>Porque imaginaros, Mimi, que alguien te manda una carta de invitación para un cumpleaños ¡y el cartero no la mete en el buzón! dice Papá y en eso nisiquiera habia pensado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2472,8 +2480,8 @@
       <tuv lang="de">
         <seg>„Ihr müsst den Müll also wieder zurückbringen, bevor ihr in die Wanne geht“, sagt Mama.</seg>
       </tuv>
-      <tuv lang="es" changeid="Ramon" changedate="20230602T095152Z" creationid="Ramon" creationdate="20230602T095152Z">
-        <seg>Tenéis que devolver toda la basura, antes de que entréis a la bañera, dice mamá</seg>
+      <tuv lang="es" changeid="alumno" changedate="20230602T155758Z" creationid="Ramon" creationdate="20230602T095152Z">
+        <seg>Tenéis que devolver toda la basura, antes de que entréis a la bañera, dice Mamá</seg>
       </tuv>
     </tu>
     <tu>
