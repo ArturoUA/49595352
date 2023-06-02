@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Aus einer Ecke kommt ein zweiter Uniform-Mann angerast und der erste streckt ihm das Glas entgegen, aber Papa denkt anscheinend, dass er das nehmen soll, und macht einen Schritt nach vorne und streckt die Arme aus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T162408Z" creationid="alumno" creationdate="20230602T162408Z">
+        <seg>Un segundo hombre en uniforme sale corriendo de una esquina y el primero le tiende el vaso, pero parece que papá piensa que debe cogerlo y da un paso adelante y estira los brazos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Bei uns hat heute aber keine Glocke geläutet, sondern Mama und Papa haben morgens so getuschelt und irgendwie komisch geguckt.</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T182557Z" creationid="alumno" creationdate="20230601T182557Z">
@@ -1278,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Jetzt zieht der Uniform-Mann ein Funkgerät aus der Tasche und hält es sich vor den Mund und sagt irgendwas.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T162307Z" creationid="alumno" creationdate="20230602T162307Z">
+        <seg>Ahora el hombre del uniforme saca una radio de bolsillo y se lo pone delante de la boca diciendo algo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Jetzt.</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230602T000722Z" creationid="Arturo" creationdate="20230602T000722Z">
@@ -1722,6 +1738,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230602T155724Z" creationid="Ramon" creationdate="20230602T094721Z">
         <seg>Y entonces ya no tengo que arrancar todas las hojas, eso me parece bien, porque da mucho trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Und dann passiert alles gleichzeitig.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T162324Z" creationid="alumno" creationdate="20230602T162324Z">
+        <seg>Y entonces pasó todo a la vez.</seg>
       </tuv>
     </tu>
     <tu>
