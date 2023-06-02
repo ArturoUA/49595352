@@ -966,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Draußen finde ich blöd.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T074242Z" creationid="Ramon" creationdate="20230602T074242Z">
+        <seg>Afuera me parece estúpido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Du räumst draußen im Garten auf und ich mache alle Sachen hier drinnen.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T062330Z" creationid="Ramon" creationdate="20230602T062330Z">
@@ -1138,6 +1146,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T213353Z" creationid="Ramon" creationdate="20230601T213353Z">
         <seg>Mamá, digo en la comida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Mann Flo!“, rufe ich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T074315Z" creationid="Ramon" creationdate="20230602T074315Z">
+        <seg>¡Venga va Flo! grito yo.</seg>
       </tuv>
     </tu>
     <tu>
