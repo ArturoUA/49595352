@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Mann, Mimi!“, ruft Papa, und jetzt dreht er sich doch herum, und zwar mit so viel Schwung, dass er fast vom Stuhl kippt, und er sieht richtig genervt aus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Arturo" changedate="20230602T000617Z" creationid="Arturo" creationdate="20230602T000617Z">
+        <seg>"¡Por favor, Mimi!", exclama Papá, y ahora sí, se da la vuelta con tanto ímpetu que casi se cae de la silla. Parece muy molesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Mimi!“, schreit Mama.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214817Z" creationid="Ramon" creationdate="20230601T214817Z">
