@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Die spinnt ja wohl total!!</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T082457Z" creationid="Ramon" creationdate="20230602T082457Z">
+        <seg>¡¡¡Esta completamente loca!!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Doch Flo und ich sind uns ganz sicher.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T211340Z" creationid="Ramon" creationdate="20230601T211340Z">
@@ -782,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Mit der Müllkralle.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T082434Z" creationid="Ramon" creationdate="20230602T082434Z">
+        <seg>Con la garra de basura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Neben uns ist nur noch der Hof von Onkel Jussi und Mats.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T081007Z" creationid="Ramon" creationdate="20230602T081007Z">
@@ -858,6 +874,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T075826Z" creationid="Ramon" creationdate="20230602T075826Z">
         <seg>El champú y el jabón lo puedes hacer tu, dijo el hombre de la escuela .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Und außerdem darf man nichts wegreißen.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T082334Z" creationid="Ramon" creationdate="20230602T082334Z">
+        <seg>Y además no puedes quitar nada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1150,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Aber du hast ja selber weggerissen, du Blöde!“, schreit Flo und dann rennt sie einfach weg.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T082423Z" creationid="Ramon" creationdate="20230602T082423Z">
+        <seg>Pero si tu me la has quitado, estúpida, grita Flo y slae corriendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Aber je mehr Kinder sich um die Umwelt kümmern, desto besser.“</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T212319Z" creationid="Ramon" creationdate="20230601T212319Z">
@@ -1202,6 +1234,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T213549Z" creationid="Ramon" creationdate="20230601T213549Z">
         <seg>Eso lo ha dicho el hombre en la escuela, expliqué yo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Das ist meine Müllkralle und deshalb kann ich auch darüber bestimmen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T082320Z" creationid="Ramon" creationdate="20230602T082320Z">
+        <seg>Es mi garra de basura y decido yo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1278,10 +1318,26 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Ey“, kreischt Flo und reißt sie mir sofort wieder weg.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T082226Z" creationid="Ramon" creationdate="20230602T082226Z">
+        <seg>Ey, grita Flo y me la veulve a quitar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Fliegen ist übrigens richtig umweltschädlich“, hat Flo gerufen und Mama und Papa haben genau gleichzeitig gestöhnt: „Bitte nicht!“ Und dann haben sie schnell über was anderes geredet.</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230602T002943Z" creationid="Arturo" creationdate="20230602T002644Z">
         <seg>"Por cierto, volar en avión es muy malo para el medio ambiente", dijo Flo entonces Mamá y Papá gritaron al mismo tiempo:"¡Por favor, no!" Y luego cambiaron rápidamente de tema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Flo!“, sage ich mit ganz strenger Stimme.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T082301Z" creationid="Ramon" creationdate="20230602T082301Z">
+        <seg>¡Flo!, digo con voz seria.</seg>
       </tuv>
     </tu>
     <tu>
