@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Dann dreht er sich zu uns um und dann wieder zurück, weil jetzt nämlich der Postbote mit den Armen winkt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T093151Z" creationid="Ramon" creationdate="20230602T093132Z">
+        <seg>Entonces se gira y vuelve porque ahora esta el cartero saludando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Dann reiße ich alle Blätter einzeln ab, weil wenn man nämlich zur Toilette geht, soll man nicht immer so viel Papier benutzen, das ist Verschwendung und dadurch sterben Bäume.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T075235Z" creationid="Ramon" creationdate="20230602T075235Z">
@@ -482,6 +490,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T203040Z" creationid="alumno" creationdate="20230601T184654Z">
         <seg>Él se aclaró la garganta y entonces cogió la mano de mamá y de repente tenia húmedos los ojos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Der steht ziemlich weit weg, direkt hinter der Kartoffelreihe, aber noch vor den Lauchstangen im Beet.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T093235Z" creationid="Ramon" creationdate="20230602T093235Z">
+        <seg>El cual está bastante lejos, justo depues de la línea de patatas, pero delante de los puerros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1118,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Papa rennt durch den Flur und reißt die Haustür auf.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T093003Z" creationid="Ramon" creationdate="20230602T093003Z">
+        <seg>Papá corre por el pasillo y abre la puerta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Papa und ich wollen euch etwas erzählen!“</seg>
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T183220Z" creationid="alumno" creationdate="20230601T183220Z">
@@ -1138,6 +1162,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214834Z" creationid="Ramon" creationdate="20230601T214834Z">
         <seg>Se levanta y su silla se cae hacia atrás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Stattdessen reißt er die Augen auf und zeigt auf den Hof und schnappt nach Luft.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T093051Z" creationid="Ramon" creationdate="20230602T093051Z">
+        <seg>En vez de eso abre los ojos, señala al jardín y coje aire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1330,6 +1362,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T091735Z" creationid="Ramon" creationdate="20230602T091735Z">
         <seg>Y entonces corremos a dentro estoy emocionada de ver que dicen mamá y papá..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Und dann sagt er nichts mehr, und zwar noch nicht mal Piep.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T093015Z" creationid="Ramon" creationdate="20230602T093015Z">
+        <seg>Y entonces no dice nada, ni pío.</seg>
       </tuv>
     </tu>
     <tu>
