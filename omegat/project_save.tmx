@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Die sind genau gleich.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T170011Z" creationid="alumno" creationdate="20230602T170011Z">
+        <seg>Son exactamente iguales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Die spinnt ja wohl total!!</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T082457Z" creationid="Ramon" creationdate="20230602T082457Z">
@@ -1278,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Ich renne schnell die Treppe nach unten, und dabei suche ich mir eine von den beiden Windeln aus, weil es stimmt gar nicht, dass die genau gleich sind.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T170059Z" creationid="alumno" creationdate="20230602T170059Z">
+        <seg>Bajo corriendo las escaleras, mientras escojo uno de los dos pañales, porque no es cierto que las dos son iguales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Ich schmeiße mein Fahrrad auf die Einfahrt und flitze zu ihr.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T082119Z" creationid="Ramon" creationdate="20230602T082119Z">
@@ -1754,6 +1770,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T092940Z" creationid="Ramon" creationdate="20230602T092940Z">
         <seg>Y ahi corrimos Flo y yo detrás, porque estamos curiosas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Und da gibt Mama mir sogar zwei Stück.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T165855Z" creationid="alumno" creationdate="20230602T165855Z">
+        <seg>Y entonces me da Mamá incluso dos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2590,6 +2614,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Darf ich eine Windel zum Spielen haben?“, frage ich.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T165837Z" creationid="alumno" creationdate="20230602T165837Z">
+        <seg>¿Me das un pañal para jugar? pregunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Das hat der Mann in der Schule heute gesagt“, erkläre ich.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T213549Z" creationid="Ramon" creationdate="20230601T213549Z">
@@ -2738,6 +2770,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T203249Z" creationid="Ramon" creationdate="20230601T203249Z">
         <seg>-¡¡Un poni!! gritó Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Eine für Flo, eine für dich“, sagt sie.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T165927Z" creationid="alumno" creationdate="20230602T165927Z">
+        <seg>Uno para Flo y otro para ti, dice ella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3410,6 +3450,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T213614Z" creationid="Ramon" creationdate="20230601T213614Z">
         <seg>Y además se parecía a Jesús.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Und bitte: nicht streiten.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T165939Z" creationid="alumno" creationdate="20230602T165939Z">
+        <seg>Y porfavor, no os peleeis.</seg>
       </tuv>
     </tu>
     <tu>
