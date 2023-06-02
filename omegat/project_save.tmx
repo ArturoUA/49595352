@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Eigentlich dürfen wir ja nicht an seine Arbeitssachen gehen.“</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T160407Z" creationid="alumno" creationdate="20230602T160353Z">
+        <seg>En verdad no podemostcocar sus cosas de trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Eigentlich dürfen wir sie beim Mittagsschlaf nicht wecken, aber heute ist eine Ausnahme, weil wir ja eine richtig gute Überraschung haben.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T091822Z" creationid="Ramon" creationdate="20230602T091822Z">
@@ -1710,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Und dann werden die stinkig!“ Und da hat sie natürlich recht.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T160608Z" creationid="alumno" creationdate="20230602T160608Z">
+        <seg>¡Y entonces olerán mal! Ahi tiene razón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Und darum nehmen wir nur Wasser und Blumen und dann noch Mamas Bodylotion aus dem Badezimmer, die hat Papa ihr zum Geburtstag geschenkt.</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230602T144215Z" creationid="Arturo" creationdate="20230602T144215Z">
@@ -2270,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Der kann sich ja sonst überhaupt nicht die Haare waschen!</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T160506Z" creationid="alumno" creationdate="20230602T160506Z">
+        <seg>Si no, no va a poder lavarse el pelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Die Erwachsenen verbrauchen viel zu viel Plastik und verschmutzen die Luft“, ruft er gerade.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T212151Z" creationid="Ramon" creationdate="20230601T212129Z">
@@ -2382,6 +2406,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Flo“, sage ich und beiße auf meine Unterlippe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T160147Z" creationid="alumno" creationdate="20230602T160147Z">
+        <seg>Flo, digo yo y me muerdo el labio inferior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Für die paar Stunden?</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230602T001226Z" creationid="Arturo" creationdate="20230602T001226Z">
@@ -2490,6 +2522,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T220159Z" creationid="Ramon" creationdate="20230601T220159Z">
         <seg>Tampoco sé lo que me está pasando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„Ich weiß nicht, ob Papa das so gut findet.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T160204Z" creationid="alumno" creationdate="20230602T160204Z">
+        <seg>No se si le parecerá bien a Papá.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2734,6 +2774,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>„Natürlich findet Papa das gut!“, ruft Flo.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T160434Z" creationid="alumno" creationdate="20230602T160434Z">
+        <seg>Claro que le parecerá bien a Papá, grita Flo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>„Nee“, sagt Flo.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230602T074445Z" creationid="Ramon" creationdate="20230602T074445Z">
@@ -2858,6 +2906,14 @@
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T234019Z" creationid="Arturo" creationdate="20230601T234019Z">
         <seg>"De lo contrario, no funcionará".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>„So“, murmelt Mimi und stemmt die Hände in die Hüften.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alumno" changedate="20230602T160121Z" creationid="alumno" creationdate="20230602T160121Z">
+        <seg>Asi, murmura Mimi y coloca las manos en las caderas.</seg>
       </tuv>
     </tu>
     <tu>
