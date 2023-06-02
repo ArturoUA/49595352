@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Danach flitze ich nach draußen und hole mein Fahrrad aus dem Schuppen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T080746Z" creationid="Ramon" creationdate="20230602T080746Z">
+        <seg>Luego voy corriendo afuera y cojo mi bici del cobertizo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Danach reden wir ganz lange über Naturschutz, und dann sagt der Mann, wer will, kann bei ihm jetzt für einen Euro eine Müllkralle kaufen.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T212535Z" creationid="Ramon" creationdate="20230601T212505Z">
@@ -318,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Der Briefkasten ist nicht direkt am Haus, sondern man muss ein Stück den Brückenweg entlangfahren, und da steht er dann, damit der Postbote nicht immer ganz bis zu uns kommen muss.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T080935Z" creationid="Ramon" creationdate="20230602T080935Z">
+        <seg>El buzón no esta directamente al lado de la casa, sino que hay que ir un rato por el puente y ahi está, para que el cartero no tenga que ir siempre hasta nuestra casa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Der Mann aus der Schule isst übrigens überhaupt gar nie Fleisch, hat er gesagt.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214800Z" creationid="Ramon" creationdate="20230601T214800Z">
@@ -386,6 +402,14 @@
       </tuv>
       <tuv lang="es" changeid="alumno" changedate="20230601T184508Z" creationid="alumno" creationdate="20230601T184508Z">
         <seg>Pero ahora no dije nada y Flo tampoco, sino que miramos a papá y estabábamos callados como peces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Drum herum male ich noch grüne Bäume und einen Totenkopf, der sieht richtig gefährlich aus.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T080657Z" creationid="Ramon" creationdate="20230602T080657Z">
+        <seg>Por eso dibujo arboles verdes y una calavera, asi se ve muy peligroso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -586,6 +610,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T220128Z" creationid="Ramon" creationdate="20230601T220128Z">
         <seg>Sus ojos están un poco rojos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Immer nur olle Rechnungen."</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T080619Z" creationid="Ramon" creationdate="20230602T080619Z">
+        <seg>Siempre facturas aburridas.</seg>
       </tuv>
     </tu>
     <tu>
