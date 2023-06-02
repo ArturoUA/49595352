@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Es kommt ja jeden Tag richtig viel Werbung an, zum Beispiel so langweilige Zeitungen mit Frauenanziehsachen oder mit Schaufeln aus dem Baumarkt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T080111Z" creationid="Ramon" creationdate="20230602T080111Z">
+        <seg>Porque cada día llega propaganda aburrida, como por ejemplo periódicos con cosas de mujero con palas dela ferretería.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Fast so süß wie echte Babys.</seg>
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T214727Z" creationid="Ramon" creationdate="20230601T214727Z">
@@ -566,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>In der Schule haben wir uns deshalb überlegt, dass man ein Schild auf den Briefkasten kleben kann, auf dem „Keine Werbung“ steht, weil wenn aus dem Papier keine Werbung gemacht wird, dann kann man es für wichtige Sachen benutzen, Bücher zum Beispiel.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T080312Z" creationid="Ramon" creationdate="20230602T080312Z">
+        <seg>Por eso en la escuela pensamos en que se pueden pegar pegatinas donde ponga " no anuncios" porque si no se hacen anuncios con papel, se pueden hacer para cosas importantes como libros por ejemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>In der Speisekammer finden wir leider nur normales Mehl, das ist natürlich blöd.</seg>
       </tuv>
       <tuv lang="es" changeid="Arturo" changedate="20230601T235447Z" creationid="Arturo" creationdate="20230601T235447Z">
@@ -586,6 +602,14 @@
       </tuv>
       <tuv lang="es" changeid="Ramon" changedate="20230601T210925Z" creationid="Ramon" creationdate="20230601T210925Z">
         <seg>¿No es la mejor sorpresa del mundo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Jetzt muss ich nur noch eine Sache erledigen, nämlich den Aufkleber für den Briefkasten basteln.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Ramon" changedate="20230602T075934Z" creationid="Ramon" creationdate="20230602T075934Z">
+        <seg>Ahora solo tengo que terminar una cosa, las pegatinas para el buzón.</seg>
       </tuv>
     </tu>
     <tu>
